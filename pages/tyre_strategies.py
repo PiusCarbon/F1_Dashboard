@@ -2,7 +2,6 @@ import streamlit as st
 import fastf1
 import matplotlib.pyplot as plt
 import plotly.express as px
-fastf1.Cache.enable_cache('fastf1_cache')
 
 def get_gps_of_year(year: int):
     event_schedule = fastf1.get_event_schedule(year)

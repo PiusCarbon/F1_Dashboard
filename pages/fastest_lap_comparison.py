@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import time
-fastf1.Cache.enable_cache('fastf1_cache')
 
 def get_gps_of_year(year: int):
     event_schedule = fastf1.get_event_schedule(year)

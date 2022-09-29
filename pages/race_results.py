@@ -6,7 +6,6 @@ from matplotlib import pyplot as plt
 
 st.header("Race Results")
 st.write("Welcome to the F1 Dashboard. Feel free to explore the stats of F1")
-fastf1.Cache.enable_cache('fastf1_cache')  # optional but recommended
 
 def get_gps_of_year(year: int):
     event_schedule = fastf1.get_event_schedule(year)

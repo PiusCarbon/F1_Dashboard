@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import fastf1
 import matplotlib.pyplot as plt
-fastf1.Cache.enable_cache('fastf1_cache')  # optional but recommended
 
 st.header("Did the strategy work?")
 
