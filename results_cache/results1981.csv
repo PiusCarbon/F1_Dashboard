@@ -1,0 +1,417 @@
+,Year,GP,Driver,Team,Points
+0,1981,0,Carlos Reutemann,Williams,9.0
+1,1981,0,Alan Jones,Williams,6.0
+2,1981,0,Riccardo Patrese,Arrows,4.0
+3,1981,0,Marc Surer,Ensign,3.0
+4,1981,0,Elio de Angelis,Team Lotus,2.0
+5,1981,0,Jacques Laffite,Ligier,1.0
+6,1981,0,Jean-Pierre Jarier,Ligier,0.0
+7,1981,0,John Watson,McLaren,0.0
+8,1981,0,Keke Rosberg,Fittipaldi,0.0
+9,1981,0,Patrick Tambay,Theodore,0.0
+10,1981,0,Nigel Mansell,Team Lotus,0.0
+11,1981,0,Nelson Piquet,Brabham,0.0
+12,1981,0,Ricardo Zunino,Tyrrell,0.0
+13,1981,0,Eddie Cheever,Tyrrell,0.0
+14,1981,0,Bruno Giacomelli,Alfa Romeo,0.0
+15,1981,0,Gilles Villeneuve,Ferrari,0.0
+16,1981,0,Hector Rebaque,Brabham,0.0
+17,1981,0,Alain Prost,Renault,0.0
+18,1981,0,Siegfried Stohr,Arrows,0.0
+19,1981,0,Didier Pironi,Ferrari,0.0
+20,1981,0,Andrea de Cesaris,McLaren,0.0
+21,1981,0,René Arnoux,Renault,0.0
+22,1981,0,Mario Andretti,Alfa Romeo,0.0
+23,1981,0,Chico Serra,Fittipaldi,0.0
+24,1981,0,Jan Lammers,ATS,0.0
+25,1981,0,Beppe Gabbiani,Osella,0.0
+26,1981,0,Miguel Ángel Guerra,Osella,0.0
+27,1981,0,Eliseo Salazar,Osella,0.0
+28,1981,0,Derek Daly,March,0.0
+29,1981,0,Ricardo Londoño,Ensign,0.0
+30,1981,1,Nelson Piquet,Brabham,9.0
+31,1981,1,Carlos Reutemann,Williams,6.0
+32,1981,1,Alain Prost,Renault,4.0
+33,1981,1,Alan Jones,Williams,3.0
+34,1981,1,René Arnoux,Renault,2.0
+35,1981,1,Elio de Angelis,Team Lotus,1.0
+36,1981,1,Riccardo Patrese,Arrows,0.0
+37,1981,1,Mario Andretti,Alfa Romeo,0.0
+38,1981,1,Siegfried Stohr,Arrows,0.0
+39,1981,1,Bruno Giacomelli,Alfa Romeo,0.0
+40,1981,1,Andrea de Cesaris,McLaren,0.0
+41,1981,1,Jan Lammers,ATS,0.0
+42,1981,1,Ricardo Zunino,Tyrrell,0.0
+43,1981,1,Gilles Villeneuve,Ferrari,0.0
+44,1981,1,Patrick Tambay,Theodore,0.0
+45,1981,1,John Watson,McLaren,0.0
+46,1981,1,Hector Rebaque,Brabham,0.0
+47,1981,1,Chico Serra,Fittipaldi,0.0
+48,1981,1,Jacques Laffite,Ligier,0.0
+49,1981,1,Marc Surer,Ensign,0.0
+50,1981,1,Keke Rosberg,Fittipaldi,0.0
+51,1981,1,Nigel Mansell,Team Lotus,0.0
+52,1981,1,Didier Pironi,Ferrari,0.0
+53,1981,1,Eddie Cheever,Tyrrell,0.0
+54,1981,1,Miguel Ángel Guerra,Osella,0.0
+55,1981,1,Beppe Gabbiani,Osella,0.0
+56,1981,1,Derek Daly,March,0.0
+57,1981,1,Jean-Pierre Jabouille,Ligier,0.0
+58,1981,1,Eliseo Salazar,March,0.0
+59,1981,2,Nelson Piquet,Brabham,9.0
+60,1981,2,Riccardo Patrese,Arrows,6.0
+61,1981,2,Carlos Reutemann,Williams,4.0
+62,1981,2,Hector Rebaque,Brabham,3.0
+63,1981,2,Didier Pironi,Ferrari,2.0
+64,1981,2,Andrea de Cesaris,McLaren,1.0
+65,1981,2,Gilles Villeneuve,Ferrari,0.0
+66,1981,2,René Arnoux,Renault,0.0
+67,1981,2,Marc Surer,Ensign,0.0
+68,1981,2,John Watson,McLaren,0.0
+69,1981,2,Patrick Tambay,Theodore,0.0
+70,1981,2,Alan Jones,Williams,0.0
+71,1981,2,Slim Borgudd,ATS,0.0
+72,1981,2,Jean-Pierre Jabouille,Ligier,0.0
+73,1981,2,Eliseo Salazar,March,0.0
+74,1981,2,Michele Alboreto,Tyrrell,0.0
+75,1981,2,Beppe Gabbiani,Osella,0.0
+76,1981,2,Bruno Giacomelli,Alfa Romeo,0.0
+77,1981,2,Eddie Cheever,Tyrrell,0.0
+78,1981,2,Mario Andretti,Alfa Romeo,0.0
+79,1981,2,Keke Rosberg,Fittipaldi,0.0
+80,1981,2,Jacques Laffite,Ligier,0.0
+81,1981,2,Alain Prost,Renault,0.0
+82,1981,2,Miguel Ángel Guerra,Osella,0.0
+83,1981,2,Siegfried Stohr,Arrows,0.0
+84,1981,2,Derek Daly,March,0.0
+85,1981,2,Jan Lammers,ATS,0.0
+86,1981,2,Chico Serra,Fittipaldi,0.0
+87,1981,2,Derek Warwick,Toleman,0.0
+88,1981,2,Brian Henton,Toleman,0.0
+89,1981,3,Carlos Reutemann,Williams,9.0
+90,1981,3,Jacques Laffite,Ligier,6.0
+91,1981,3,Nigel Mansell,Team Lotus,4.0
+92,1981,3,Gilles Villeneuve,Ferrari,3.0
+93,1981,3,Elio de Angelis,Team Lotus,2.0
+94,1981,3,Eddie Cheever,Tyrrell,1.0
+95,1981,3,John Watson,McLaren,0.0
+96,1981,3,Didier Pironi,Ferrari,0.0
+97,1981,3,Bruno Giacomelli,Alfa Romeo,0.0
+98,1981,3,Mario Andretti,Alfa Romeo,0.0
+99,1981,3,Marc Surer,Ensign,0.0
+100,1981,3,Michele Alboreto,Tyrrell,0.0
+101,1981,3,Piercarlo Ghinzani,Osella,0.0
+102,1981,3,Hector Rebaque,Brabham,0.0
+103,1981,3,Jean-Pierre Jabouille,Ligier,0.0
+104,1981,3,Chico Serra,Fittipaldi,0.0
+105,1981,3,Beppe Gabbiani,Osella,0.0
+106,1981,3,Alan Jones,Williams,0.0
+107,1981,3,Andrea de Cesaris,McLaren,0.0
+108,1981,3,Nelson Piquet,Brabham,0.0
+109,1981,3,Keke Rosberg,Fittipaldi,0.0
+110,1981,3,Alain Prost,Renault,0.0
+111,1981,3,Riccardo Patrese,Arrows,0.0
+112,1981,3,Siegfried Stohr,Arrows,0.0
+113,1981,3,Derek Daly,March,0.0
+114,1981,3,René Arnoux,Renault,0.0
+115,1981,3,Eliseo Salazar,March,0.0
+116,1981,3,Slim Borgudd,ATS,0.0
+117,1981,3,Patrick Tambay,Theodore,0.0
+118,1981,3,Derek Warwick,Toleman,0.0
+119,1981,4,Gilles Villeneuve,Ferrari,9.0
+120,1981,4,Alan Jones,Williams,6.0
+121,1981,4,Jacques Laffite,Ligier,4.0
+122,1981,4,Didier Pironi,Ferrari,3.0
+123,1981,4,Eddie Cheever,Tyrrell,2.0
+124,1981,4,Marc Surer,Ensign,1.0
+125,1981,4,Patrick Tambay,Theodore,0.0
+126,1981,4,Nelson Piquet,Brabham,0.0
+127,1981,4,John Watson,McLaren,0.0
+128,1981,4,Michele Alboreto,Tyrrell,0.0
+129,1981,4,Bruno Giacomelli,Alfa Romeo,0.0
+130,1981,4,Alain Prost,Renault,0.0
+131,1981,4,Carlos Reutemann,Williams,0.0
+132,1981,4,Elio de Angelis,Team Lotus,0.0
+133,1981,4,René Arnoux,Renault,0.0
+134,1981,4,Riccardo Patrese,Arrows,0.0
+135,1981,4,Nigel Mansell,Team Lotus,0.0
+136,1981,4,Siegfried Stohr,Arrows,0.0
+137,1981,4,Andrea de Cesaris,McLaren,0.0
+138,1981,4,Mario Andretti,Alfa Romeo,0.0
+139,1981,4,Keke Rosberg,Fittipaldi,0.0
+140,1981,4,Jean-Pierre Jabouille,Ligier,0.0
+141,1981,4,Hector Rebaque,Brabham,0.0
+142,1981,4,Chico Serra,Fittipaldi,0.0
+143,1981,4,Piercarlo Ghinzani,Osella,0.0
+144,1981,4,Beppe Gabbiani,Osella,0.0
+145,1981,4,Slim Borgudd,ATS,0.0
+146,1981,4,Derek Daly,March,0.0
+147,1981,4,Eliseo Salazar,March,0.0
+148,1981,4,Brian Henton,Toleman,0.0
+149,1981,5,Gilles Villeneuve,Ferrari,9.0
+150,1981,5,Jacques Laffite,Ligier,6.0
+151,1981,5,John Watson,McLaren,4.0
+152,1981,5,Carlos Reutemann,Williams,3.0
+153,1981,5,Elio de Angelis,Team Lotus,2.0
+154,1981,5,Nigel Mansell,Team Lotus,1.0
+155,1981,5,Alan Jones,Williams,0.0
+156,1981,5,Mario Andretti,Alfa Romeo,0.0
+157,1981,5,René Arnoux,Renault,0.0
+158,1981,5,Bruno Giacomelli,Alfa Romeo,0.0
+159,1981,5,Chico Serra,Fittipaldi,0.0
+160,1981,5,Keke Rosberg,Fittipaldi,0.0
+161,1981,5,Patrick Tambay,Theodore,0.0
+162,1981,5,Eliseo Salazar,Ensign,0.0
+163,1981,5,Didier Pironi,Ferrari,0.0
+164,1981,5,Derek Daly,March,0.0
+165,1981,5,Eddie Cheever,Tyrrell,0.0
+166,1981,5,Jean-Pierre Jabouille,Ligier,0.0
+167,1981,5,Hector Rebaque,Brabham,0.0
+168,1981,5,Siegfried Stohr,Arrows,0.0
+169,1981,5,Nelson Piquet,Brabham,0.0
+170,1981,5,Alain Prost,Renault,0.0
+171,1981,5,Riccardo Patrese,Arrows,0.0
+172,1981,5,Andrea de Cesaris,McLaren,0.0
+173,1981,5,Michele Alboreto,Tyrrell,0.0
+174,1981,5,Beppe Gabbiani,Osella,0.0
+175,1981,5,Slim Borgudd,ATS,0.0
+176,1981,5,Brian Henton,Toleman,0.0
+177,1981,5,Derek Warwick,Toleman,0.0
+178,1981,5,Giorgio Francia,Osella,0.0
+179,1981,6,Alain Prost,Renault,9.0
+180,1981,6,John Watson,McLaren,6.0
+181,1981,6,Nelson Piquet,Brabham,4.0
+182,1981,6,René Arnoux,Renault,3.0
+183,1981,6,Didier Pironi,Ferrari,2.0
+184,1981,6,Elio de Angelis,Team Lotus,1.0
+185,1981,6,Nigel Mansell,Team Lotus,0.0
+186,1981,6,Mario Andretti,Alfa Romeo,0.0
+187,1981,6,Hector Rebaque,Brabham,0.0
+188,1981,6,Carlos Reutemann,Williams,0.0
+189,1981,6,Andrea de Cesaris,McLaren,0.0
+190,1981,6,Marc Surer,Theodore,0.0
+191,1981,6,Eddie Cheever,Tyrrell,0.0
+192,1981,6,Riccardo Patrese,Arrows,0.0
+193,1981,6,Bruno Giacomelli,Alfa Romeo,0.0
+194,1981,6,Michele Alboreto,Tyrrell,0.0
+195,1981,6,Alan Jones,Williams,0.0
+196,1981,6,Jacques Laffite,Ligier,0.0
+197,1981,6,Derek Daly,March,0.0
+198,1981,6,Gilles Villeneuve,Ferrari,0.0
+199,1981,6,Patrick Tambay,Ligier,0.0
+200,1981,6,Keke Rosberg,Fittipaldi,0.0
+201,1981,6,Eliseo Salazar,Ensign,0.0
+202,1981,6,Chico Serra,Fittipaldi,0.0
+203,1981,6,Siegfried Stohr,Arrows,0.0
+204,1981,6,Brian Henton,Toleman,0.0
+205,1981,6,Slim Borgudd,ATS,0.0
+206,1981,6,Beppe Gabbiani,Osella,0.0
+207,1981,6,Derek Warwick,Toleman,0.0
+208,1981,7,John Watson,McLaren,9.0
+209,1981,7,Carlos Reutemann,Williams,6.0
+210,1981,7,Jacques Laffite,Ligier,4.0
+211,1981,7,Eddie Cheever,Tyrrell,3.0
+212,1981,7,Hector Rebaque,Brabham,2.0
+213,1981,7,Slim Borgudd,ATS,1.0
+214,1981,7,Derek Daly,March,0.0
+215,1981,7,Jean-Pierre Jarier,Osella,0.0
+216,1981,7,René Arnoux,Renault,0.0
+217,1981,7,Riccardo Patrese,Arrows,0.0
+218,1981,7,Marc Surer,Theodore,0.0
+219,1981,7,Mario Andretti,Alfa Romeo,0.0
+220,1981,7,Keke Rosberg,Fittipaldi,0.0
+221,1981,7,Elio de Angelis,Team Lotus,0.0
+222,1981,7,Alain Prost,Renault,0.0
+223,1981,7,Patrick Tambay,Ligier,0.0
+224,1981,7,Didier Pironi,Ferrari,0.0
+225,1981,7,Nelson Piquet,Brabham,0.0
+226,1981,7,Bruno Giacomelli,Alfa Romeo,0.0
+227,1981,7,Gilles Villeneuve,Ferrari,0.0
+228,1981,7,Alan Jones,Williams,0.0
+229,1981,7,Andrea de Cesaris,McLaren,0.0
+230,1981,7,Michele Alboreto,Tyrrell,0.0
+231,1981,7,Siegfried Stohr,Arrows,0.0
+232,1981,7,Chico Serra,Fittipaldi,0.0
+233,1981,7,Brian Henton,Toleman,0.0
+234,1981,7,Nigel Mansell,Team Lotus,0.0
+235,1981,7,Eliseo Salazar,Ensign,0.0
+236,1981,7,Derek Warwick,Toleman,0.0
+237,1981,7,Beppe Gabbiani,Osella,0.0
+238,1981,8,Nelson Piquet,Brabham,9.0
+239,1981,8,Alain Prost,Renault,6.0
+240,1981,8,Jacques Laffite,Ligier,4.0
+241,1981,8,Hector Rebaque,Brabham,3.0
+242,1981,8,Eddie Cheever,Tyrrell,2.0
+243,1981,8,John Watson,McLaren,1.0
+244,1981,8,Elio de Angelis,Team Lotus,0.0
+245,1981,8,Jean-Pierre Jarier,Osella,0.0
+246,1981,8,Mario Andretti,Alfa Romeo,0.0
+247,1981,8,Gilles Villeneuve,Ferrari,0.0
+248,1981,8,Alan Jones,Williams,0.0
+249,1981,8,Siegfried Stohr,Arrows,0.0
+250,1981,8,René Arnoux,Renault,0.0
+251,1981,8,Marc Surer,Theodore,0.0
+252,1981,8,Bruno Giacomelli,Alfa Romeo,0.0
+253,1981,8,Eliseo Salazar,Ensign,0.0
+254,1981,8,Slim Borgudd,ATS,0.0
+255,1981,8,Carlos Reutemann,Williams,0.0
+256,1981,8,Riccardo Patrese,Arrows,0.0
+257,1981,8,Patrick Tambay,Ligier,0.0
+258,1981,8,Derek Daly,March,0.0
+259,1981,8,Nigel Mansell,Team Lotus,0.0
+260,1981,8,Andrea de Cesaris,McLaren,0.0
+261,1981,8,Didier Pironi,Ferrari,0.0
+262,1981,8,Keke Rosberg,Fittipaldi,0.0
+263,1981,8,Brian Henton,Toleman,0.0
+264,1981,8,Beppe Gabbiani,Osella,0.0
+265,1981,8,Derek Warwick,Toleman,0.0
+266,1981,8,Michele Alboreto,Tyrrell,0.0
+267,1981,8,Chico Serra,Fittipaldi,0.0
+268,1981,9,Jacques Laffite,Ligier,9.0
+269,1981,9,René Arnoux,Renault,6.0
+270,1981,9,Nelson Piquet,Brabham,4.0
+271,1981,9,Alan Jones,Williams,3.0
+272,1981,9,Carlos Reutemann,Williams,2.0
+273,1981,9,John Watson,McLaren,1.0
+274,1981,9,Elio de Angelis,Team Lotus,0.0
+275,1981,9,Andrea de Cesaris,McLaren,0.0
+276,1981,9,Didier Pironi,Ferrari,0.0
+277,1981,9,Jean-Pierre Jarier,Osella,0.0
+278,1981,9,Derek Daly,March,0.0
+279,1981,9,Mario Andretti,Alfa Romeo,0.0
+280,1981,9,Slim Borgudd,ATS,0.0
+281,1981,9,Riccardo Patrese,Arrows,0.0
+282,1981,9,Eliseo Salazar,Ensign,0.0
+283,1981,9,Michele Alboreto,Tyrrell,0.0
+284,1981,9,Bruno Giacomelli,Alfa Romeo,0.0
+285,1981,9,Hector Rebaque,Brabham,0.0
+286,1981,9,Siegfried Stohr,Arrows,0.0
+287,1981,9,Alain Prost,Renault,0.0
+288,1981,9,Patrick Tambay,Ligier,0.0
+289,1981,9,Nigel Mansell,Team Lotus,0.0
+290,1981,9,Gilles Villeneuve,Ferrari,0.0
+291,1981,9,Marc Surer,Theodore,0.0
+292,1981,9,Eddie Cheever,Tyrrell,0.0
+293,1981,9,Derek Warwick,Toleman,0.0
+294,1981,9,Brian Henton,Toleman,0.0
+295,1981,9,Beppe Gabbiani,Osella,0.0
+296,1981,10,Alain Prost,Renault,9.0
+297,1981,10,Nelson Piquet,Brabham,6.0
+298,1981,10,Alan Jones,Williams,4.0
+299,1981,10,Hector Rebaque,Brabham,3.0
+300,1981,10,Elio de Angelis,Team Lotus,2.0
+301,1981,10,Eliseo Salazar,Ensign,1.0
+302,1981,10,Siegfried Stohr,Arrows,0.0
+303,1981,10,Marc Surer,Theodore,0.0
+304,1981,10,Michele Alboreto,Tyrrell,0.0
+305,1981,10,Slim Borgudd,ATS,0.0
+306,1981,10,Mario Andretti,Alfa Romeo,0.0
+307,1981,10,John Watson,McLaren,0.0
+308,1981,10,Eddie Cheever,Tyrrell,0.0
+309,1981,10,Jean-Pierre Jarier,Osella,0.0
+310,1981,10,René Arnoux,Renault,0.0
+311,1981,10,Bruno Giacomelli,Alfa Romeo,0.0
+312,1981,10,Jacques Laffite,Ligier,0.0
+313,1981,10,Carlos Reutemann,Williams,0.0
+314,1981,10,Riccardo Patrese,Arrows,0.0
+315,1981,10,Derek Daly,March,0.0
+316,1981,10,Didier Pironi,Ferrari,0.0
+317,1981,10,Nigel Mansell,Team Lotus,0.0
+318,1981,10,Patrick Tambay,Ligier,0.0
+319,1981,10,Gilles Villeneuve,Ferrari,0.0
+320,1981,10,Andrea de Cesaris,McLaren,0.0
+321,1981,10,Brian Henton,Toleman,0.0
+322,1981,10,Keke Rosberg,Fittipaldi,0.0
+323,1981,10,Chico Serra,Fittipaldi,0.0
+324,1981,10,Beppe Gabbiani,Osella,0.0
+325,1981,10,Derek Warwick,Toleman,0.0
+326,1981,11,Alain Prost,Renault,9.0
+327,1981,11,Alan Jones,Williams,6.0
+328,1981,11,Carlos Reutemann,Williams,4.0
+329,1981,11,Elio de Angelis,Team Lotus,3.0
+330,1981,11,Didier Pironi,Ferrari,2.0
+331,1981,11,Nelson Piquet,Brabham,1.0
+332,1981,11,Andrea de Cesaris,McLaren,0.0
+333,1981,11,Bruno Giacomelli,Alfa Romeo,0.0
+334,1981,11,Jean-Pierre Jarier,Osella,0.0
+335,1981,11,Brian Henton,Toleman,0.0
+336,1981,11,Mario Andretti,Alfa Romeo,0.0
+337,1981,11,Derek Daly,March,0.0
+338,1981,11,Patrick Tambay,Ligier,0.0
+339,1981,11,Nigel Mansell,Team Lotus,0.0
+340,1981,11,John Watson,McLaren,0.0
+341,1981,11,Riccardo Patrese,Arrows,0.0
+342,1981,11,Michele Alboreto,Tyrrell,0.0
+343,1981,11,Eliseo Salazar,Ensign,0.0
+344,1981,11,René Arnoux,Renault,0.0
+345,1981,11,Jacques Laffite,Ligier,0.0
+346,1981,11,Eddie Cheever,Tyrrell,0.0
+347,1981,11,Slim Borgudd,ATS,0.0
+348,1981,11,Gilles Villeneuve,Ferrari,0.0
+349,1981,11,Hector Rebaque,Brabham,0.0
+350,1981,11,Marc Surer,Theodore,0.0
+351,1981,11,Beppe Gabbiani,Osella,0.0
+352,1981,11,Derek Warwick,Toleman,0.0
+353,1981,11,Siegfried Stohr,Arrows,0.0
+354,1981,11,Keke Rosberg,Fittipaldi,0.0
+355,1981,11,Chico Serra,Fittipaldi,0.0
+356,1981,12,Jacques Laffite,Ligier,9.0
+357,1981,12,John Watson,McLaren,6.0
+358,1981,12,Gilles Villeneuve,Ferrari,4.0
+359,1981,12,Bruno Giacomelli,Alfa Romeo,3.0
+360,1981,12,Nelson Piquet,Brabham,2.0
+361,1981,12,Elio de Angelis,Team Lotus,1.0
+362,1981,12,Mario Andretti,Alfa Romeo,0.0
+363,1981,12,Derek Daly,March,0.0
+364,1981,12,Marc Surer,Theodore,0.0
+365,1981,12,Carlos Reutemann,Williams,0.0
+366,1981,12,Michele Alboreto,Tyrrell,0.0
+367,1981,12,Eddie Cheever,Tyrrell,0.0
+368,1981,12,Andrea de Cesaris,McLaren,0.0
+369,1981,12,Alain Prost,Renault,0.0
+370,1981,12,Nigel Mansell,Team Lotus,0.0
+371,1981,12,Slim Borgudd,ATS,0.0
+372,1981,12,Hector Rebaque,Brabham,0.0
+373,1981,12,Jean-Pierre Jarier,Osella,0.0
+374,1981,12,Alan Jones,Williams,0.0
+375,1981,12,Didier Pironi,Ferrari,0.0
+376,1981,12,Eliseo Salazar,Ensign,0.0
+377,1981,12,Patrick Tambay,Ligier,0.0
+378,1981,12,Riccardo Patrese,Arrows,0.0
+379,1981,12,René Arnoux,Renault,0.0
+380,1981,12,Keke Rosberg,Fittipaldi,0.0
+381,1981,12,Chico Serra,Fittipaldi,0.0
+382,1981,12,Brian Henton,Toleman,0.0
+383,1981,12,Jacques Villeneuve Sr.,Arrows,0.0
+384,1981,12,Derek Warwick,Toleman,0.0
+385,1981,12,Beppe Gabbiani,Osella,0.0
+386,1981,13,Alan Jones,Williams,9.0
+387,1981,13,Alain Prost,Renault,6.0
+388,1981,13,Bruno Giacomelli,Alfa Romeo,4.0
+389,1981,13,Nigel Mansell,Team Lotus,3.0
+390,1981,13,Nelson Piquet,Brabham,2.0
+391,1981,13,Jacques Laffite,Ligier,1.0
+392,1981,13,John Watson,McLaren,0.0
+393,1981,13,Carlos Reutemann,Williams,0.0
+394,1981,13,Didier Pironi,Ferrari,0.0
+395,1981,13,Keke Rosberg,Fittipaldi,0.0
+396,1981,13,Riccardo Patrese,Arrows,0.0
+397,1981,13,Andrea de Cesaris,McLaren,0.0
+398,1981,13,Michele Alboreto,Tyrrell,0.0
+399,1981,13,Eliseo Salazar,Ensign,0.0
+400,1981,13,Derek Warwick,Toleman,0.0
+401,1981,13,Mario Andretti,Alfa Romeo,0.0
+402,1981,13,Gilles Villeneuve,Ferrari,0.0
+403,1981,13,Hector Rebaque,Brabham,0.0
+404,1981,13,Marc Surer,Theodore,0.0
+405,1981,13,Eddie Cheever,Tyrrell,0.0
+406,1981,13,René Arnoux,Renault,0.0
+407,1981,13,Patrick Tambay,Ligier,0.0
+408,1981,13,Elio de Angelis,Team Lotus,0.0
+409,1981,13,Jean-Pierre Jarier,Osella,0.0
+410,1981,13,Slim Borgudd,ATS,0.0
+411,1981,13,Chico Serra,Fittipaldi,0.0
+412,1981,13,Derek Daly,March,0.0
+413,1981,13,Jacques Villeneuve Sr.,Arrows,0.0
+414,1981,13,Brian Henton,Toleman,0.0
+415,1981,13,Beppe Gabbiani,Osella,0.0

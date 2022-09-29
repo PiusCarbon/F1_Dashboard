@@ -1,0 +1,439 @@
+,Year,GP,Driver,Team,Points
+0,1978,0,Carlos Reutemann,Ferrari,9.0
+1,1978,0,Emerson Fittipaldi,Fittipaldi,6.0
+2,1978,0,Niki Lauda,Brabham,4.0
+3,1978,0,Mario Andretti,Team Lotus,3.0
+4,1978,0,Clay Regazzoni,Shadow,2.0
+5,1978,0,Didier Pironi,Tyrrell,1.0
+6,1978,0,Jochen Mass,ATS,0.0
+7,1978,0,John Watson,Brabham,0.0
+8,1978,0,Jacques Laffite,Ligier,0.0
+9,1978,0,Riccardo Patrese,Arrows,0.0
+10,1978,0,Alan Jones,Williams,0.0
+11,1978,0,Hector Rebaque,Team Lotus,0.0
+12,1978,0,Gilles Villeneuve,Ferrari,0.0
+13,1978,0,Patrick Tambay,McLaren,0.0
+14,1978,0,James Hunt,McLaren,0.0
+15,1978,0,Hans-Joachim Stuck,Shadow,0.0
+16,1978,0,Jody Scheckter,Wolf,0.0
+17,1978,0,Ronnie Peterson,Team Lotus,0.0
+18,1978,0,Danny Ongais,Ensign,0.0
+19,1978,0,Brett Lunger,McLaren,0.0
+20,1978,0,Patrick Depailler,Tyrrell,0.0
+21,1978,0,Rupert Keegan,Surtees,0.0
+22,1978,0,Lamberto Leoni,Ensign,0.0
+23,1978,0,Jean-Pierre Jarier,ATS,0.0
+24,1978,0,Arturo Merzario,Merzario,0.0
+25,1978,0,Eddie Cheever,Theodore,0.0
+26,1978,0,Vittorio Brambilla,Surtees,0.0
+27,1978,0,Divina Galica,Hesketh,0.0
+28,1978,1,Ronnie Peterson,Team Lotus,9.0
+29,1978,1,Patrick Depailler,Tyrrell,6.0
+30,1978,1,John Watson,Brabham,4.0
+31,1978,1,Alan Jones,Williams,3.0
+32,1978,1,Jacques Laffite,Ligier,2.0
+33,1978,1,Didier Pironi,Tyrrell,1.0
+34,1978,1,Mario Andretti,Team Lotus,0.0
+35,1978,1,Jean-Pierre Jarier,ATS,0.0
+36,1978,1,Rolf Stommelen,Arrows,0.0
+37,1978,1,Hector Rebaque,Team Lotus,0.0
+38,1978,1,Brett Lunger,McLaren,0.0
+39,1978,1,Vittorio Brambilla,Surtees,0.0
+40,1978,1,Riccardo Patrese,Arrows,0.0
+41,1978,1,Jody Scheckter,Wolf,0.0
+42,1978,1,Patrick Tambay,McLaren,0.0
+43,1978,1,Gilles Villeneuve,Ferrari,0.0
+44,1978,1,Carlos Reutemann,Ferrari,0.0
+45,1978,1,Niki Lauda,Brabham,0.0
+46,1978,1,Rupert Keegan,Surtees,0.0
+47,1978,1,Jochen Mass,ATS,0.0
+48,1978,1,Arturo Merzario,Merzario,0.0
+49,1978,1,Jean-Pierre Jabouille,Renault,0.0
+50,1978,1,Keke Rosberg,Theodore,0.0
+51,1978,1,Emerson Fittipaldi,Fittipaldi,0.0
+52,1978,1,Eddie Cheever,Hesketh,0.0
+53,1978,1,James Hunt,McLaren,0.0
+54,1978,1,René Arnoux,Martini,0.0
+55,1978,1,Clay Regazzoni,Shadow,0.0
+56,1978,1,Lamberto Leoni,Ensign,0.0
+57,1978,1,Hans-Joachim Stuck,Shadow,0.0
+58,1978,2,Carlos Reutemann,Ferrari,9.0
+59,1978,2,Mario Andretti,Team Lotus,6.0
+60,1978,2,Patrick Depailler,Tyrrell,4.0
+61,1978,2,Ronnie Peterson,Team Lotus,3.0
+62,1978,2,Jacques Laffite,Ligier,2.0
+63,1978,2,Riccardo Patrese,Arrows,1.0
+64,1978,2,Alan Jones,Williams,0.0
+65,1978,2,Emerson Fittipaldi,Fittipaldi,0.0
+66,1978,2,Rolf Stommelen,Arrows,0.0
+67,1978,2,Clay Regazzoni,Shadow,0.0
+68,1978,2,Jean-Pierre Jarier,ATS,0.0
+69,1978,2,Patrick Tambay,McLaren,0.0
+70,1978,2,Jody Scheckter,Wolf,0.0
+71,1978,2,Vittorio Brambilla,Surtees,0.0
+72,1978,2,Jean-Pierre Jabouille,Renault,0.0
+73,1978,2,Gilles Villeneuve,Ferrari,0.0
+74,1978,2,Niki Lauda,Brabham,0.0
+75,1978,2,Didier Pironi,Tyrrell,0.0
+76,1978,2,Arturo Merzario,Merzario,0.0
+77,1978,2,Jochen Mass,ATS,0.0
+78,1978,2,John Watson,Brabham,0.0
+79,1978,2,James Hunt,McLaren,0.0
+80,1978,2,Rupert Keegan,Surtees,0.0
+81,1978,2,Hans-Joachim Stuck,Shadow,0.0
+82,1978,2,Brett Lunger,McLaren,0.0
+83,1978,2,Lamberto Leoni,Ensign,0.0
+84,1978,2,Keke Rosberg,Theodore,0.0
+85,1978,2,Hector Rebaque,Team Lotus,0.0
+86,1978,2,Danny Ongais,Shadow,0.0
+87,1978,2,Derek Daly,Hesketh,0.0
+88,1978,3,Patrick Depailler,Tyrrell,9.0
+89,1978,3,Niki Lauda,Brabham,6.0
+90,1978,3,Jody Scheckter,Wolf,4.0
+91,1978,3,John Watson,Brabham,3.0
+92,1978,3,Didier Pironi,Tyrrell,2.0
+93,1978,3,Riccardo Patrese,Arrows,1.0
+94,1978,3,Patrick Tambay,McLaren,0.0
+95,1978,3,Carlos Reutemann,Ferrari,0.0
+96,1978,3,Emerson Fittipaldi,Fittipaldi,0.0
+97,1978,3,Jean-Pierre Jabouille,Renault,0.0
+98,1978,3,Mario Andretti,Team Lotus,0.0
+99,1978,3,Gilles Villeneuve,Ferrari,0.0
+100,1978,3,Ronnie Peterson,Team Lotus,0.0
+101,1978,3,James Hunt,McLaren,0.0
+102,1978,3,Rolf Stommelen,Arrows,0.0
+103,1978,3,Alan Jones,Williams,0.0
+104,1978,3,Jacky Ickx,Ensign,0.0
+105,1978,3,Hans-Joachim Stuck,Shadow,0.0
+106,1978,3,Jacques Laffite,Ligier,0.0
+107,1978,3,Rupert Keegan,Surtees,0.0
+108,1978,3,Jochen Mass,ATS,0.0
+109,1978,3,Clay Regazzoni,Shadow,0.0
+110,1978,3,Jean-Pierre Jarier,ATS,0.0
+111,1978,3,Vittorio Brambilla,Surtees,0.0
+112,1978,3,Keke Rosberg,Theodore,0.0
+113,1978,3,Derek Daly,Hesketh,0.0
+114,1978,3,René Arnoux,Martini,0.0
+115,1978,3,Hector Rebaque,Team Lotus,0.0
+116,1978,3,Brett Lunger,McLaren,0.0
+117,1978,3,Arturo Merzario,Merzario,0.0
+118,1978,4,Mario Andretti,Team Lotus,9.0
+119,1978,4,Ronnie Peterson,Team Lotus,6.0
+120,1978,4,Carlos Reutemann,Ferrari,4.0
+121,1978,4,Gilles Villeneuve,Ferrari,3.0
+122,1978,4,Jacques Laffite,Ligier,2.0
+123,1978,4,Didier Pironi,Tyrrell,1.0
+124,1978,4,Brett Lunger,McLaren,0.0
+125,1978,4,Bruno Giacomelli,McLaren,0.0
+126,1978,4,René Arnoux,Martini,0.0
+127,1978,4,Alan Jones,Williams,0.0
+128,1978,4,Jochen Mass,ATS,0.0
+129,1978,4,Jacky Ickx,Ensign,0.0
+130,1978,4,Vittorio Brambilla,Surtees,0.0
+131,1978,4,Hans-Joachim Stuck,Shadow,0.0
+132,1978,4,Jean-Pierre Jabouille,Renault,0.0
+133,1978,4,Jody Scheckter,Wolf,0.0
+134,1978,4,Patrick Depailler,Tyrrell,0.0
+135,1978,4,Clay Regazzoni,Shadow,0.0
+136,1978,4,Riccardo Patrese,Arrows,0.0
+137,1978,4,Rolf Stommelen,Arrows,0.0
+138,1978,4,John Watson,Brabham,0.0
+139,1978,4,Niki Lauda,Brabham,0.0
+140,1978,4,James Hunt,McLaren,0.0
+141,1978,4,Emerson Fittipaldi,Fittipaldi,0.0
+142,1978,4,Rupert Keegan,Surtees,0.0
+143,1978,4,Derek Daly,Hesketh,0.0
+144,1978,4,Keke Rosberg,Theodore,0.0
+145,1978,4,Alberto Colombo,ATS,0.0
+146,1978,4,Hector Rebaque,Team Lotus,0.0
+147,1978,4,Arturo Merzario,Merzario,0.0
+148,1978,5,Mario Andretti,Team Lotus,9.0
+149,1978,5,Ronnie Peterson,Team Lotus,6.0
+150,1978,5,Jacques Laffite,Ligier,4.0
+151,1978,5,Jody Scheckter,Wolf,3.0
+152,1978,5,John Watson,Brabham,2.0
+153,1978,5,James Hunt,McLaren,1.0
+154,1978,5,Vittorio Brambilla,Surtees,0.0
+155,1978,5,Alan Jones,Williams,0.0
+156,1978,5,Jochen Mass,ATS,0.0
+157,1978,5,Gilles Villeneuve,Ferrari,0.0
+158,1978,5,Rupert Keegan,Surtees,0.0
+159,1978,5,Didier Pironi,Tyrrell,0.0
+160,1978,5,Jean-Pierre Jabouille,Renault,0.0
+161,1978,5,Rolf Stommelen,Arrows,0.0
+162,1978,5,Clay Regazzoni,Shadow,0.0
+163,1978,5,Jacky Ickx,Ensign,0.0
+164,1978,5,Emerson Fittipaldi,Fittipaldi,0.0
+165,1978,5,Carlos Reutemann,Ferrari,0.0
+166,1978,5,Niki Lauda,Brabham,0.0
+167,1978,5,Patrick Depailler,Tyrrell,0.0
+168,1978,5,Hans-Joachim Stuck,Shadow,0.0
+169,1978,5,Riccardo Patrese,Arrows,0.0
+170,1978,5,Hector Rebaque,Team Lotus,0.0
+171,1978,5,Patrick Tambay,McLaren,0.0
+172,1978,5,Arturo Merzario,Merzario,0.0
+173,1978,5,Brett Lunger,McLaren,0.0
+174,1978,5,Emilio de Villota,McLaren,0.0
+175,1978,5,Alberto Colombo,ATS,0.0
+176,1978,5,Keke Rosberg,Theodore,0.0
+177,1978,6,Niki Lauda,Brabham,9.0
+178,1978,6,Riccardo Patrese,Arrows,6.0
+179,1978,6,Ronnie Peterson,Team Lotus,4.0
+180,1978,6,Patrick Tambay,McLaren,3.0
+181,1978,6,Clay Regazzoni,Shadow,2.0
+182,1978,6,Emerson Fittipaldi,Fittipaldi,1.0
+183,1978,6,Jacques Laffite,Ligier,0.0
+184,1978,6,James Hunt,McLaren,0.0
+185,1978,6,Gilles Villeneuve,Ferrari,0.0
+186,1978,6,Carlos Reutemann,Ferrari,0.0
+187,1978,6,Hans-Joachim Stuck,Shadow,0.0
+188,1978,6,Hector Rebaque,Team Lotus,0.0
+189,1978,6,Jochen Mass,ATS,0.0
+190,1978,6,Rolf Stommelen,Arrows,0.0
+191,1978,6,Keke Rosberg,ATS,0.0
+192,1978,6,Arturo Merzario,Merzario,0.0
+193,1978,6,Mario Andretti,Team Lotus,0.0
+194,1978,6,Alan Jones,Williams,0.0
+195,1978,6,Patrick Depailler,Tyrrell,0.0
+196,1978,6,Jean-Pierre Jabouille,Renault,0.0
+197,1978,6,John Watson,Brabham,0.0
+198,1978,6,Jody Scheckter,Wolf,0.0
+199,1978,6,Didier Pironi,Tyrrell,0.0
+200,1978,6,Vittorio Brambilla,Surtees,0.0
+201,1978,6,Rupert Keegan,Surtees,0.0
+202,1978,6,Brett Lunger,McLaren,0.0
+203,1978,6,Jacky Ickx,Ensign,0.0
+204,1978,7,Mario Andretti,Team Lotus,9.0
+205,1978,7,Ronnie Peterson,Team Lotus,6.0
+206,1978,7,James Hunt,McLaren,4.0
+207,1978,7,John Watson,Brabham,3.0
+208,1978,7,Alan Jones,Williams,2.0
+209,1978,7,Jody Scheckter,Wolf,1.0
+210,1978,7,Jacques Laffite,Ligier,0.0
+211,1978,7,Riccardo Patrese,Arrows,0.0
+212,1978,7,Patrick Tambay,McLaren,0.0
+213,1978,7,Didier Pironi,Tyrrell,0.0
+214,1978,7,Hans-Joachim Stuck,Shadow,0.0
+215,1978,7,Gilles Villeneuve,Ferrari,0.0
+216,1978,7,Jochen Mass,ATS,0.0
+217,1978,7,René Arnoux,Martini,0.0
+218,1978,7,Rolf Stommelen,Arrows,0.0
+219,1978,7,Keke Rosberg,ATS,0.0
+220,1978,7,Vittorio Brambilla,Surtees,0.0
+221,1978,7,Carlos Reutemann,Ferrari,0.0
+222,1978,7,Brett Lunger,McLaren,0.0
+223,1978,7,Emerson Fittipaldi,Fittipaldi,0.0
+224,1978,7,Rupert Keegan,Surtees,0.0
+225,1978,7,Bruno Giacomelli,McLaren,0.0
+226,1978,7,Niki Lauda,Brabham,0.0
+227,1978,7,Patrick Depailler,Tyrrell,0.0
+228,1978,7,Clay Regazzoni,Shadow,0.0
+229,1978,7,Jean-Pierre Jabouille,Renault,0.0
+230,1978,7,Arturo Merzario,Merzario,0.0
+231,1978,7,Derek Daly,Ensign,0.0
+232,1978,7,Hector Rebaque,Team Lotus,0.0
+233,1978,8,Carlos Reutemann,Ferrari,9.0
+234,1978,8,Niki Lauda,Brabham,6.0
+235,1978,8,John Watson,Brabham,4.0
+236,1978,8,Patrick Depailler,Tyrrell,3.0
+237,1978,8,Hans-Joachim Stuck,Shadow,2.0
+238,1978,8,Patrick Tambay,McLaren,1.0
+239,1978,8,Bruno Giacomelli,McLaren,0.0
+240,1978,8,Brett Lunger,McLaren,0.0
+241,1978,8,Vittorio Brambilla,Surtees,0.0
+242,1978,8,Jacques Laffite,Ligier,0.0
+243,1978,8,Jochen Mass,ATS,0.0
+244,1978,8,Keke Rosberg,ATS,0.0
+245,1978,8,Clay Regazzoni,Shadow,0.0
+246,1978,8,Jean-Pierre Jabouille,Renault,0.0
+247,1978,8,Riccardo Patrese,Arrows,0.0
+248,1978,8,Didier Pironi,Tyrrell,0.0
+249,1978,8,Jody Scheckter,Wolf,0.0
+250,1978,8,Emerson Fittipaldi,Fittipaldi,0.0
+251,1978,8,Arturo Merzario,Merzario,0.0
+252,1978,8,Derek Daly,Ensign,0.0
+253,1978,8,Mario Andretti,Team Lotus,0.0
+254,1978,8,Alan Jones,Williams,0.0
+255,1978,8,Gilles Villeneuve,Ferrari,0.0
+256,1978,8,Hector Rebaque,Team Lotus,0.0
+257,1978,8,James Hunt,McLaren,0.0
+258,1978,8,Ronnie Peterson,Team Lotus,0.0
+259,1978,8,Rupert Keegan,Surtees,0.0
+260,1978,8,Rolf Stommelen,Arrows,0.0
+261,1978,8,Geoff Lees,Ensign,0.0
+262,1978,8,Tony Trimmer,McLaren,0.0
+263,1978,9,Mario Andretti,Team Lotus,9.0
+264,1978,9,Jody Scheckter,Wolf,6.0
+265,1978,9,Jacques Laffite,Ligier,4.0
+266,1978,9,Emerson Fittipaldi,Fittipaldi,3.0
+267,1978,9,Didier Pironi,Tyrrell,2.0
+268,1978,9,Hector Rebaque,Team Lotus,1.0
+269,1978,9,John Watson,Brabham,0.0
+270,1978,9,Gilles Villeneuve,Ferrari,0.0
+271,1978,9,Riccardo Patrese,Arrows,0.0
+272,1978,9,Keke Rosberg,Wolf,0.0
+273,1978,9,Harald Ertl,Ensign,0.0
+274,1978,9,Rolf Stommelen,Arrows,0.0
+275,1978,9,Ronnie Peterson,Team Lotus,0.0
+276,1978,9,James Hunt,McLaren,0.0
+277,1978,9,Alan Jones,Williams,0.0
+278,1978,9,Nelson Piquet,Ensign,0.0
+279,1978,9,Vittorio Brambilla,Surtees,0.0
+280,1978,9,Patrick Tambay,McLaren,0.0
+281,1978,9,Carlos Reutemann,Ferrari,0.0
+282,1978,9,Niki Lauda,Brabham,0.0
+283,1978,9,Jean-Pierre Jabouille,Renault,0.0
+284,1978,9,Jochen Mass,ATS,0.0
+285,1978,9,Hans-Joachim Stuck,Shadow,0.0
+286,1978,9,Patrick Depailler,Tyrrell,0.0
+287,1978,9,Clay Regazzoni,Shadow,0.0
+288,1978,9,Jean-Pierre Jarier,ATS,0.0
+289,1978,9,Rupert Keegan,Surtees,0.0
+290,1978,9,Arturo Merzario,Merzario,0.0
+291,1978,9,René Arnoux,Martini,0.0
+292,1978,9,Brett Lunger,McLaren,0.0
+293,1978,10,Ronnie Peterson,Team Lotus,9.0
+294,1978,10,Patrick Depailler,Tyrrell,6.0
+295,1978,10,Gilles Villeneuve,Ferrari,4.0
+296,1978,10,Emerson Fittipaldi,Fittipaldi,3.0
+297,1978,10,Jacques Laffite,Ligier,2.0
+298,1978,10,Vittorio Brambilla,Surtees,1.0
+299,1978,10,John Watson,Brabham,0.0
+300,1978,10,Brett Lunger,McLaren,0.0
+301,1978,10,René Arnoux,Martini,0.0
+302,1978,10,Clay Regazzoni,Shadow,0.0
+303,1978,10,Keke Rosberg,Wolf,0.0
+304,1978,10,Derek Daly,Ensign,0.0
+305,1978,10,Patrick Tambay,McLaren,0.0
+306,1978,10,Hans-Joachim Stuck,Shadow,0.0
+307,1978,10,Jean-Pierre Jabouille,Renault,0.0
+308,1978,10,Carlos Reutemann,Ferrari,0.0
+309,1978,10,Niki Lauda,Brabham,0.0
+310,1978,10,Didier Pironi,Tyrrell,0.0
+311,1978,10,James Hunt,McLaren,0.0
+312,1978,10,Alan Jones,Williams,0.0
+313,1978,10,Riccardo Patrese,Arrows,0.0
+314,1978,10,Harald Ertl,Ensign,0.0
+315,1978,10,Hector Rebaque,Team Lotus,0.0
+316,1978,10,Nelson Piquet,McLaren,0.0
+317,1978,10,Jody Scheckter,Wolf,0.0
+318,1978,10,Mario Andretti,Team Lotus,0.0
+319,1978,10,Arturo Merzario,Merzario,0.0
+320,1978,10,Jochen Mass,ATS,0.0
+321,1978,10,Rupert Keegan,Surtees,0.0
+322,1978,10,Hans Binder,ATS,0.0
+323,1978,11,Mario Andretti,Team Lotus,9.0
+324,1978,11,Ronnie Peterson,Team Lotus,6.0
+325,1978,11,Niki Lauda,Brabham,4.0
+326,1978,11,John Watson,Brabham,3.0
+327,1978,11,Emerson Fittipaldi,Fittipaldi,2.0
+328,1978,11,Gilles Villeneuve,Ferrari,1.0
+329,1978,11,Carlos Reutemann,Ferrari,0.0
+330,1978,11,Jacques Laffite,Ligier,0.0
+331,1978,11,Patrick Tambay,McLaren,0.0
+332,1978,11,James Hunt,McLaren,0.0
+333,1978,11,Hector Rebaque,Team Lotus,0.0
+334,1978,11,Jody Scheckter,Wolf,0.0
+335,1978,11,Bruno Giacomelli,McLaren,0.0
+336,1978,11,Hans-Joachim Stuck,Shadow,0.0
+337,1978,11,René Arnoux,Martini,0.0
+338,1978,11,Arturo Merzario,Merzario,0.0
+339,1978,11,Vittorio Brambilla,Surtees,0.0
+340,1978,11,Jean-Pierre Jabouille,Renault,0.0
+341,1978,11,Brett Lunger,McLaren,0.0
+342,1978,11,Keke Rosberg,Wolf,0.0
+343,1978,11,Alan Jones,Williams,0.0
+344,1978,11,Nelson Piquet,McLaren,0.0
+345,1978,11,Patrick Depailler,Tyrrell,0.0
+346,1978,11,Derek Daly,Ensign,0.0
+347,1978,11,Riccardo Patrese,Arrows,0.0
+348,1978,11,Didier Pironi,Tyrrell,0.0
+349,1978,11,Rupert Keegan,Surtees,0.0
+350,1978,11,Clay Regazzoni,Shadow,0.0
+351,1978,11,Michael Bleekemolen,ATS,0.0
+352,1978,11,Jochen Mass,ATS,0.0
+353,1978,12,Niki Lauda,Brabham,9.0
+354,1978,12,John Watson,Brabham,6.0
+355,1978,12,Carlos Reutemann,Ferrari,4.0
+356,1978,12,Jacques Laffite,Ligier,3.0
+357,1978,12,Patrick Tambay,McLaren,2.0
+358,1978,12,Mario Andretti,Team Lotus,1.0
+359,1978,12,Gilles Villeneuve,Ferrari,0.0
+360,1978,12,Emerson Fittipaldi,Fittipaldi,0.0
+361,1978,12,Nelson Piquet,McLaren,0.0
+362,1978,12,Derek Daly,Ensign,0.0
+363,1978,12,Patrick Depailler,Tyrrell,0.0
+364,1978,12,Jody Scheckter,Wolf,0.0
+365,1978,12,Alan Jones,Williams,0.0
+366,1978,12,Bruno Giacomelli,McLaren,0.0
+367,1978,12,Clay Regazzoni,Shadow,0.0
+368,1978,12,Riccardo Patrese,Arrows,0.0
+369,1978,12,James Hunt,McLaren,0.0
+370,1978,12,Arturo Merzario,Merzario,0.0
+371,1978,12,Jean-Pierre Jabouille,Renault,0.0
+372,1978,12,Ronnie Peterson,Team Lotus,0.0
+373,1978,12,Didier Pironi,Tyrrell,0.0
+374,1978,12,Hans-Joachim Stuck,Shadow,0.0
+375,1978,12,Brett Lunger,McLaren,0.0
+376,1978,12,Vittorio Brambilla,Surtees,0.0
+377,1978,12,Hector Rebaque,Team Lotus,0.0
+378,1978,12,Harald Ertl,ATS,0.0
+379,1978,12,Michael Bleekemolen,ATS,0.0
+380,1978,12,Carlo Franchi,Surtees,0.0
+381,1978,12,Harald Ertl,Ensign,0.0
+382,1978,12,Keke Rosberg,Wolf,0.0
+383,1978,13,Carlos Reutemann,Ferrari,9.0
+384,1978,13,Alan Jones,Williams,6.0
+385,1978,13,Jody Scheckter,Wolf,4.0
+386,1978,13,Jean-Pierre Jabouille,Renault,3.0
+387,1978,13,Emerson Fittipaldi,Fittipaldi,2.0
+388,1978,13,Patrick Tambay,McLaren,1.0
+389,1978,13,James Hunt,McLaren,0.0
+390,1978,13,Derek Daly,Ensign,0.0
+391,1978,13,René Arnoux,Martini,0.0
+392,1978,13,Didier Pironi,Tyrrell,0.0
+393,1978,13,Jacques Laffite,Ligier,0.0
+394,1978,13,Bobby Rahal,Wolf,0.0
+395,1978,13,Brett Lunger,Ensign,0.0
+396,1978,13,Clay Regazzoni,Shadow,0.0
+397,1978,13,Jean-Pierre Jarier,Team Lotus,0.0
+398,1978,13,Rolf Stommelen,Arrows,0.0
+399,1978,13,Arturo Merzario,Merzario,0.0
+400,1978,13,Michael Bleekemolen,ATS,0.0
+401,1978,13,Niki Lauda,Brabham,0.0
+402,1978,13,Mario Andretti,Team Lotus,0.0
+403,1978,13,John Watson,Brabham,0.0
+404,1978,13,Patrick Depailler,Tyrrell,0.0
+405,1978,13,Gilles Villeneuve,Ferrari,0.0
+406,1978,13,Keke Rosberg,ATS,0.0
+407,1978,13,Hans-Joachim Stuck,Shadow,0.0
+408,1978,13,Hector Rebaque,Team Lotus,0.0
+409,1978,13,Beppe Gabbiani,Surtees,0.0
+410,1978,14,Gilles Villeneuve,Ferrari,9.0
+411,1978,14,Jody Scheckter,Wolf,6.0
+412,1978,14,Carlos Reutemann,Ferrari,4.0
+413,1978,14,Riccardo Patrese,Arrows,3.0
+414,1978,14,Patrick Depailler,Tyrrell,2.0
+415,1978,14,Derek Daly,Ensign,1.0
+416,1978,14,Didier Pironi,Tyrrell,0.0
+417,1978,14,Patrick Tambay,McLaren,0.0
+418,1978,14,Alan Jones,Williams,0.0
+419,1978,14,Mario Andretti,Team Lotus,0.0
+420,1978,14,Nelson Piquet,Brabham,0.0
+421,1978,14,Jean-Pierre Jabouille,Renault,0.0
+422,1978,14,Keke Rosberg,ATS,0.0
+423,1978,14,Jacques Laffite,Ligier,0.0
+424,1978,14,James Hunt,McLaren,0.0
+425,1978,14,Jean-Pierre Jarier,Team Lotus,0.0
+426,1978,14,René Arnoux,Surtees,0.0
+427,1978,14,Bobby Rahal,Wolf,0.0
+428,1978,14,John Watson,Brabham,0.0
+429,1978,14,Niki Lauda,Brabham,0.0
+430,1978,14,Hans-Joachim Stuck,Shadow,0.0
+431,1978,14,Emerson Fittipaldi,Fittipaldi,0.0
+432,1978,14,Clay Regazzoni,Shadow,0.0
+433,1978,14,Beppe Gabbiani,Surtees,0.0
+434,1978,14,Arturo Merzario,Merzario,0.0
+435,1978,14,Hector Rebaque,Team Lotus,0.0
+436,1978,14,Rolf Stommelen,Arrows,0.0
+437,1978,14,Michael Bleekemolen,ATS,0.0

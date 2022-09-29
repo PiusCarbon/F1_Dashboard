@@ -1,0 +1,433 @@
+,Year,GP,Driver,Team,Points
+0,2011,0,Sebastian Vettel,Red Bull,25.0
+1,2011,0,Jenson Button,McLaren,18.0
+2,2011,0,Nick Heidfeld,Renault,15.0
+3,2011,0,Mark Webber,Red Bull,12.0
+4,2011,0,Felipe Massa,Ferrari,10.0
+5,2011,0,Fernando Alonso,Ferrari,8.0
+6,2011,0,Kamui Kobayashi,Sauber,6.0
+7,2011,0,Lewis Hamilton,McLaren,4.0
+8,2011,0,Michael Schumacher,Mercedes,2.0
+9,2011,0,Paul di Resta,Force India,1.0
+10,2011,0,Adrian Sutil,Force India,0.0
+11,2011,0,Nico Rosberg,Mercedes,0.0
+12,2011,0,Sébastien Buemi,Toro Rosso,0.0
+13,2011,0,Jaime Alguersuari,Toro Rosso,0.0
+14,2011,0,Heikki Kovalainen,Lotus,0.0
+15,2011,0,Timo Glock,Virgin,0.0
+16,2011,0,Vitaly Petrov,Renault,0.0
+17,2011,0,Vitantonio Liuzzi,HRT,0.0
+18,2011,0,Jérôme d'Ambrosio,Virgin,0.0
+19,2011,0,Jarno Trulli,Lotus,0.0
+20,2011,0,Sergio Pérez,Sauber,0.0
+21,2011,0,Rubens Barrichello,Williams,0.0
+22,2011,0,Narain Karthikeyan,HRT,0.0
+23,2011,0,Pastor Maldonado,Williams,0.0
+24,2011,1,Lewis Hamilton,McLaren,25.0
+25,2011,1,Sebastian Vettel,Red Bull,18.0
+26,2011,1,Mark Webber,Red Bull,15.0
+27,2011,1,Jenson Button,McLaren,12.0
+28,2011,1,Nico Rosberg,Mercedes,10.0
+29,2011,1,Felipe Massa,Ferrari,8.0
+30,2011,1,Fernando Alonso,Ferrari,6.0
+31,2011,1,Michael Schumacher,Mercedes,4.0
+32,2011,1,Vitaly Petrov,Renault,2.0
+33,2011,1,Kamui Kobayashi,Sauber,1.0
+34,2011,1,Paul di Resta,Force India,0.0
+35,2011,1,Nick Heidfeld,Renault,0.0
+36,2011,1,Rubens Barrichello,Williams,0.0
+37,2011,1,Sébastien Buemi,Toro Rosso,0.0
+38,2011,1,Adrian Sutil,Force India,0.0
+39,2011,1,Heikki Kovalainen,Lotus,0.0
+40,2011,1,Sergio Pérez,Sauber,0.0
+41,2011,1,Pastor Maldonado,Williams,0.0
+42,2011,1,Jarno Trulli,Lotus,0.0
+43,2011,1,Jérôme d'Ambrosio,Virgin,0.0
+44,2011,1,Timo Glock,Virgin,0.0
+45,2011,1,Vitantonio Liuzzi,HRT,0.0
+46,2011,1,Narain Karthikeyan,HRT,0.0
+47,2011,1,Jaime Alguersuari,Toro Rosso,0.0
+48,2011,2,Sebastian Vettel,Red Bull,25.0
+49,2011,2,Mark Webber,Red Bull,18.0
+50,2011,2,Fernando Alonso,Ferrari,15.0
+51,2011,2,Lewis Hamilton,McLaren,12.0
+52,2011,2,Nico Rosberg,Mercedes,10.0
+53,2011,2,Jenson Button,McLaren,8.0
+54,2011,2,Nick Heidfeld,Renault,6.0
+55,2011,2,Vitaly Petrov,Renault,4.0
+56,2011,2,Sébastien Buemi,Toro Rosso,2.0
+57,2011,2,Kamui Kobayashi,Sauber,1.0
+58,2011,2,Felipe Massa,Ferrari,0.0
+59,2011,2,Michael Schumacher,Mercedes,0.0
+60,2011,2,Adrian Sutil,Force India,0.0
+61,2011,2,Sergio Pérez,Sauber,0.0
+62,2011,2,Rubens Barrichello,Williams,0.0
+63,2011,2,Jaime Alguersuari,Toro Rosso,0.0
+64,2011,2,Pastor Maldonado,Williams,0.0
+65,2011,2,Jarno Trulli,Lotus,0.0
+66,2011,2,Heikki Kovalainen,Lotus,0.0
+67,2011,2,Jérôme d'Ambrosio,Virgin,0.0
+68,2011,2,Narain Karthikeyan,HRT,0.0
+69,2011,2,Vitantonio Liuzzi,HRT,0.0
+70,2011,2,Paul di Resta,Force India,0.0
+71,2011,2,Timo Glock,Virgin,0.0
+72,2011,3,Sebastian Vettel,Red Bull,25.0
+73,2011,3,Lewis Hamilton,McLaren,18.0
+74,2011,3,Jenson Button,McLaren,15.0
+75,2011,3,Mark Webber,Red Bull,12.0
+76,2011,3,Fernando Alonso,Ferrari,10.0
+77,2011,3,Michael Schumacher,Mercedes,8.0
+78,2011,3,Nico Rosberg,Mercedes,6.0
+79,2011,3,Nick Heidfeld,Renault,4.0
+80,2011,3,Sergio Pérez,Sauber,2.0
+81,2011,3,Kamui Kobayashi,Sauber,1.0
+82,2011,3,Vitaly Petrov,Renault,0.0
+83,2011,3,Paul di Resta,Force India,0.0
+84,2011,3,Adrian Sutil,Force India,0.0
+85,2011,3,Sébastien Buemi,Toro Rosso,0.0
+86,2011,3,Pastor Maldonado,Williams,0.0
+87,2011,3,Jaime Alguersuari,Toro Rosso,0.0
+88,2011,3,Rubens Barrichello,Williams,0.0
+89,2011,3,Jarno Trulli,Lotus,0.0
+90,2011,3,Timo Glock,Virgin,0.0
+91,2011,3,Jérôme d'Ambrosio,Virgin,0.0
+92,2011,3,Narain Karthikeyan,HRT,0.0
+93,2011,3,Felipe Massa,Ferrari,0.0
+94,2011,3,Heikki Kovalainen,Lotus,0.0
+95,2011,3,Vitantonio Liuzzi,HRT,0.0
+96,2011,4,Sebastian Vettel,Red Bull,25.0
+97,2011,4,Fernando Alonso,Ferrari,18.0
+98,2011,4,Jenson Button,McLaren,15.0
+99,2011,4,Mark Webber,Red Bull,12.0
+100,2011,4,Kamui Kobayashi,Sauber,10.0
+101,2011,4,Lewis Hamilton,McLaren,8.0
+102,2011,4,Adrian Sutil,Force India,6.0
+103,2011,4,Nick Heidfeld,Renault,4.0
+104,2011,4,Rubens Barrichello,Williams,2.0
+105,2011,4,Sébastien Buemi,Toro Rosso,1.0
+106,2011,4,Nico Rosberg,Mercedes,0.0
+107,2011,4,Paul di Resta,Force India,0.0
+108,2011,4,Jarno Trulli,Lotus,0.0
+109,2011,4,Heikki Kovalainen,Lotus,0.0
+110,2011,4,Jérôme d'Ambrosio,Virgin,0.0
+111,2011,4,Vitantonio Liuzzi,HRT,0.0
+112,2011,4,Narain Karthikeyan,HRT,0.0
+113,2011,4,Pastor Maldonado,Williams,0.0
+114,2011,4,Vitaly Petrov,Renault,0.0
+115,2011,4,Jaime Alguersuari,Toro Rosso,0.0
+116,2011,4,Felipe Massa,Ferrari,0.0
+117,2011,4,Michael Schumacher,Mercedes,0.0
+118,2011,4,Timo Glock,Virgin,0.0
+119,2011,4,Sergio Pérez,Sauber,0.0
+120,2011,5,Jenson Button,McLaren,25.0
+121,2011,5,Sebastian Vettel,Red Bull,18.0
+122,2011,5,Mark Webber,Red Bull,15.0
+123,2011,5,Michael Schumacher,Mercedes,12.0
+124,2011,5,Vitaly Petrov,Renault,10.0
+125,2011,5,Felipe Massa,Ferrari,8.0
+126,2011,5,Kamui Kobayashi,Sauber,6.0
+127,2011,5,Jaime Alguersuari,Toro Rosso,4.0
+128,2011,5,Rubens Barrichello,Williams,2.0
+129,2011,5,Sébastien Buemi,Toro Rosso,1.0
+130,2011,5,Nico Rosberg,Mercedes,0.0
+131,2011,5,Pedro de la Rosa,Sauber,0.0
+132,2011,5,Vitantonio Liuzzi,HRT,0.0
+133,2011,5,Narain Karthikeyan,HRT,0.0
+134,2011,5,Jérôme d'Ambrosio,Virgin,0.0
+135,2011,5,Timo Glock,Virgin,0.0
+136,2011,5,Jarno Trulli,Lotus,0.0
+137,2011,5,Paul di Resta,Force India,0.0
+138,2011,5,Pastor Maldonado,Williams,0.0
+139,2011,5,Nick Heidfeld,Renault,0.0
+140,2011,5,Adrian Sutil,Force India,0.0
+141,2011,5,Fernando Alonso,Ferrari,0.0
+142,2011,5,Heikki Kovalainen,Lotus,0.0
+143,2011,5,Lewis Hamilton,McLaren,0.0
+144,2011,6,Sebastian Vettel,Red Bull,25.0
+145,2011,6,Fernando Alonso,Ferrari,18.0
+146,2011,6,Mark Webber,Red Bull,15.0
+147,2011,6,Lewis Hamilton,McLaren,12.0
+148,2011,6,Felipe Massa,Ferrari,10.0
+149,2011,6,Jenson Button,McLaren,8.0
+150,2011,6,Nico Rosberg,Mercedes,6.0
+151,2011,6,Jaime Alguersuari,Toro Rosso,4.0
+152,2011,6,Adrian Sutil,Force India,2.0
+153,2011,6,Nick Heidfeld,Renault,1.0
+154,2011,6,Sergio Pérez,Sauber,0.0
+155,2011,6,Rubens Barrichello,Williams,0.0
+156,2011,6,Sébastien Buemi,Toro Rosso,0.0
+157,2011,6,Paul di Resta,Force India,0.0
+158,2011,6,Vitaly Petrov,Renault,0.0
+159,2011,6,Kamui Kobayashi,Sauber,0.0
+160,2011,6,Michael Schumacher,Mercedes,0.0
+161,2011,6,Pastor Maldonado,Williams,0.0
+162,2011,6,Heikki Kovalainen,Lotus,0.0
+163,2011,6,Jarno Trulli,Lotus,0.0
+164,2011,6,Timo Glock,Virgin,0.0
+165,2011,6,Jérôme d'Ambrosio,Virgin,0.0
+166,2011,6,Vitantonio Liuzzi,HRT,0.0
+167,2011,6,Narain Karthikeyan,HRT,0.0
+168,2011,7,Fernando Alonso,Ferrari,25.0
+169,2011,7,Sebastian Vettel,Red Bull,18.0
+170,2011,7,Mark Webber,Red Bull,15.0
+171,2011,7,Lewis Hamilton,McLaren,12.0
+172,2011,7,Felipe Massa,Ferrari,10.0
+173,2011,7,Nico Rosberg,Mercedes,8.0
+174,2011,7,Sergio Pérez,Sauber,6.0
+175,2011,7,Nick Heidfeld,Renault,4.0
+176,2011,7,Michael Schumacher,Mercedes,2.0
+177,2011,7,Jaime Alguersuari,Toro Rosso,1.0
+178,2011,7,Adrian Sutil,Force India,0.0
+179,2011,7,Vitaly Petrov,Renault,0.0
+180,2011,7,Rubens Barrichello,Williams,0.0
+181,2011,7,Pastor Maldonado,Williams,0.0
+182,2011,7,Paul di Resta,Force India,0.0
+183,2011,7,Timo Glock,Virgin,0.0
+184,2011,7,Jérôme d'Ambrosio,Virgin,0.0
+185,2011,7,Vitantonio Liuzzi,HRT,0.0
+186,2011,7,Daniel Ricciardo,HRT,0.0
+187,2011,7,Jenson Button,McLaren,0.0
+188,2011,7,Sébastien Buemi,Toro Rosso,0.0
+189,2011,7,Kamui Kobayashi,Sauber,0.0
+190,2011,7,Jarno Trulli,Lotus,0.0
+191,2011,7,Heikki Kovalainen,Lotus,0.0
+192,2011,8,Lewis Hamilton,McLaren,25.0
+193,2011,8,Fernando Alonso,Ferrari,18.0
+194,2011,8,Mark Webber,Red Bull,15.0
+195,2011,8,Sebastian Vettel,Red Bull,12.0
+196,2011,8,Felipe Massa,Ferrari,10.0
+197,2011,8,Adrian Sutil,Force India,8.0
+198,2011,8,Nico Rosberg,Mercedes,6.0
+199,2011,8,Michael Schumacher,Mercedes,4.0
+200,2011,8,Kamui Kobayashi,Sauber,2.0
+201,2011,8,Vitaly Petrov,Renault,1.0
+202,2011,8,Sergio Pérez,Sauber,0.0
+203,2011,8,Jaime Alguersuari,Toro Rosso,0.0
+204,2011,8,Paul di Resta,Force India,0.0
+205,2011,8,Pastor Maldonado,Williams,0.0
+206,2011,8,Sébastien Buemi,Toro Rosso,0.0
+207,2011,8,Heikki Kovalainen,Lotus,0.0
+208,2011,8,Timo Glock,Virgin,0.0
+209,2011,8,Jérôme d'Ambrosio,Virgin,0.0
+210,2011,8,Daniel Ricciardo,HRT,0.0
+211,2011,8,Karun Chandhok,Lotus,0.0
+212,2011,8,Vitantonio Liuzzi,HRT,0.0
+213,2011,8,Jenson Button,McLaren,0.0
+214,2011,8,Rubens Barrichello,Williams,0.0
+215,2011,8,Nick Heidfeld,Renault,0.0
+216,2011,9,Jenson Button,McLaren,25.0
+217,2011,9,Sebastian Vettel,Red Bull,18.0
+218,2011,9,Fernando Alonso,Ferrari,15.0
+219,2011,9,Lewis Hamilton,McLaren,12.0
+220,2011,9,Mark Webber,Red Bull,10.0
+221,2011,9,Felipe Massa,Ferrari,8.0
+222,2011,9,Paul di Resta,Force India,6.0
+223,2011,9,Sébastien Buemi,Toro Rosso,4.0
+224,2011,9,Nico Rosberg,Mercedes,2.0
+225,2011,9,Jaime Alguersuari,Toro Rosso,1.0
+226,2011,9,Kamui Kobayashi,Sauber,0.0
+227,2011,9,Vitaly Petrov,Renault,0.0
+228,2011,9,Rubens Barrichello,Williams,0.0
+229,2011,9,Adrian Sutil,Force India,0.0
+230,2011,9,Sergio Pérez,Sauber,0.0
+231,2011,9,Pastor Maldonado,Williams,0.0
+232,2011,9,Timo Glock,Virgin,0.0
+233,2011,9,Daniel Ricciardo,HRT,0.0
+234,2011,9,Jérôme d'Ambrosio,Virgin,0.0
+235,2011,9,Vitantonio Liuzzi,HRT,0.0
+236,2011,9,Heikki Kovalainen,Lotus,0.0
+237,2011,9,Michael Schumacher,Mercedes,0.0
+238,2011,9,Nick Heidfeld,Renault,0.0
+239,2011,9,Jarno Trulli,Lotus,0.0
+240,2011,10,Sebastian Vettel,Red Bull,25.0
+241,2011,10,Mark Webber,Red Bull,18.0
+242,2011,10,Jenson Button,McLaren,15.0
+243,2011,10,Fernando Alonso,Ferrari,12.0
+244,2011,10,Michael Schumacher,Mercedes,10.0
+245,2011,10,Nico Rosberg,Mercedes,8.0
+246,2011,10,Adrian Sutil,Force India,6.0
+247,2011,10,Felipe Massa,Ferrari,4.0
+248,2011,10,Vitaly Petrov,Renault,2.0
+249,2011,10,Pastor Maldonado,Williams,1.0
+250,2011,10,Paul di Resta,Force India,0.0
+251,2011,10,Kamui Kobayashi,Sauber,0.0
+252,2011,10,Bruno Senna,Renault,0.0
+253,2011,10,Jarno Trulli,Lotus,0.0
+254,2011,10,Heikki Kovalainen,Lotus,0.0
+255,2011,10,Rubens Barrichello,Williams,0.0
+256,2011,10,Jérôme d'Ambrosio,Virgin,0.0
+257,2011,10,Timo Glock,Virgin,0.0
+258,2011,10,Vitantonio Liuzzi,HRT,0.0
+259,2011,10,Sergio Pérez,Sauber,0.0
+260,2011,10,Daniel Ricciardo,HRT,0.0
+261,2011,10,Lewis Hamilton,McLaren,0.0
+262,2011,10,Sébastien Buemi,Toro Rosso,0.0
+263,2011,10,Jaime Alguersuari,Toro Rosso,0.0
+264,2011,11,Sebastian Vettel,Red Bull,25.0
+265,2011,11,Jenson Button,McLaren,18.0
+266,2011,11,Fernando Alonso,Ferrari,15.0
+267,2011,11,Lewis Hamilton,McLaren,12.0
+268,2011,11,Michael Schumacher,Mercedes,10.0
+269,2011,11,Felipe Massa,Ferrari,8.0
+270,2011,11,Jaime Alguersuari,Toro Rosso,6.0
+271,2011,11,Paul di Resta,Force India,4.0
+272,2011,11,Bruno Senna,Renault,2.0
+273,2011,11,Sébastien Buemi,Toro Rosso,1.0
+274,2011,11,Pastor Maldonado,Williams,0.0
+275,2011,11,Rubens Barrichello,Williams,0.0
+276,2011,11,Heikki Kovalainen,Lotus,0.0
+277,2011,11,Jarno Trulli,Lotus,0.0
+278,2011,11,Timo Glock,Virgin,0.0
+279,2011,11,Daniel Ricciardo,HRT,0.0
+280,2011,11,Sergio Pérez,Sauber,0.0
+281,2011,11,Kamui Kobayashi,Sauber,0.0
+282,2011,11,Adrian Sutil,Force India,0.0
+283,2011,11,Mark Webber,Red Bull,0.0
+284,2011,11,Jérôme d'Ambrosio,Virgin,0.0
+285,2011,11,Vitaly Petrov,Renault,0.0
+286,2011,11,Nico Rosberg,Mercedes,0.0
+287,2011,11,Vitantonio Liuzzi,HRT,0.0
+288,2011,12,Sebastian Vettel,Red Bull,25.0
+289,2011,12,Jenson Button,McLaren,18.0
+290,2011,12,Mark Webber,Red Bull,15.0
+291,2011,12,Fernando Alonso,Ferrari,12.0
+292,2011,12,Lewis Hamilton,McLaren,10.0
+293,2011,12,Paul di Resta,Force India,8.0
+294,2011,12,Nico Rosberg,Mercedes,6.0
+295,2011,12,Adrian Sutil,Force India,4.0
+296,2011,12,Felipe Massa,Ferrari,2.0
+297,2011,12,Sergio Pérez,Sauber,1.0
+298,2011,12,Pastor Maldonado,Williams,0.0
+299,2011,12,Sébastien Buemi,Toro Rosso,0.0
+300,2011,12,Rubens Barrichello,Williams,0.0
+301,2011,12,Kamui Kobayashi,Sauber,0.0
+302,2011,12,Bruno Senna,Renault,0.0
+303,2011,12,Heikki Kovalainen,Lotus,0.0
+304,2011,12,Vitaly Petrov,Renault,0.0
+305,2011,12,Jérôme d'Ambrosio,Virgin,0.0
+306,2011,12,Daniel Ricciardo,HRT,0.0
+307,2011,12,Vitantonio Liuzzi,HRT,0.0
+308,2011,12,Jaime Alguersuari,Toro Rosso,0.0
+309,2011,12,Jarno Trulli,Lotus,0.0
+310,2011,12,Michael Schumacher,Mercedes,0.0
+311,2011,12,Timo Glock,Virgin,0.0
+312,2011,13,Jenson Button,McLaren,25.0
+313,2011,13,Fernando Alonso,Ferrari,18.0
+314,2011,13,Sebastian Vettel,Red Bull,15.0
+315,2011,13,Mark Webber,Red Bull,12.0
+316,2011,13,Lewis Hamilton,McLaren,10.0
+317,2011,13,Michael Schumacher,Mercedes,8.0
+318,2011,13,Felipe Massa,Ferrari,6.0
+319,2011,13,Sergio Pérez,Sauber,4.0
+320,2011,13,Vitaly Petrov,Renault,2.0
+321,2011,13,Nico Rosberg,Mercedes,1.0
+322,2011,13,Adrian Sutil,Force India,0.0
+323,2011,13,Paul di Resta,Force India,0.0
+324,2011,13,Kamui Kobayashi,Sauber,0.0
+325,2011,13,Pastor Maldonado,Williams,0.0
+326,2011,13,Jaime Alguersuari,Toro Rosso,0.0
+327,2011,13,Bruno Senna,Renault,0.0
+328,2011,13,Rubens Barrichello,Williams,0.0
+329,2011,13,Heikki Kovalainen,Lotus,0.0
+330,2011,13,Jarno Trulli,Lotus,0.0
+331,2011,13,Timo Glock,Virgin,0.0
+332,2011,13,Jérôme d'Ambrosio,Virgin,0.0
+333,2011,13,Daniel Ricciardo,HRT,0.0
+334,2011,13,Vitantonio Liuzzi,HRT,0.0
+335,2011,13,Sébastien Buemi,Toro Rosso,0.0
+336,2011,14,Sebastian Vettel,Red Bull,25.0
+337,2011,14,Lewis Hamilton,McLaren,18.0
+338,2011,14,Mark Webber,Red Bull,15.0
+339,2011,14,Jenson Button,McLaren,12.0
+340,2011,14,Fernando Alonso,Ferrari,10.0
+341,2011,14,Felipe Massa,Ferrari,8.0
+342,2011,14,Jaime Alguersuari,Toro Rosso,6.0
+343,2011,14,Nico Rosberg,Mercedes,4.0
+344,2011,14,Sébastien Buemi,Toro Rosso,2.0
+345,2011,14,Paul di Resta,Force India,1.0
+346,2011,14,Adrian Sutil,Force India,0.0
+347,2011,14,Rubens Barrichello,Williams,0.0
+348,2011,14,Bruno Senna,Renault,0.0
+349,2011,14,Heikki Kovalainen,Lotus,0.0
+350,2011,14,Kamui Kobayashi,Sauber,0.0
+351,2011,14,Sergio Pérez,Sauber,0.0
+352,2011,14,Jarno Trulli,Lotus,0.0
+353,2011,14,Timo Glock,Virgin,0.0
+354,2011,14,Daniel Ricciardo,HRT,0.0
+355,2011,14,Jérôme d'Ambrosio,Virgin,0.0
+356,2011,14,Vitantonio Liuzzi,HRT,0.0
+357,2011,14,Pastor Maldonado,Williams,0.0
+358,2011,14,Vitaly Petrov,Renault,0.0
+359,2011,14,Michael Schumacher,Mercedes,0.0
+360,2011,15,Sebastian Vettel,Red Bull,25.0
+361,2011,15,Jenson Button,McLaren,18.0
+362,2011,15,Fernando Alonso,Ferrari,15.0
+363,2011,15,Mark Webber,Red Bull,12.0
+364,2011,15,Michael Schumacher,Mercedes,10.0
+365,2011,15,Nico Rosberg,Mercedes,8.0
+366,2011,15,Lewis Hamilton,McLaren,6.0
+367,2011,15,Jaime Alguersuari,Toro Rosso,4.0
+368,2011,15,Adrian Sutil,Force India,2.0
+369,2011,15,Sergio Pérez,Sauber,1.0
+370,2011,15,Vitaly Petrov,Renault,0.0
+371,2011,15,Bruno Senna,Renault,0.0
+372,2011,15,Paul di Resta,Force India,0.0
+373,2011,15,Heikki Kovalainen,Lotus,0.0
+374,2011,15,Rubens Barrichello,Williams,0.0
+375,2011,15,Jérôme d'Ambrosio,Virgin,0.0
+376,2011,15,Narain Karthikeyan,HRT,0.0
+377,2011,15,Daniel Ricciardo,HRT,0.0
+378,2011,15,Jarno Trulli,Lotus,0.0
+379,2011,15,Felipe Massa,Ferrari,0.0
+380,2011,15,Sébastien Buemi,Toro Rosso,0.0
+381,2011,15,Pastor Maldonado,Williams,0.0
+382,2011,15,Timo Glock,Virgin,0.0
+383,2011,15,Kamui Kobayashi,Sauber,0.0
+384,2011,16,Lewis Hamilton,McLaren,25.0
+385,2011,16,Fernando Alonso,Ferrari,18.0
+386,2011,16,Jenson Button,McLaren,15.0
+387,2011,16,Mark Webber,Red Bull,12.0
+388,2011,16,Felipe Massa,Ferrari,10.0
+389,2011,16,Nico Rosberg,Mercedes,8.0
+390,2011,16,Michael Schumacher,Mercedes,6.0
+391,2011,16,Adrian Sutil,Force India,4.0
+392,2011,16,Paul di Resta,Force India,2.0
+393,2011,16,Kamui Kobayashi,Sauber,1.0
+394,2011,16,Sergio Pérez,Sauber,0.0
+395,2011,16,Rubens Barrichello,Williams,0.0
+396,2011,16,Vitaly Petrov,Renault,0.0
+397,2011,16,Pastor Maldonado,Williams,0.0
+398,2011,16,Jaime Alguersuari,Toro Rosso,0.0
+399,2011,16,Bruno Senna,Renault,0.0
+400,2011,16,Heikki Kovalainen,Lotus,0.0
+401,2011,16,Jarno Trulli,Lotus,0.0
+402,2011,16,Timo Glock,Virgin,0.0
+403,2011,16,Vitantonio Liuzzi,HRT,0.0
+404,2011,16,Daniel Ricciardo,HRT,0.0
+405,2011,16,Sébastien Buemi,Toro Rosso,0.0
+406,2011,16,Jérôme d'Ambrosio,Virgin,0.0
+407,2011,16,Sebastian Vettel,Red Bull,0.0
+408,2011,17,Mark Webber,Red Bull,25.0
+409,2011,17,Sebastian Vettel,Red Bull,18.0
+410,2011,17,Jenson Button,McLaren,15.0
+411,2011,17,Fernando Alonso,Ferrari,12.0
+412,2011,17,Felipe Massa,Ferrari,10.0
+413,2011,17,Adrian Sutil,Force India,8.0
+414,2011,17,Nico Rosberg,Mercedes,6.0
+415,2011,17,Paul di Resta,Force India,4.0
+416,2011,17,Kamui Kobayashi,Sauber,2.0
+417,2011,17,Vitaly Petrov,Renault,1.0
+418,2011,17,Jaime Alguersuari,Toro Rosso,0.0
+419,2011,17,Sébastien Buemi,Toro Rosso,0.0
+420,2011,17,Sergio Pérez,Sauber,0.0
+421,2011,17,Rubens Barrichello,Williams,0.0
+422,2011,17,Michael Schumacher,Mercedes,0.0
+423,2011,17,Heikki Kovalainen,Lotus,0.0
+424,2011,17,Bruno Senna,Renault,0.0
+425,2011,17,Jarno Trulli,Lotus,0.0
+426,2011,17,Jérôme d'Ambrosio,Virgin,0.0
+427,2011,17,Daniel Ricciardo,HRT,0.0
+428,2011,17,Vitantonio Liuzzi,HRT,0.0
+429,2011,17,Lewis Hamilton,McLaren,0.0
+430,2011,17,Pastor Maldonado,Williams,0.0
+431,2011,17,Timo Glock,Virgin,0.0

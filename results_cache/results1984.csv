@@ -1,0 +1,404 @@
+,Year,GP,Driver,Team,Points
+0,1984,0,Niki Lauda,McLaren,9.0
+1,1984,0,Alain Prost,McLaren,6.0
+2,1984,0,Derek Warwick,Renault,4.0
+3,1984,0,Riccardo Patrese,Alfa Romeo,3.0
+4,1984,0,Andrea de Cesaris,Ligier,2.0
+5,1984,0,Ayrton Senna,Toleman,1.0
+6,1984,0,Elio de Angelis,Team Lotus,0.0
+7,1984,0,Mauro Baldi,Spirit,0.0
+8,1984,0,Marc Surer,Arrows,0.0
+9,1984,0,François Hesnault,Ligier,0.0
+10,1984,0,Michele Alboreto,Ferrari,0.0
+11,1984,0,Thierry Boutsen,Arrows,0.0
+12,1984,0,Martin Brundle,Tyrrell,0.0
+13,1984,0,Patrick Tambay,Renault,0.0
+14,1984,0,Stefan Bellof,Tyrrell,0.0
+15,1984,0,Jacques Laffite,Williams,0.0
+16,1984,0,Manfred Winkelhock,ATS,0.0
+17,1984,0,Keke Rosberg,Williams,0.0
+18,1984,0,Nigel Mansell,Team Lotus,0.0
+19,1984,0,René Arnoux,Ferrari,0.0
+20,1984,0,Nelson Piquet,Brabham,0.0
+21,1984,0,Johnny Cecotto,Toleman,0.0
+22,1984,0,Philippe Alliot,RAM,0.0
+23,1984,0,Jonathan Palmer,RAM,0.0
+24,1984,0,Teo Fabi,Brabham,0.0
+25,1984,0,Eddie Cheever,Alfa Romeo,0.0
+26,1984,0,Piercarlo Ghinzani,Osella,0.0
+27,1984,1,Michele Alboreto,Ferrari,9.0
+28,1984,1,Derek Warwick,Renault,6.0
+29,1984,1,René Arnoux,Ferrari,4.0
+30,1984,1,Keke Rosberg,Williams,3.0
+31,1984,1,Elio de Angelis,Team Lotus,2.0
+32,1984,1,Ayrton Senna,Toleman,1.0
+33,1984,1,Patrick Tambay,Renault,0.0
+34,1984,1,Marc Surer,Arrows,0.0
+35,1984,1,Nelson Piquet,Brabham,0.0
+36,1984,1,Jonathan Palmer,RAM,0.0
+37,1984,1,Stefan Bellof,Tyrrell,0.0
+38,1984,1,Mauro Baldi,Spirit,0.0
+39,1984,1,Martin Brundle,Tyrrell,0.0
+40,1984,1,Andrea de Cesaris,Ligier,0.0
+41,1984,1,Teo Fabi,Brabham,0.0
+42,1984,1,Manfred Winkelhock,ATS,0.0
+43,1984,1,Niki Lauda,McLaren,0.0
+44,1984,1,Eddie Cheever,Alfa Romeo,0.0
+45,1984,1,Jacques Laffite,Williams,0.0
+46,1984,1,François Hesnault,Ligier,0.0
+47,1984,1,Thierry Boutsen,Arrows,0.0
+48,1984,1,Piercarlo Ghinzani,Osella,0.0
+49,1984,1,Nigel Mansell,Team Lotus,0.0
+50,1984,1,Alain Prost,McLaren,0.0
+51,1984,1,Riccardo Patrese,Alfa Romeo,0.0
+52,1984,1,Johnny Cecotto,Toleman,0.0
+53,1984,1,Philippe Alliot,RAM,0.0
+54,1984,2,Alain Prost,McLaren,9.0
+55,1984,2,René Arnoux,Ferrari,6.0
+56,1984,2,Elio de Angelis,Team Lotus,4.0
+57,1984,2,Derek Warwick,Renault,3.0
+58,1984,2,Thierry Boutsen,Arrows,2.0
+59,1984,2,Andrea de Cesaris,Ligier,1.0
+60,1984,2,Eddie Cheever,Alfa Romeo,0.0
+61,1984,2,Mauro Baldi,Spirit,0.0
+62,1984,2,Jonathan Palmer,RAM,0.0
+63,1984,2,Stefan Bellof,Tyrrell,0.0
+64,1984,2,Martin Brundle,Tyrrell,0.0
+65,1984,2,Philippe Alliot,RAM,0.0
+66,1984,2,Johnny Cecotto,Toleman,0.0
+67,1984,2,Nelson Piquet,Brabham,0.0
+68,1984,2,Teo Fabi,Brabham,0.0
+69,1984,2,Jo Gartner,Osella,0.0
+70,1984,2,Marc Surer,Arrows,0.0
+71,1984,2,Manfred Winkelhock,ATS,0.0
+72,1984,2,Michele Alboreto,Ferrari,0.0
+73,1984,2,Niki Lauda,McLaren,0.0
+74,1984,2,Jacques Laffite,Williams,0.0
+75,1984,2,Riccardo Patrese,Alfa Romeo,0.0
+76,1984,2,Nigel Mansell,Team Lotus,0.0
+77,1984,2,Keke Rosberg,Williams,0.0
+78,1984,2,Patrick Tambay,Renault,0.0
+79,1984,2,François Hesnault,Ligier,0.0
+80,1984,2,Piercarlo Ghinzani,Osella,0.0
+81,1984,2,Ayrton Senna,Toleman,0.0
+82,1984,3,Niki Lauda,McLaren,9.0
+83,1984,3,Patrick Tambay,Renault,6.0
+84,1984,3,Nigel Mansell,Team Lotus,4.0
+85,1984,3,René Arnoux,Ferrari,3.0
+86,1984,3,Elio de Angelis,Team Lotus,2.0
+87,1984,3,Keke Rosberg,Williams,1.0
+88,1984,3,Alain Prost,McLaren,0.0
+89,1984,3,Jacques Laffite,Williams,0.0
+90,1984,3,Teo Fabi,Brabham,0.0
+91,1984,3,Andrea de Cesaris,Ligier,0.0
+92,1984,3,Thierry Boutsen,Arrows,0.0
+93,1984,3,Piercarlo Ghinzani,Osella,0.0
+94,1984,3,Jonathan Palmer,RAM,0.0
+95,1984,3,Martin Brundle,Tyrrell,0.0
+96,1984,3,Mauro Baldi,Spirit,0.0
+97,1984,3,Derek Warwick,Renault,0.0
+98,1984,3,Marc Surer,Arrows,0.0
+99,1984,3,Eddie Cheever,Alfa Romeo,0.0
+100,1984,3,Ayrton Senna,Toleman,0.0
+101,1984,3,Michele Alboreto,Ferrari,0.0
+102,1984,3,Johnny Cecotto,Toleman,0.0
+103,1984,3,Riccardo Patrese,Alfa Romeo,0.0
+104,1984,3,Nelson Piquet,Brabham,0.0
+105,1984,3,Stefan Bellof,Tyrrell,0.0
+106,1984,3,Manfred Winkelhock,ATS,0.0
+107,1984,3,Philippe Alliot,RAM,0.0
+108,1984,4,Alain Prost,McLaren,4.5
+109,1984,4,Ayrton Senna,Toleman,3.0
+110,1984,4,René Arnoux,Ferrari,2.0
+111,1984,4,Keke Rosberg,Williams,1.5
+112,1984,4,Elio de Angelis,Team Lotus,1.0
+113,1984,4,Michele Alboreto,Ferrari,0.5
+114,1984,4,Piercarlo Ghinzani,Osella,0.0
+115,1984,4,Jacques Laffite,Williams,0.0
+116,1984,4,Stefan Bellof,Tyrrell,0.0
+117,1984,4,Riccardo Patrese,Alfa Romeo,0.0
+118,1984,4,Niki Lauda,McLaren,0.0
+119,1984,4,Manfred Winkelhock,ATS,0.0
+120,1984,4,Nigel Mansell,Team Lotus,0.0
+121,1984,4,Nelson Piquet,Brabham,0.0
+122,1984,4,François Hesnault,Ligier,0.0
+123,1984,4,Corrado Fabi,Brabham,0.0
+124,1984,4,Johnny Cecotto,Toleman,0.0
+125,1984,4,Derek Warwick,Renault,0.0
+126,1984,4,Patrick Tambay,Renault,0.0
+127,1984,4,Andrea de Cesaris,Ligier,0.0
+128,1984,4,Marc Surer,Arrows,0.0
+129,1984,4,Martin Brundle,Tyrrell,0.0
+130,1984,4,Eddie Cheever,Alfa Romeo,0.0
+131,1984,4,Thierry Boutsen,Arrows,0.0
+132,1984,4,Jonathan Palmer,RAM,0.0
+133,1984,4,Mauro Baldi,Spirit,0.0
+134,1984,4,Philippe Alliot,RAM,0.0
+135,1984,5,Nelson Piquet,Brabham,9.0
+136,1984,5,Niki Lauda,McLaren,6.0
+137,1984,5,Alain Prost,McLaren,4.0
+138,1984,5,Elio de Angelis,Team Lotus,3.0
+139,1984,5,René Arnoux,Ferrari,2.0
+140,1984,5,Nigel Mansell,Team Lotus,1.0
+141,1984,5,Ayrton Senna,Toleman,0.0
+142,1984,5,Manfred Winkelhock,ATS,0.0
+143,1984,5,Johnny Cecotto,Toleman,0.0
+144,1984,5,Philippe Alliot,RAM,0.0
+145,1984,5,Eddie Cheever,Alfa Romeo,0.0
+146,1984,5,Martin Brundle,Tyrrell,0.0
+147,1984,5,Marc Surer,Arrows,0.0
+148,1984,5,Derek Warwick,Renault,0.0
+149,1984,5,Huub Rothengatter,Spirit,0.0
+150,1984,5,Stefan Bellof,Tyrrell,0.0
+151,1984,5,Andrea de Cesaris,Ligier,0.0
+152,1984,5,Corrado Fabi,Brabham,0.0
+153,1984,5,Thierry Boutsen,Arrows,0.0
+154,1984,5,Riccardo Patrese,Alfa Romeo,0.0
+155,1984,5,Keke Rosberg,Williams,0.0
+156,1984,5,Jacques Laffite,Williams,0.0
+157,1984,5,Mike Thackwell,RAM,0.0
+158,1984,5,Piercarlo Ghinzani,Osella,0.0
+159,1984,5,Michele Alboreto,Ferrari,0.0
+160,1984,5,François Hesnault,Ligier,0.0
+161,1984,6,Nelson Piquet,Brabham,9.0
+162,1984,6,Elio de Angelis,Team Lotus,6.0
+163,1984,6,Teo Fabi,Brabham,4.0
+164,1984,6,Alain Prost,McLaren,3.0
+165,1984,6,Jacques Laffite,Williams,2.0
+166,1984,6,Martin Brundle,Tyrrell,0.0
+167,1984,6,Michele Alboreto,Ferrari,0.0
+168,1984,6,Keke Rosberg,Williams,0.0
+169,1984,6,Derek Warwick,Renault,0.0
+170,1984,6,Stefan Bellof,Tyrrell,0.0
+171,1984,6,Patrick Tambay,Renault,0.0
+172,1984,6,Philippe Alliot,RAM,0.0
+173,1984,6,Niki Lauda,McLaren,0.0
+174,1984,6,Nigel Mansell,Team Lotus,0.0
+175,1984,6,Thierry Boutsen,Arrows,0.0
+176,1984,6,Andrea de Cesaris,Ligier,0.0
+177,1984,6,Johnny Cecotto,Toleman,0.0
+178,1984,6,Eddie Cheever,Alfa Romeo,0.0
+179,1984,6,Ayrton Senna,Toleman,0.0
+180,1984,6,Riccardo Patrese,Alfa Romeo,0.0
+181,1984,6,François Hesnault,Ligier,0.0
+182,1984,6,Piercarlo Ghinzani,Osella,0.0
+183,1984,6,René Arnoux,Ferrari,0.0
+184,1984,6,Jonathan Palmer,RAM,0.0
+185,1984,6,Manfred Winkelhock,ATS,0.0
+186,1984,6,Marc Surer,Arrows,0.0
+187,1984,6,Huub Rothengatter,Spirit,0.0
+188,1984,7,Keke Rosberg,Williams,9.0
+189,1984,7,René Arnoux,Ferrari,6.0
+190,1984,7,Elio de Angelis,Team Lotus,4.0
+191,1984,7,Jacques Laffite,Williams,3.0
+192,1984,7,Piercarlo Ghinzani,Osella,2.0
+193,1984,7,Nigel Mansell,Team Lotus,1.0
+194,1984,7,Corrado Fabi,Brabham,0.0
+195,1984,7,Manfred Winkelhock,ATS,0.0
+196,1984,7,Niki Lauda,McLaren,0.0
+197,1984,7,Alain Prost,McLaren,0.0
+198,1984,7,Thierry Boutsen,Arrows,0.0
+199,1984,7,Michele Alboreto,Ferrari,0.0
+200,1984,7,Marc Surer,Arrows,0.0
+201,1984,7,Ayrton Senna,Toleman,0.0
+202,1984,7,Jonathan Palmer,RAM,0.0
+203,1984,7,Nelson Piquet,Brabham,0.0
+204,1984,7,Patrick Tambay,Renault,0.0
+205,1984,7,Johnny Cecotto,Toleman,0.0
+206,1984,7,Andrea de Cesaris,Ligier,0.0
+207,1984,7,Huub Rothengatter,Spirit,0.0
+208,1984,7,Riccardo Patrese,Alfa Romeo,0.0
+209,1984,7,Derek Warwick,Renault,0.0
+210,1984,7,Stefan Bellof,Tyrrell,0.0
+211,1984,7,Eddie Cheever,Alfa Romeo,0.0
+212,1984,7,François Hesnault,Ligier,0.0
+213,1984,7,Martin Brundle,Tyrrell,0.0
+214,1984,8,Niki Lauda,McLaren,9.0
+215,1984,8,Derek Warwick,Renault,6.0
+216,1984,8,Ayrton Senna,Toleman,4.0
+217,1984,8,Elio de Angelis,Team Lotus,3.0
+218,1984,8,Michele Alboreto,Ferrari,2.0
+219,1984,8,René Arnoux,Ferrari,1.0
+220,1984,8,Nelson Piquet,Brabham,0.0
+221,1984,8,Patrick Tambay,Renault,0.0
+222,1984,8,Piercarlo Ghinzani,Osella,0.0
+223,1984,8,Andrea de Cesaris,Ligier,0.0
+224,1984,8,Marc Surer,Arrows,0.0
+225,1984,8,Riccardo Patrese,Alfa Romeo,0.0
+226,1984,8,Stefan Bellof,Tyrrell,0.0
+227,1984,8,Huub Rothengatter,Spirit,0.0
+228,1984,8,François Hesnault,Ligier,0.0
+229,1984,8,Alain Prost,McLaren,0.0
+230,1984,8,Nigel Mansell,Team Lotus,0.0
+231,1984,8,Thierry Boutsen,Arrows,0.0
+232,1984,8,Jacques Laffite,Williams,0.0
+233,1984,8,Jonathan Palmer,RAM,0.0
+234,1984,8,Teo Fabi,Brabham,0.0
+235,1984,8,Manfred Winkelhock,ATS,0.0
+236,1984,8,Keke Rosberg,Williams,0.0
+237,1984,8,Stefan Johansson,Tyrrell,0.0
+238,1984,8,Eddie Cheever,Alfa Romeo,0.0
+239,1984,8,Philippe Alliot,RAM,0.0
+240,1984,8,Jo Gartner,Osella,0.0
+241,1984,8,Johnny Cecotto,Toleman,0.0
+242,1984,9,Alain Prost,McLaren,9.0
+243,1984,9,Niki Lauda,McLaren,6.0
+244,1984,9,Derek Warwick,Renault,4.0
+245,1984,9,Nigel Mansell,Team Lotus,3.0
+246,1984,9,Patrick Tambay,Renault,2.0
+247,1984,9,René Arnoux,Ferrari,1.0
+248,1984,9,Andrea de Cesaris,Ligier,0.0
+249,1984,9,François Hesnault,Ligier,0.0
+250,1984,9,Huub Rothengatter,Spirit,0.0
+251,1984,9,Stefan Johansson,Tyrrell,0.0
+252,1984,9,Manfred Winkelhock,ATS,0.0
+253,1984,9,Eddie Cheever,Alfa Romeo,0.0
+254,1984,9,Teo Fabi,Brabham,0.0
+255,1984,9,Nelson Piquet,Brabham,0.0
+256,1984,9,Riccardo Patrese,Alfa Romeo,0.0
+257,1984,9,Piercarlo Ghinzani,Osella,0.0
+258,1984,9,Jo Gartner,Osella,0.0
+259,1984,9,Michele Alboreto,Ferrari,0.0
+260,1984,9,Jonathan Palmer,RAM,0.0
+261,1984,9,Keke Rosberg,Williams,0.0
+262,1984,9,Jacques Laffite,Williams,0.0
+263,1984,9,Thierry Boutsen,Arrows,0.0
+264,1984,9,Elio de Angelis,Team Lotus,0.0
+265,1984,9,Philippe Alliot,RAM,0.0
+266,1984,9,Ayrton Senna,Toleman,0.0
+267,1984,9,Marc Surer,Arrows,0.0
+268,1984,9,Mike Thackwell,Tyrrell,0.0
+269,1984,10,Niki Lauda,McLaren,9.0
+270,1984,10,Nelson Piquet,Brabham,6.0
+271,1984,10,Michele Alboreto,Ferrari,4.0
+272,1984,10,Teo Fabi,Brabham,3.0
+273,1984,10,Thierry Boutsen,Arrows,2.0
+274,1984,10,Marc Surer,Arrows,1.0
+275,1984,10,René Arnoux,Ferrari,0.0
+276,1984,10,François Hesnault,Ligier,0.0
+277,1984,10,Jonathan Palmer,RAM,0.0
+278,1984,10,Riccardo Patrese,Alfa Romeo,0.0
+279,1984,10,Philippe Alliot,RAM,0.0
+280,1984,10,Gerhard Berger,ATS,0.0
+281,1984,10,Patrick Tambay,Renault,0.0
+282,1984,10,Ayrton Senna,Toleman,0.0
+283,1984,10,Nigel Mansell,Team Lotus,0.0
+284,1984,10,Alain Prost,McLaren,0.0
+285,1984,10,Elio de Angelis,Team Lotus,0.0
+286,1984,10,Huub Rothengatter,Spirit,0.0
+287,1984,10,Eddie Cheever,Alfa Romeo,0.0
+288,1984,10,Derek Warwick,Renault,0.0
+289,1984,10,Andrea de Cesaris,Ligier,0.0
+290,1984,10,Keke Rosberg,Williams,0.0
+291,1984,10,Jacques Laffite,Williams,0.0
+292,1984,10,Jo Gartner,Osella,0.0
+293,1984,10,Piercarlo Ghinzani,Osella,0.0
+294,1984,10,Stefan Bellof,Tyrrell,0.0
+295,1984,10,Stefan Johansson,Tyrrell,0.0
+296,1984,11,Alain Prost,McLaren,9.0
+297,1984,11,Niki Lauda,McLaren,6.0
+298,1984,11,Nigel Mansell,Team Lotus,4.0
+299,1984,11,Elio de Angelis,Team Lotus,3.0
+300,1984,11,Teo Fabi,Brabham,2.0
+301,1984,11,Patrick Tambay,Renault,1.0
+302,1984,11,François Hesnault,Ligier,0.0
+303,1984,11,Keke Rosberg,Williams,0.0
+304,1984,11,Jonathan Palmer,RAM,0.0
+305,1984,11,Philippe Alliot,RAM,0.0
+306,1984,11,René Arnoux,Ferrari,0.0
+307,1984,11,Jo Gartner,Osella,0.0
+308,1984,11,Eddie Cheever,Alfa Romeo,0.0
+309,1984,11,Stefan Bellof,Tyrrell,0.0
+310,1984,11,Stefan Johansson,Tyrrell,0.0
+311,1984,11,Thierry Boutsen,Arrows,0.0
+312,1984,11,Huub Rothengatter,Spirit,0.0
+313,1984,11,Riccardo Patrese,Alfa Romeo,0.0
+314,1984,11,Andrea de Cesaris,Ligier,0.0
+315,1984,11,Jacques Laffite,Williams,0.0
+316,1984,11,Derek Warwick,Renault,0.0
+317,1984,11,Manfred Winkelhock,ATS,0.0
+318,1984,11,Ayrton Senna,Toleman,0.0
+319,1984,11,Marc Surer,Arrows,0.0
+320,1984,11,Nelson Piquet,Brabham,0.0
+321,1984,11,Piercarlo Ghinzani,Osella,0.0
+322,1984,11,Michele Alboreto,Ferrari,0.0
+323,1984,12,Niki Lauda,McLaren,9.0
+324,1984,12,Michele Alboreto,Ferrari,6.0
+325,1984,12,Riccardo Patrese,Alfa Romeo,4.0
+326,1984,12,Stefan Johansson,Toleman,3.0
+327,1984,12,Jo Gartner,Osella,0.0
+328,1984,12,Gerhard Berger,ATS,0.0
+329,1984,12,Piercarlo Ghinzani,Osella,0.0
+330,1984,12,Huub Rothengatter,Spirit,0.0
+331,1984,12,Eddie Cheever,Alfa Romeo,0.0
+332,1984,12,Thierry Boutsen,Arrows,0.0
+333,1984,12,Patrick Tambay,Renault,0.0
+334,1984,12,Teo Fabi,Brabham,0.0
+335,1984,12,Marc Surer,Arrows,0.0
+336,1984,12,Derek Warwick,Renault,0.0
+337,1984,12,Jonathan Palmer,RAM,0.0
+338,1984,12,Nelson Piquet,Brabham,0.0
+339,1984,12,Elio de Angelis,Team Lotus,0.0
+340,1984,12,Nigel Mansell,Team Lotus,0.0
+341,1984,12,Jacques Laffite,Williams,0.0
+342,1984,12,Keke Rosberg,Williams,0.0
+343,1984,12,Andrea de Cesaris,Ligier,0.0
+344,1984,12,François Hesnault,Ligier,0.0
+345,1984,12,Philippe Alliot,RAM,0.0
+346,1984,12,René Arnoux,Ferrari,0.0
+347,1984,12,Alain Prost,McLaren,0.0
+348,1984,12,Manfred Winkelhock,ATS,0.0
+349,1984,12,Pierluigi Martini,Toleman,0.0
+350,1984,13,Alain Prost,McLaren,9.0
+351,1984,13,Michele Alboreto,Ferrari,6.0
+352,1984,13,Nelson Piquet,Brabham,4.0
+353,1984,13,Niki Lauda,McLaren,3.0
+354,1984,13,René Arnoux,Ferrari,2.0
+355,1984,13,Riccardo Patrese,Alfa Romeo,1.0
+356,1984,13,Andrea de Cesaris,Ligier,0.0
+357,1984,13,Mauro Baldi,Spirit,0.0
+358,1984,13,Thierry Boutsen,Arrows,0.0
+359,1984,13,François Hesnault,Ligier,0.0
+360,1984,13,Derek Warwick,Renault,0.0
+361,1984,13,Jo Gartner,Osella,0.0
+362,1984,13,Teo Fabi,Brabham,0.0
+363,1984,13,Nigel Mansell,Team Lotus,0.0
+364,1984,13,Patrick Tambay,Renault,0.0
+365,1984,13,Eddie Cheever,Alfa Romeo,0.0
+366,1984,13,Philippe Alliot,RAM,0.0
+367,1984,13,Jonathan Palmer,RAM,0.0
+368,1984,13,Jacques Laffite,Williams,0.0
+369,1984,13,Elio de Angelis,Team Lotus,0.0
+370,1984,13,Stefan Johansson,Toleman,0.0
+371,1984,13,Keke Rosberg,Williams,0.0
+372,1984,13,Ayrton Senna,Toleman,0.0
+373,1984,13,Marc Surer,Arrows,0.0
+374,1984,13,Gerhard Berger,ATS,0.0
+375,1984,13,Piercarlo Ghinzani,Osella,0.0
+376,1984,14,Alain Prost,McLaren,9.0
+377,1984,14,Niki Lauda,McLaren,6.0
+378,1984,14,Ayrton Senna,Toleman,4.0
+379,1984,14,Michele Alboreto,Ferrari,3.0
+380,1984,14,Elio de Angelis,Team Lotus,2.0
+381,1984,14,Nelson Piquet,Brabham,1.0
+382,1984,14,Patrick Tambay,Renault,0.0
+383,1984,14,Riccardo Patrese,Alfa Romeo,0.0
+384,1984,14,René Arnoux,Ferrari,0.0
+385,1984,14,Manfred Winkelhock,Brabham,0.0
+386,1984,14,Stefan Johansson,Toleman,0.0
+387,1984,14,Andrea de Cesaris,Ligier,0.0
+388,1984,14,Gerhard Berger,ATS,0.0
+389,1984,14,Jacques Laffite,Williams,0.0
+390,1984,14,Mauro Baldi,Spirit,0.0
+391,1984,14,Jo Gartner,Osella,0.0
+392,1984,14,Eddie Cheever,Alfa Romeo,0.0
+393,1984,14,Piercarlo Ghinzani,Osella,0.0
+394,1984,14,Nigel Mansell,Team Lotus,0.0
+395,1984,14,Derek Warwick,Renault,0.0
+396,1984,14,Philippe Streiff,Renault,0.0
+397,1984,14,Keke Rosberg,Williams,0.0
+398,1984,14,François Hesnault,Ligier,0.0
+399,1984,14,Thierry Boutsen,Arrows,0.0
+400,1984,14,Jonathan Palmer,RAM,0.0
+401,1984,14,Marc Surer,Arrows,0.0
+402,1984,14,Philippe Alliot,RAM,0.0

@@ -1,0 +1,451 @@
+,Year,GP,Driver,Team,Points
+0,1990,0,Alain Prost,Ferrari,9.0
+1,1990,0,Gerhard Berger,McLaren,6.0
+2,1990,0,Ayrton Senna,McLaren,4.0
+3,1990,0,Nigel Mansell,Ferrari,3.0
+4,1990,0,Thierry Boutsen,Williams,2.0
+5,1990,0,Nelson Piquet,Benetton,1.0
+6,1990,0,Jean Alesi,Tyrrell,0.0
+7,1990,0,Satoru Nakajima,Tyrrell,0.0
+8,1990,0,Pierluigi Martini,Minardi,0.0
+9,1990,0,Alessandro Nannini,Benetton,0.0
+10,1990,0,Nicola Larini,Ligier,0.0
+11,1990,0,Philippe Alliot,Ligier,0.0
+12,1990,0,Riccardo Patrese,Williams,0.0
+13,1990,0,Gianni Morbidelli,Dallara,0.0
+14,1990,0,Alex Caffi,Arrows,0.0
+15,1990,0,Martin Donnelly,Team Lotus,0.0
+16,1990,0,Stefano Modena,Brabham,0.0
+17,1990,0,Paolo Barilla,Minardi,0.0
+18,1990,0,Yannick Dalmas,AGS,0.0
+19,1990,0,Derek Warwick,Team Lotus,0.0
+20,1990,0,Aguri Suzuki,Larrousse,0.0
+21,1990,0,Michele Alboreto,Arrows,0.0
+22,1990,0,Gregor Foitek,Brabham,0.0
+23,1990,0,Éric Bernard,Larrousse,0.0
+24,1990,0,Olivier Grouillard,Osella,0.0
+25,1990,0,Andrea de Cesaris,Dallara,0.0
+26,1990,0,Stefan Johansson,Onyx,0.0
+27,1990,0,Jyrki Järvilehto,Onyx,0.0
+28,1990,0,Ivan Capelli,Leyton House,0.0
+29,1990,0,Maurício Gugelmin,Leyton House,0.0
+30,1990,1,Riccardo Patrese,Williams,9.0
+31,1990,1,Gerhard Berger,McLaren,6.0
+32,1990,1,Alessandro Nannini,Benetton,4.0
+33,1990,1,Alain Prost,Ferrari,3.0
+34,1990,1,Nelson Piquet,Benetton,2.0
+35,1990,1,Jean Alesi,Tyrrell,1.0
+36,1990,1,Derek Warwick,Team Lotus,0.0
+37,1990,1,Martin Donnelly,Team Lotus,0.0
+38,1990,1,Philippe Alliot,Ligier,0.0
+39,1990,1,Nicola Larini,Ligier,0.0
+40,1990,1,Paolo Barilla,Minardi,0.0
+41,1990,1,Jyrki Järvilehto,Onyx,0.0
+42,1990,1,Éric Bernard,Larrousse,0.0
+43,1990,1,Olivier Grouillard,Osella,0.0
+44,1990,1,Nigel Mansell,Ferrari,0.0
+45,1990,1,Gregor Foitek,Onyx,0.0
+46,1990,1,Stefano Modena,Brabham,0.0
+47,1990,1,Andrea de Cesaris,Dallara,0.0
+48,1990,1,Maurício Gugelmin,Leyton House,0.0
+49,1990,1,Thierry Boutsen,Williams,0.0
+50,1990,1,Aguri Suzuki,Larrousse,0.0
+51,1990,1,Ayrton Senna,McLaren,0.0
+52,1990,1,Emanuele Pirro,Dallara,0.0
+53,1990,1,Ivan Capelli,Leyton House,0.0
+54,1990,1,Satoru Nakajima,Tyrrell,0.0
+55,1990,1,Roberto Moreno,Euro Brun,0.0
+56,1990,1,Pierluigi Martini,Minardi,0.0
+57,1990,1,Alex Caffi,Arrows,0.0
+58,1990,1,Michele Alboreto,Arrows,0.0
+59,1990,1,David Brabham,Brabham,0.0
+60,1990,2,Ayrton Senna,McLaren,9.0
+61,1990,2,Jean Alesi,Tyrrell,6.0
+62,1990,2,Gerhard Berger,McLaren,4.0
+63,1990,2,Thierry Boutsen,Williams,3.0
+64,1990,2,Alex Caffi,Arrows,2.0
+65,1990,2,Éric Bernard,Larrousse,1.0
+66,1990,2,Gregor Foitek,Onyx,0.0
+67,1990,2,Derek Warwick,Team Lotus,0.0
+68,1990,2,Nigel Mansell,Ferrari,0.0
+69,1990,2,Paolo Barilla,Minardi,0.0
+70,1990,2,Jyrki Järvilehto,Onyx,0.0
+71,1990,2,Philippe Alliot,Ligier,0.0
+72,1990,2,Riccardo Patrese,Williams,0.0
+73,1990,2,Andrea de Cesaris,Dallara,0.0
+74,1990,2,Satoru Nakajima,Tyrrell,0.0
+75,1990,2,Alain Prost,Ferrari,0.0
+76,1990,2,Alessandro Nannini,Benetton,0.0
+77,1990,2,David Brabham,Brabham,0.0
+78,1990,2,Ivan Capelli,Leyton House,0.0
+79,1990,2,Nicola Larini,Ligier,0.0
+80,1990,2,Aguri Suzuki,Larrousse,0.0
+81,1990,2,Pierluigi Martini,Minardi,0.0
+82,1990,2,Martin Donnelly,Team Lotus,0.0
+83,1990,2,Stefano Modena,Brabham,0.0
+84,1990,2,Emanuele Pirro,Dallara,0.0
+85,1990,2,Nelson Piquet,Benetton,0.0
+86,1990,2,Michele Alboreto,Arrows,0.0
+87,1990,2,Olivier Grouillard,Osella,0.0
+88,1990,2,Maurício Gugelmin,Leyton House,0.0
+89,1990,2,Roberto Moreno,Euro Brun,0.0
+90,1990,3,Ayrton Senna,McLaren,9.0
+91,1990,3,Nelson Piquet,Benetton,6.0
+92,1990,3,Nigel Mansell,Ferrari,4.0
+93,1990,3,Gerhard Berger,McLaren,3.0
+94,1990,3,Alain Prost,Ferrari,2.0
+95,1990,3,Derek Warwick,Team Lotus,1.0
+96,1990,3,Stefano Modena,Brabham,0.0
+97,1990,3,Alex Caffi,Arrows,0.0
+98,1990,3,Éric Bernard,Larrousse,0.0
+99,1990,3,Ivan Capelli,Leyton House,0.0
+100,1990,3,Satoru Nakajima,Tyrrell,0.0
+101,1990,3,Aguri Suzuki,Larrousse,0.0
+102,1990,3,Olivier Grouillard,Osella,0.0
+103,1990,3,Martin Donnelly,Team Lotus,0.0
+104,1990,3,Gregor Foitek,Onyx,0.0
+105,1990,3,Andrea de Cesaris,Dallara,0.0
+106,1990,3,Jyrki Järvilehto,Onyx,0.0
+107,1990,3,Riccardo Patrese,Williams,0.0
+108,1990,3,Philippe Alliot,Ligier,0.0
+109,1990,3,Jean Alesi,Tyrrell,0.0
+110,1990,3,Alessandro Nannini,Benetton,0.0
+111,1990,3,Thierry Boutsen,Williams,0.0
+112,1990,3,Nicola Larini,Ligier,0.0
+113,1990,3,Emanuele Pirro,Dallara,0.0
+114,1990,3,Michele Alboreto,Arrows,0.0
+115,1990,3,Pierluigi Martini,Minardi,0.0
+116,1990,3,Roberto Moreno,Euro Brun,0.0
+117,1990,3,Maurício Gugelmin,Leyton House,0.0
+118,1990,3,Paolo Barilla,Minardi,0.0
+119,1990,3,David Brabham,Brabham,0.0
+120,1990,4,Alain Prost,Ferrari,9.0
+121,1990,4,Nigel Mansell,Ferrari,6.0
+122,1990,4,Gerhard Berger,McLaren,4.0
+123,1990,4,Alessandro Nannini,Benetton,3.0
+124,1990,4,Thierry Boutsen,Williams,2.0
+125,1990,4,Nelson Piquet,Benetton,1.0
+126,1990,4,Jean Alesi,Tyrrell,0.0
+127,1990,4,Martin Donnelly,Team Lotus,0.0
+128,1990,4,Riccardo Patrese,Williams,0.0
+129,1990,4,Derek Warwick,Team Lotus,0.0
+130,1990,4,Stefano Modena,Brabham,0.0
+131,1990,4,Pierluigi Martini,Minardi,0.0
+132,1990,4,Andrea de Cesaris,Dallara,0.0
+133,1990,4,Paolo Barilla,Minardi,0.0
+134,1990,4,Gregor Foitek,Onyx,0.0
+135,1990,4,Nicola Larini,Ligier,0.0
+136,1990,4,Michele Alboreto,Arrows,0.0
+137,1990,4,Philippe Alliot,Ligier,0.0
+138,1990,4,Olivier Grouillard,Osella,0.0
+139,1990,4,Ayrton Senna,McLaren,0.0
+140,1990,4,Jyrki Järvilehto,Onyx,0.0
+141,1990,4,Éric Bernard,Larrousse,0.0
+142,1990,4,Aguri Suzuki,Larrousse,0.0
+143,1990,4,Satoru Nakajima,Tyrrell,0.0
+144,1990,4,David Brabham,Brabham,0.0
+145,1990,4,Emanuele Pirro,Dallara,0.0
+146,1990,4,Roberto Moreno,Euro Brun,0.0
+147,1990,4,Ivan Capelli,Leyton House,0.0
+148,1990,4,Maurício Gugelmin,Leyton House,0.0
+149,1990,4,Alex Caffi,Arrows,0.0
+150,1990,5,Alain Prost,Ferrari,9.0
+151,1990,5,Ivan Capelli,Leyton House,6.0
+152,1990,5,Ayrton Senna,McLaren,4.0
+153,1990,5,Nelson Piquet,Benetton,3.0
+154,1990,5,Gerhard Berger,McLaren,2.0
+155,1990,5,Riccardo Patrese,Williams,1.0
+156,1990,5,Aguri Suzuki,Larrousse,0.0
+157,1990,5,Éric Bernard,Larrousse,0.0
+158,1990,5,Philippe Alliot,Ligier,0.0
+159,1990,5,Michele Alboreto,Arrows,0.0
+160,1990,5,Derek Warwick,Team Lotus,0.0
+161,1990,5,Martin Donnelly,Team Lotus,0.0
+162,1990,5,Stefano Modena,Brabham,0.0
+163,1990,5,Nicola Larini,Ligier,0.0
+164,1990,5,David Brabham,Brabham,0.0
+165,1990,5,Alessandro Nannini,Benetton,0.0
+166,1990,5,Yannick Dalmas,AGS,0.0
+167,1990,5,Nigel Mansell,Ferrari,0.0
+168,1990,5,Andrea de Cesaris,Dallara,0.0
+169,1990,5,Satoru Nakajima,Tyrrell,0.0
+170,1990,5,Maurício Gugelmin,Leyton House,0.0
+171,1990,5,Pierluigi Martini,Minardi,0.0
+172,1990,5,Jean Alesi,Tyrrell,0.0
+173,1990,5,Alex Caffi,Arrows,0.0
+174,1990,5,Thierry Boutsen,Williams,0.0
+175,1990,5,Emanuele Pirro,Dallara,0.0
+176,1990,5,Paolo Barilla,Minardi,0.0
+177,1990,5,Gabriele Tarquini,AGS,0.0
+178,1990,5,Gregor Foitek,Onyx,0.0
+179,1990,5,Jyrki Järvilehto,Onyx,0.0
+180,1990,6,Alain Prost,Ferrari,9.0
+181,1990,6,Thierry Boutsen,Williams,6.0
+182,1990,6,Ayrton Senna,McLaren,4.0
+183,1990,6,Éric Bernard,Larrousse,3.0
+184,1990,6,Nelson Piquet,Benetton,2.0
+185,1990,6,Aguri Suzuki,Larrousse,1.0
+186,1990,6,Alex Caffi,Arrows,0.0
+187,1990,6,Jean Alesi,Tyrrell,0.0
+188,1990,6,Stefano Modena,Brabham,0.0
+189,1990,6,Nicola Larini,Ligier,0.0
+190,1990,6,Emanuele Pirro,Dallara,0.0
+191,1990,6,Paolo Barilla,Minardi,0.0
+192,1990,6,Philippe Alliot,Ligier,0.0
+193,1990,6,Gerhard Berger,McLaren,0.0
+194,1990,6,Nigel Mansell,Ferrari,0.0
+195,1990,6,Ivan Capelli,Leyton House,0.0
+196,1990,6,Martin Donnelly,Team Lotus,0.0
+197,1990,6,Derek Warwick,Team Lotus,0.0
+198,1990,6,Gabriele Tarquini,AGS,0.0
+199,1990,6,Michele Alboreto,Arrows,0.0
+200,1990,6,Riccardo Patrese,Williams,0.0
+201,1990,6,Satoru Nakajima,Tyrrell,0.0
+202,1990,6,Alessandro Nannini,Benetton,0.0
+203,1990,6,Andrea de Cesaris,Dallara,0.0
+204,1990,6,Pierluigi Martini,Minardi,0.0
+205,1990,6,Maurício Gugelmin,Leyton House,0.0
+206,1990,6,Olivier Grouillard,Osella,0.0
+207,1990,6,David Brabham,Brabham,0.0
+208,1990,6,Jyrki Järvilehto,Onyx,0.0
+209,1990,6,Gregor Foitek,Onyx,0.0
+210,1990,7,Ayrton Senna,McLaren,9.0
+211,1990,7,Alessandro Nannini,Benetton,6.0
+212,1990,7,Gerhard Berger,McLaren,4.0
+213,1990,7,Alain Prost,Ferrari,3.0
+214,1990,7,Riccardo Patrese,Williams,2.0
+215,1990,7,Thierry Boutsen,Williams,1.0
+216,1990,7,Ivan Capelli,Leyton House,0.0
+217,1990,7,Derek Warwick,Team Lotus,0.0
+218,1990,7,Alex Caffi,Arrows,0.0
+219,1990,7,Nicola Larini,Ligier,0.0
+220,1990,7,Jean Alesi,Tyrrell,0.0
+221,1990,7,Jyrki Järvilehto,Onyx,0.0
+222,1990,7,Éric Bernard,Larrousse,0.0
+223,1990,7,Aguri Suzuki,Larrousse,0.0
+224,1990,7,Satoru Nakajima,Tyrrell,0.0
+225,1990,7,Nelson Piquet,Benetton,0.0
+226,1990,7,Pierluigi Martini,Minardi,0.0
+227,1990,7,Gregor Foitek,Onyx,0.0
+228,1990,7,Nigel Mansell,Ferrari,0.0
+229,1990,7,Maurício Gugelmin,Leyton House,0.0
+230,1990,7,David Brabham,Brabham,0.0
+231,1990,7,Michele Alboreto,Arrows,0.0
+232,1990,7,Martin Donnelly,Team Lotus,0.0
+233,1990,7,Stefano Modena,Brabham,0.0
+234,1990,7,Emanuele Pirro,Dallara,0.0
+235,1990,7,Philippe Alliot,Ligier,0.0
+236,1990,7,Olivier Grouillard,Osella,0.0
+237,1990,7,Paolo Barilla,Minardi,0.0
+238,1990,7,Yannick Dalmas,AGS,0.0
+239,1990,7,Andrea de Cesaris,Dallara,0.0
+240,1990,8,Thierry Boutsen,Williams,9.0
+241,1990,8,Ayrton Senna,McLaren,6.0
+242,1990,8,Nelson Piquet,Benetton,4.0
+243,1990,8,Riccardo Patrese,Williams,3.0
+244,1990,8,Derek Warwick,Team Lotus,2.0
+245,1990,8,Éric Bernard,Larrousse,1.0
+246,1990,8,Martin Donnelly,Team Lotus,0.0
+247,1990,8,Maurício Gugelmin,Leyton House,0.0
+248,1990,8,Alex Caffi,Arrows,0.0
+249,1990,8,Emanuele Pirro,Dallara,0.0
+250,1990,8,Nicola Larini,Ligier,0.0
+251,1990,8,Michele Alboreto,Arrows,0.0
+252,1990,8,Gabriele Tarquini,AGS,0.0
+253,1990,8,Philippe Alliot,Ligier,0.0
+254,1990,8,Paolo Barilla,Minardi,0.0
+255,1990,8,Gerhard Berger,McLaren,0.0
+256,1990,8,Nigel Mansell,Ferrari,0.0
+257,1990,8,Alessandro Nannini,Benetton,0.0
+258,1990,8,Ivan Capelli,Leyton House,0.0
+259,1990,8,Aguri Suzuki,Larrousse,0.0
+260,1990,8,Alain Prost,Ferrari,0.0
+261,1990,8,Jean Alesi,Tyrrell,0.0
+262,1990,8,Stefano Modena,Brabham,0.0
+263,1990,8,Pierluigi Martini,Minardi,0.0
+264,1990,8,Andrea de Cesaris,Dallara,0.0
+265,1990,8,Satoru Nakajima,Tyrrell,0.0
+266,1990,8,Yannick Dalmas,AGS,0.0
+267,1990,8,David Brabham,Brabham,0.0
+268,1990,8,Jyrki Järvilehto,Onyx,0.0
+269,1990,8,Gregor Foitek,Onyx,0.0
+270,1990,9,Ayrton Senna,McLaren,9.0
+271,1990,9,Alain Prost,Ferrari,6.0
+272,1990,9,Gerhard Berger,McLaren,4.0
+273,1990,9,Alessandro Nannini,Benetton,3.0
+274,1990,9,Nelson Piquet,Benetton,2.0
+275,1990,9,Maurício Gugelmin,Leyton House,1.0
+276,1990,9,Ivan Capelli,Leyton House,0.0
+277,1990,9,Jean Alesi,Tyrrell,0.0
+278,1990,9,Éric Bernard,Larrousse,0.0
+279,1990,9,Alex Caffi,Arrows,0.0
+280,1990,9,Derek Warwick,Team Lotus,0.0
+281,1990,9,Martin Donnelly,Team Lotus,0.0
+282,1990,9,Michele Alboreto,Arrows,0.0
+283,1990,9,Nicola Larini,Ligier,0.0
+284,1990,9,Pierluigi Martini,Minardi,0.0
+285,1990,9,Olivier Grouillard,Osella,0.0
+286,1990,9,Stefano Modena,Brabham,0.0
+287,1990,9,David Brabham,Brabham,0.0
+288,1990,9,Andrea de Cesaris,Dallara,0.0
+289,1990,9,Thierry Boutsen,Williams,0.0
+290,1990,9,Nigel Mansell,Ferrari,0.0
+291,1990,9,Riccardo Patrese,Williams,0.0
+292,1990,9,Emanuele Pirro,Dallara,0.0
+293,1990,9,Satoru Nakajima,Tyrrell,0.0
+294,1990,9,Aguri Suzuki,Larrousse,0.0
+295,1990,9,Paolo Barilla,Minardi,0.0
+296,1990,9,Philippe Alliot,Ligier,0.0
+297,1990,9,Gabriele Tarquini,AGS,0.0
+298,1990,9,Yannick Dalmas,AGS,0.0
+299,1990,9,Bertrand Gachot,Coloni,0.0
+300,1990,10,Ayrton Senna,McLaren,9.0
+301,1990,10,Alain Prost,Ferrari,6.0
+302,1990,10,Gerhard Berger,McLaren,4.0
+303,1990,10,Nigel Mansell,Ferrari,3.0
+304,1990,10,Riccardo Patrese,Williams,2.0
+305,1990,10,Satoru Nakajima,Tyrrell,1.0
+306,1990,10,Nelson Piquet,Benetton,0.0
+307,1990,10,Alessandro Nannini,Benetton,0.0
+308,1990,10,Alex Caffi,Arrows,0.0
+309,1990,10,Andrea de Cesaris,Dallara,0.0
+310,1990,10,Nicola Larini,Ligier,0.0
+311,1990,10,Michele Alboreto,Arrows,0.0
+312,1990,10,Philippe Alliot,Ligier,0.0
+313,1990,10,Yannick Dalmas,AGS,0.0
+314,1990,10,Ivan Capelli,Leyton House,0.0
+315,1990,10,Aguri Suzuki,Larrousse,0.0
+316,1990,10,Olivier Grouillard,Osella,0.0
+317,1990,10,Maurício Gugelmin,Leyton House,0.0
+318,1990,10,Stefano Modena,Brabham,0.0
+319,1990,10,Thierry Boutsen,Williams,0.0
+320,1990,10,Derek Warwick,Team Lotus,0.0
+321,1990,10,Emanuele Pirro,Dallara,0.0
+322,1990,10,Martin Donnelly,Team Lotus,0.0
+323,1990,10,Éric Bernard,Larrousse,0.0
+324,1990,10,Pierluigi Martini,Minardi,0.0
+325,1990,10,Jean Alesi,Tyrrell,0.0
+326,1990,10,Gabriele Tarquini,AGS,0.0
+327,1990,10,Paolo Barilla,Minardi,0.0
+328,1990,10,David Brabham,Brabham,0.0
+329,1990,10,Bertrand Gachot,Coloni,0.0
+330,1990,11,Nigel Mansell,Ferrari,9.0
+331,1990,11,Ayrton Senna,McLaren,6.0
+332,1990,11,Alain Prost,Ferrari,4.0
+333,1990,11,Gerhard Berger,McLaren,3.0
+334,1990,11,Nelson Piquet,Benetton,2.0
+335,1990,11,Alessandro Nannini,Benetton,1.0
+336,1990,11,Riccardo Patrese,Williams,0.0
+337,1990,11,Jean Alesi,Tyrrell,0.0
+338,1990,11,Michele Alboreto,Arrows,0.0
+339,1990,11,Nicola Larini,Ligier,0.0
+340,1990,11,Pierluigi Martini,Minardi,0.0
+341,1990,11,Maurício Gugelmin,Leyton House,0.0
+342,1990,11,Alex Caffi,Arrows,0.0
+343,1990,11,Aguri Suzuki,Larrousse,0.0
+344,1990,11,Emanuele Pirro,Dallara,0.0
+345,1990,11,Philippe Alliot,Ligier,0.0
+346,1990,11,David Brabham,Brabham,0.0
+347,1990,11,Ivan Capelli,Leyton House,0.0
+348,1990,11,Thierry Boutsen,Williams,0.0
+349,1990,11,Éric Bernard,Larrousse,0.0
+350,1990,11,Stefano Modena,Brabham,0.0
+351,1990,11,Martin Donnelly,Team Lotus,0.0
+352,1990,11,Derek Warwick,Team Lotus,0.0
+353,1990,11,Yannick Dalmas,AGS,0.0
+354,1990,11,Andrea de Cesaris,Dallara,0.0
+355,1990,11,Satoru Nakajima,Tyrrell,0.0
+356,1990,11,Olivier Grouillard,Osella,0.0
+357,1990,11,Paolo Barilla,Minardi,0.0
+358,1990,11,Gabriele Tarquini,AGS,0.0
+359,1990,11,Bertrand Gachot,Coloni,0.0
+360,1990,12,Alain Prost,Ferrari,9.0
+361,1990,12,Nigel Mansell,Ferrari,6.0
+362,1990,12,Alessandro Nannini,Benetton,4.0
+363,1990,12,Thierry Boutsen,Williams,3.0
+364,1990,12,Riccardo Patrese,Williams,2.0
+365,1990,12,Aguri Suzuki,Larrousse,1.0
+366,1990,12,Nicola Larini,Ligier,0.0
+367,1990,12,Maurício Gugelmin,Leyton House,0.0
+368,1990,12,Yannick Dalmas,AGS,0.0
+369,1990,12,Michele Alboreto,Arrows,0.0
+370,1990,12,Derek Warwick,Team Lotus,0.0
+371,1990,12,Ivan Capelli,Leyton House,0.0
+372,1990,12,Gerhard Berger,McLaren,0.0
+373,1990,12,Ayrton Senna,McLaren,0.0
+374,1990,12,Nelson Piquet,Benetton,0.0
+375,1990,12,Andrea de Cesaris,Dallara,0.0
+376,1990,12,Olivier Grouillard,Osella,0.0
+377,1990,12,Pierluigi Martini,Minardi,0.0
+378,1990,12,Philippe Alliot,Ligier,0.0
+379,1990,12,Éric Bernard,Larrousse,0.0
+380,1990,12,Satoru Nakajima,Tyrrell,0.0
+381,1990,12,Gabriele Tarquini,AGS,0.0
+382,1990,12,Stefano Modena,Brabham,0.0
+383,1990,12,Jean Alesi,Tyrrell,0.0
+384,1990,12,Emanuele Pirro,Dallara,0.0
+385,1990,12,Martin Donnelly,Team Lotus,0.0
+386,1990,12,David Brabham,Brabham,0.0
+387,1990,12,Paolo Barilla,Minardi,0.0
+388,1990,12,Bernd Schneider,Arrows,0.0
+389,1990,12,Bertrand Gachot,Coloni,0.0
+390,1990,13,Nelson Piquet,Benetton,9.0
+391,1990,13,Roberto Moreno,Benetton,6.0
+392,1990,13,Aguri Suzuki,Larrousse,4.0
+393,1990,13,Riccardo Patrese,Williams,3.0
+394,1990,13,Thierry Boutsen,Williams,2.0
+395,1990,13,Satoru Nakajima,Tyrrell,1.0
+396,1990,13,Nicola Larini,Ligier,0.0
+397,1990,13,Pierluigi Martini,Minardi,0.0
+398,1990,13,Alex Caffi,Arrows,0.0
+399,1990,13,Philippe Alliot,Ligier,0.0
+400,1990,13,Derek Warwick,Team Lotus,0.0
+401,1990,13,Johnny Herbert,Team Lotus,0.0
+402,1990,13,Michele Alboreto,Arrows,0.0
+403,1990,13,Nigel Mansell,Ferrari,0.0
+404,1990,13,Emanuele Pirro,Dallara,0.0
+405,1990,13,Éric Bernard,Larrousse,0.0
+406,1990,13,Gianni Morbidelli,Minardi,0.0
+407,1990,13,Ivan Capelli,Leyton House,0.0
+408,1990,13,Andrea de Cesaris,Dallara,0.0
+409,1990,13,Maurício Gugelmin,Leyton House,0.0
+410,1990,13,David Brabham,Brabham,0.0
+411,1990,13,Gerhard Berger,McLaren,0.0
+412,1990,13,Ayrton Senna,McLaren,0.0
+413,1990,13,Alain Prost,Ferrari,0.0
+414,1990,13,Stefano Modena,Brabham,0.0
+415,1990,13,Jean Alesi,Tyrrell,0.0
+416,1990,13,Olivier Grouillard,Osella,0.0
+417,1990,13,Gabriele Tarquini,AGS,0.0
+418,1990,13,Yannick Dalmas,AGS,0.0
+419,1990,13,Bertrand Gachot,Coloni,0.0
+420,1990,14,Nelson Piquet,Benetton,9.0
+421,1990,14,Nigel Mansell,Ferrari,6.0
+422,1990,14,Alain Prost,Ferrari,4.0
+423,1990,14,Gerhard Berger,McLaren,3.0
+424,1990,14,Thierry Boutsen,Williams,2.0
+425,1990,14,Riccardo Patrese,Williams,1.0
+426,1990,14,Roberto Moreno,Benetton,0.0
+427,1990,14,Jean Alesi,Tyrrell,0.0
+428,1990,14,Pierluigi Martini,Minardi,0.0
+429,1990,14,Nicola Larini,Ligier,0.0
+430,1990,14,Philippe Alliot,Ligier,0.0
+431,1990,14,Stefano Modena,Brabham,0.0
+432,1990,14,Olivier Grouillard,Osella,0.0
+433,1990,14,Emanuele Pirro,Dallara,0.0
+434,1990,14,Ayrton Senna,McLaren,0.0
+435,1990,14,Gabriele Tarquini,AGS,0.0
+436,1990,14,Johnny Herbert,Team Lotus,0.0
+437,1990,14,Satoru Nakajima,Tyrrell,0.0
+438,1990,14,Ivan Capelli,Leyton House,0.0
+439,1990,14,Derek Warwick,Team Lotus,0.0
+440,1990,14,Maurício Gugelmin,Leyton House,0.0
+441,1990,14,Andrea de Cesaris,Dallara,0.0
+442,1990,14,Éric Bernard,Larrousse,0.0
+443,1990,14,Gianni Morbidelli,Minardi,0.0
+444,1990,14,David Brabham,Brabham,0.0
+445,1990,14,Aguri Suzuki,Larrousse,0.0
+446,1990,14,Michele Alboreto,Arrows,0.0
+447,1990,14,Yannick Dalmas,AGS,0.0
+448,1990,14,Alex Caffi,Arrows,0.0
+449,1990,14,Bertrand Gachot,Coloni,0.0

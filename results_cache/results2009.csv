@@ -1,0 +1,321 @@
+,Year,GP,Driver,Team,Points
+0,2009,0,Jenson Button,Brawn,5.0
+1,2009,0,Nick Heidfeld,BMW Sauber,4.0
+2,2009,0,Timo Glock,Toyota,3.0
+3,2009,0,Jarno Trulli,Toyota,2.5
+4,2009,0,Rubens Barrichello,Brawn,2.0
+5,2009,0,Mark Webber,Red Bull,1.5
+6,2009,0,Lewis Hamilton,McLaren,1.0
+7,2009,0,Nico Rosberg,Williams,0.5
+8,2009,0,Felipe Massa,Ferrari,0.0
+9,2009,0,Sébastien Bourdais,Toro Rosso,0.0
+10,2009,0,Fernando Alonso,Renault,0.0
+11,2009,0,Kazuki Nakajima,Williams,0.0
+12,2009,0,Nelson Piquet Jr.,Renault,0.0
+13,2009,0,Kimi Räikkönen,Ferrari,0.0
+14,2009,0,Sebastian Vettel,Red Bull,0.0
+15,2009,0,Sébastien Buemi,Toro Rosso,0.0
+16,2009,0,Adrian Sutil,Force India,0.0
+17,2009,0,Giancarlo Fisichella,Force India,0.0
+18,2009,0,Robert Kubica,BMW Sauber,0.0
+19,2009,0,Heikki Kovalainen,McLaren,0.0
+20,2009,1,Sebastian Vettel,Red Bull,10.0
+21,2009,1,Mark Webber,Red Bull,8.0
+22,2009,1,Jenson Button,Brawn,6.0
+23,2009,1,Rubens Barrichello,Brawn,5.0
+24,2009,1,Heikki Kovalainen,McLaren,4.0
+25,2009,1,Lewis Hamilton,McLaren,3.0
+26,2009,1,Timo Glock,Toyota,2.0
+27,2009,1,Sébastien Buemi,Toro Rosso,1.0
+28,2009,1,Fernando Alonso,Renault,0.0
+29,2009,1,Kimi Räikkönen,Ferrari,0.0
+30,2009,1,Sébastien Bourdais,Toro Rosso,0.0
+31,2009,1,Nick Heidfeld,BMW Sauber,0.0
+32,2009,1,Robert Kubica,BMW Sauber,0.0
+33,2009,1,Giancarlo Fisichella,Force India,0.0
+34,2009,1,Nico Rosberg,Williams,0.0
+35,2009,1,Nelson Piquet Jr.,Renault,0.0
+36,2009,1,Adrian Sutil,Force India,0.0
+37,2009,1,Kazuki Nakajima,Williams,0.0
+38,2009,1,Felipe Massa,Ferrari,0.0
+39,2009,1,Jarno Trulli,Toyota,0.0
+40,2009,2,Jenson Button,Brawn,10.0
+41,2009,2,Sebastian Vettel,Red Bull,8.0
+42,2009,2,Jarno Trulli,Toyota,6.0
+43,2009,2,Lewis Hamilton,McLaren,5.0
+44,2009,2,Rubens Barrichello,Brawn,4.0
+45,2009,2,Kimi Räikkönen,Ferrari,3.0
+46,2009,2,Timo Glock,Toyota,2.0
+47,2009,2,Fernando Alonso,Renault,1.0
+48,2009,2,Nico Rosberg,Williams,0.0
+49,2009,2,Nelson Piquet Jr.,Renault,0.0
+50,2009,2,Mark Webber,Red Bull,0.0
+51,2009,2,Heikki Kovalainen,McLaren,0.0
+52,2009,2,Sébastien Bourdais,Toro Rosso,0.0
+53,2009,2,Felipe Massa,Ferrari,0.0
+54,2009,2,Giancarlo Fisichella,Force India,0.0
+55,2009,2,Adrian Sutil,Force India,0.0
+56,2009,2,Sébastien Buemi,Toro Rosso,0.0
+57,2009,2,Robert Kubica,BMW Sauber,0.0
+58,2009,2,Nick Heidfeld,BMW Sauber,0.0
+59,2009,2,Kazuki Nakajima,Williams,0.0
+60,2009,3,Jenson Button,Brawn,10.0
+61,2009,3,Rubens Barrichello,Brawn,8.0
+62,2009,3,Mark Webber,Red Bull,6.0
+63,2009,3,Sebastian Vettel,Red Bull,5.0
+64,2009,3,Fernando Alonso,Renault,4.0
+65,2009,3,Felipe Massa,Ferrari,3.0
+66,2009,3,Nick Heidfeld,BMW Sauber,2.0
+67,2009,3,Nico Rosberg,Williams,1.0
+68,2009,3,Lewis Hamilton,McLaren,0.0
+69,2009,3,Timo Glock,Toyota,0.0
+70,2009,3,Robert Kubica,BMW Sauber,0.0
+71,2009,3,Nelson Piquet Jr.,Renault,0.0
+72,2009,3,Kazuki Nakajima,Williams,0.0
+73,2009,3,Giancarlo Fisichella,Force India,0.0
+74,2009,3,Kimi Räikkönen,Ferrari,0.0
+75,2009,3,Heikki Kovalainen,McLaren,0.0
+76,2009,3,Jarno Trulli,Toyota,0.0
+77,2009,3,Sébastien Buemi,Toro Rosso,0.0
+78,2009,3,Sébastien Bourdais,Toro Rosso,0.0
+79,2009,3,Adrian Sutil,Force India,0.0
+80,2009,4,Jenson Button,Brawn,10.0
+81,2009,4,Rubens Barrichello,Brawn,8.0
+82,2009,4,Kimi Räikkönen,Ferrari,6.0
+83,2009,4,Felipe Massa,Ferrari,5.0
+84,2009,4,Mark Webber,Red Bull,4.0
+85,2009,4,Nico Rosberg,Williams,3.0
+86,2009,4,Fernando Alonso,Renault,2.0
+87,2009,4,Sébastien Bourdais,Toro Rosso,1.0
+88,2009,4,Giancarlo Fisichella,Force India,0.0
+89,2009,4,Timo Glock,Toyota,0.0
+90,2009,4,Nick Heidfeld,BMW Sauber,0.0
+91,2009,4,Lewis Hamilton,McLaren,0.0
+92,2009,4,Jarno Trulli,Toyota,0.0
+93,2009,4,Adrian Sutil,Force India,0.0
+94,2009,4,Kazuki Nakajima,Williams,0.0
+95,2009,4,Heikki Kovalainen,McLaren,0.0
+96,2009,4,Robert Kubica,BMW Sauber,0.0
+97,2009,4,Sebastian Vettel,Red Bull,0.0
+98,2009,4,Nelson Piquet Jr.,Renault,0.0
+99,2009,4,Sébastien Buemi,Toro Rosso,0.0
+100,2009,5,Jenson Button,Brawn,10.0
+101,2009,5,Mark Webber,Red Bull,8.0
+102,2009,5,Sebastian Vettel,Red Bull,6.0
+103,2009,5,Jarno Trulli,Toyota,5.0
+104,2009,5,Nico Rosberg,Williams,4.0
+105,2009,5,Felipe Massa,Ferrari,3.0
+106,2009,5,Robert Kubica,BMW Sauber,2.0
+107,2009,5,Timo Glock,Toyota,1.0
+108,2009,5,Kimi Räikkönen,Ferrari,0.0
+109,2009,5,Fernando Alonso,Renault,0.0
+110,2009,5,Nick Heidfeld,BMW Sauber,0.0
+111,2009,5,Kazuki Nakajima,Williams,0.0
+112,2009,5,Lewis Hamilton,McLaren,0.0
+113,2009,5,Heikki Kovalainen,McLaren,0.0
+114,2009,5,Sébastien Buemi,Toro Rosso,0.0
+115,2009,5,Nelson Piquet Jr.,Renault,0.0
+116,2009,5,Adrian Sutil,Force India,0.0
+117,2009,5,Sébastien Bourdais,Toro Rosso,0.0
+118,2009,5,Rubens Barrichello,Brawn,0.0
+119,2009,5,Giancarlo Fisichella,Force India,0.0
+120,2009,6,Sebastian Vettel,Red Bull,10.0
+121,2009,6,Mark Webber,Red Bull,8.0
+122,2009,6,Rubens Barrichello,Brawn,6.0
+123,2009,6,Felipe Massa,Ferrari,5.0
+124,2009,6,Nico Rosberg,Williams,4.0
+125,2009,6,Jenson Button,Brawn,3.0
+126,2009,6,Jarno Trulli,Toyota,2.0
+127,2009,6,Kimi Räikkönen,Ferrari,1.0
+128,2009,6,Timo Glock,Toyota,0.0
+129,2009,6,Giancarlo Fisichella,Force India,0.0
+130,2009,6,Kazuki Nakajima,Williams,0.0
+131,2009,6,Nelson Piquet Jr.,Renault,0.0
+132,2009,6,Robert Kubica,BMW Sauber,0.0
+133,2009,6,Fernando Alonso,Renault,0.0
+134,2009,6,Nick Heidfeld,BMW Sauber,0.0
+135,2009,6,Lewis Hamilton,McLaren,0.0
+136,2009,6,Adrian Sutil,Force India,0.0
+137,2009,6,Sébastien Buemi,Toro Rosso,0.0
+138,2009,6,Sébastien Bourdais,Toro Rosso,0.0
+139,2009,6,Heikki Kovalainen,McLaren,0.0
+140,2009,7,Mark Webber,Red Bull,10.0
+141,2009,7,Sebastian Vettel,Red Bull,8.0
+142,2009,7,Felipe Massa,Ferrari,6.0
+143,2009,7,Nico Rosberg,Williams,5.0
+144,2009,7,Jenson Button,Brawn,4.0
+145,2009,7,Rubens Barrichello,Brawn,3.0
+146,2009,7,Fernando Alonso,Renault,2.0
+147,2009,7,Heikki Kovalainen,McLaren,1.0
+148,2009,7,Timo Glock,Toyota,0.0
+149,2009,7,Nick Heidfeld,BMW Sauber,0.0
+150,2009,7,Giancarlo Fisichella,Force India,0.0
+151,2009,7,Kazuki Nakajima,Williams,0.0
+152,2009,7,Nelson Piquet Jr.,Renault,0.0
+153,2009,7,Robert Kubica,BMW Sauber,0.0
+154,2009,7,Adrian Sutil,Force India,0.0
+155,2009,7,Sébastien Buemi,Toro Rosso,0.0
+156,2009,7,Jarno Trulli,Toyota,0.0
+157,2009,7,Lewis Hamilton,McLaren,0.0
+158,2009,7,Kimi Räikkönen,Ferrari,0.0
+159,2009,7,Sébastien Bourdais,Toro Rosso,0.0
+160,2009,8,Lewis Hamilton,McLaren,10.0
+161,2009,8,Kimi Räikkönen,Ferrari,8.0
+162,2009,8,Mark Webber,Red Bull,6.0
+163,2009,8,Nico Rosberg,Williams,5.0
+164,2009,8,Heikki Kovalainen,McLaren,4.0
+165,2009,8,Timo Glock,Toyota,3.0
+166,2009,8,Jenson Button,Brawn,2.0
+167,2009,8,Jarno Trulli,Toyota,1.0
+168,2009,8,Kazuki Nakajima,Williams,0.0
+169,2009,8,Rubens Barrichello,Brawn,0.0
+170,2009,8,Nick Heidfeld,BMW Sauber,0.0
+171,2009,8,Nelson Piquet Jr.,Renault,0.0
+172,2009,8,Robert Kubica,BMW Sauber,0.0
+173,2009,8,Giancarlo Fisichella,Force India,0.0
+174,2009,8,Jaime Alguersuari,Toro Rosso,0.0
+175,2009,8,Sébastien Buemi,Toro Rosso,0.0
+176,2009,8,Sebastian Vettel,Red Bull,0.0
+177,2009,8,Fernando Alonso,Renault,0.0
+178,2009,8,Adrian Sutil,Force India,0.0
+179,2009,8,Felipe Massa,Ferrari,0.0
+180,2009,9,Rubens Barrichello,Brawn,10.0
+181,2009,9,Lewis Hamilton,McLaren,8.0
+182,2009,9,Kimi Räikkönen,Ferrari,6.0
+183,2009,9,Heikki Kovalainen,McLaren,5.0
+184,2009,9,Nico Rosberg,Williams,4.0
+185,2009,9,Fernando Alonso,Renault,3.0
+186,2009,9,Jenson Button,Brawn,2.0
+187,2009,9,Robert Kubica,BMW Sauber,1.0
+188,2009,9,Mark Webber,Red Bull,0.0
+189,2009,9,Adrian Sutil,Force India,0.0
+190,2009,9,Nick Heidfeld,BMW Sauber,0.0
+191,2009,9,Giancarlo Fisichella,Force India,0.0
+192,2009,9,Jarno Trulli,Toyota,0.0
+193,2009,9,Timo Glock,Toyota,0.0
+194,2009,9,Romain Grosjean,Renault,0.0
+195,2009,9,Jaime Alguersuari,Toro Rosso,0.0
+196,2009,9,Luca Badoer,Ferrari,0.0
+197,2009,9,Kazuki Nakajima,Williams,0.0
+198,2009,9,Sébastien Buemi,Toro Rosso,0.0
+199,2009,9,Sebastian Vettel,Red Bull,0.0
+200,2009,10,Kimi Räikkönen,Ferrari,10.0
+201,2009,10,Giancarlo Fisichella,Force India,8.0
+202,2009,10,Sebastian Vettel,Red Bull,6.0
+203,2009,10,Robert Kubica,BMW Sauber,5.0
+204,2009,10,Nick Heidfeld,BMW Sauber,4.0
+205,2009,10,Heikki Kovalainen,McLaren,3.0
+206,2009,10,Rubens Barrichello,Brawn,2.0
+207,2009,10,Nico Rosberg,Williams,1.0
+208,2009,10,Mark Webber,Red Bull,0.0
+209,2009,10,Timo Glock,Toyota,0.0
+210,2009,10,Adrian Sutil,Force India,0.0
+211,2009,10,Sébastien Buemi,Toro Rosso,0.0
+212,2009,10,Kazuki Nakajima,Williams,0.0
+213,2009,10,Luca Badoer,Ferrari,0.0
+214,2009,10,Fernando Alonso,Renault,0.0
+215,2009,10,Jarno Trulli,Toyota,0.0
+216,2009,10,Jenson Button,Brawn,0.0
+217,2009,10,Romain Grosjean,Renault,0.0
+218,2009,10,Lewis Hamilton,McLaren,0.0
+219,2009,10,Jaime Alguersuari,Toro Rosso,0.0
+220,2009,11,Rubens Barrichello,Brawn,10.0
+221,2009,11,Jenson Button,Brawn,8.0
+222,2009,11,Kimi Räikkönen,Ferrari,6.0
+223,2009,11,Adrian Sutil,Force India,5.0
+224,2009,11,Fernando Alonso,Renault,4.0
+225,2009,11,Heikki Kovalainen,McLaren,3.0
+226,2009,11,Nick Heidfeld,BMW Sauber,2.0
+227,2009,11,Sebastian Vettel,Red Bull,1.0
+228,2009,11,Giancarlo Fisichella,Ferrari,0.0
+229,2009,11,Kazuki Nakajima,Williams,0.0
+230,2009,11,Timo Glock,Toyota,0.0
+231,2009,11,Lewis Hamilton,McLaren,0.0
+232,2009,11,Sébastien Buemi,Toro Rosso,0.0
+233,2009,11,Jarno Trulli,Toyota,0.0
+234,2009,11,Romain Grosjean,Renault,0.0
+235,2009,11,Nico Rosberg,Williams,0.0
+236,2009,11,Vitantonio Liuzzi,Force India,0.0
+237,2009,11,Jaime Alguersuari,Toro Rosso,0.0
+238,2009,11,Robert Kubica,BMW Sauber,0.0
+239,2009,11,Mark Webber,Red Bull,0.0
+240,2009,12,Lewis Hamilton,McLaren,10.0
+241,2009,12,Timo Glock,Toyota,8.0
+242,2009,12,Fernando Alonso,Renault,6.0
+243,2009,12,Sebastian Vettel,Red Bull,5.0
+244,2009,12,Jenson Button,Brawn,4.0
+245,2009,12,Rubens Barrichello,Brawn,3.0
+246,2009,12,Heikki Kovalainen,McLaren,2.0
+247,2009,12,Robert Kubica,BMW Sauber,1.0
+248,2009,12,Kazuki Nakajima,Williams,0.0
+249,2009,12,Kimi Räikkönen,Ferrari,0.0
+250,2009,12,Nico Rosberg,Williams,0.0
+251,2009,12,Jarno Trulli,Toyota,0.0
+252,2009,12,Giancarlo Fisichella,Ferrari,0.0
+253,2009,12,Vitantonio Liuzzi,Force India,0.0
+254,2009,12,Jaime Alguersuari,Toro Rosso,0.0
+255,2009,12,Sébastien Buemi,Toro Rosso,0.0
+256,2009,12,Mark Webber,Red Bull,0.0
+257,2009,12,Adrian Sutil,Force India,0.0
+258,2009,12,Nick Heidfeld,BMW Sauber,0.0
+259,2009,12,Romain Grosjean,Renault,0.0
+260,2009,13,Sebastian Vettel,Red Bull,10.0
+261,2009,13,Jarno Trulli,Toyota,8.0
+262,2009,13,Lewis Hamilton,McLaren,6.0
+263,2009,13,Kimi Räikkönen,Ferrari,5.0
+264,2009,13,Nico Rosberg,Williams,4.0
+265,2009,13,Nick Heidfeld,BMW Sauber,3.0
+266,2009,13,Rubens Barrichello,Brawn,2.0
+267,2009,13,Jenson Button,Brawn,1.0
+268,2009,13,Robert Kubica,BMW Sauber,0.0
+269,2009,13,Fernando Alonso,Renault,0.0
+270,2009,13,Heikki Kovalainen,McLaren,0.0
+271,2009,13,Giancarlo Fisichella,Ferrari,0.0
+272,2009,13,Adrian Sutil,Force India,0.0
+273,2009,13,Vitantonio Liuzzi,Force India,0.0
+274,2009,13,Kazuki Nakajima,Williams,0.0
+275,2009,13,Romain Grosjean,Renault,0.0
+276,2009,13,Mark Webber,Red Bull,0.0
+277,2009,13,Jaime Alguersuari,Toro Rosso,0.0
+278,2009,13,Sébastien Buemi,Toro Rosso,0.0
+279,2009,13,Timo Glock,Toyota,0.0
+280,2009,14,Mark Webber,Red Bull,10.0
+281,2009,14,Robert Kubica,BMW Sauber,8.0
+282,2009,14,Lewis Hamilton,McLaren,6.0
+283,2009,14,Sebastian Vettel,Red Bull,5.0
+284,2009,14,Jenson Button,Brawn,4.0
+285,2009,14,Kimi Räikkönen,Ferrari,3.0
+286,2009,14,Sébastien Buemi,Toro Rosso,2.0
+287,2009,14,Rubens Barrichello,Brawn,1.0
+288,2009,14,Heikki Kovalainen,McLaren,0.0
+289,2009,14,Kamui Kobayashi,Toyota,0.0
+290,2009,14,Giancarlo Fisichella,Ferrari,0.0
+291,2009,14,Vitantonio Liuzzi,Force India,0.0
+292,2009,14,Romain Grosjean,Renault,0.0
+293,2009,14,Jaime Alguersuari,Toro Rosso,0.0
+294,2009,14,Kazuki Nakajima,Williams,0.0
+295,2009,14,Nico Rosberg,Williams,0.0
+296,2009,14,Nick Heidfeld,BMW Sauber,0.0
+297,2009,14,Adrian Sutil,Force India,0.0
+298,2009,14,Jarno Trulli,Toyota,0.0
+299,2009,14,Fernando Alonso,Renault,0.0
+300,2009,15,Sebastian Vettel,Red Bull,10.0
+301,2009,15,Mark Webber,Red Bull,8.0
+302,2009,15,Jenson Button,Brawn,6.0
+303,2009,15,Rubens Barrichello,Brawn,5.0
+304,2009,15,Nick Heidfeld,BMW Sauber,4.0
+305,2009,15,Kamui Kobayashi,Toyota,3.0
+306,2009,15,Jarno Trulli,Toyota,2.0
+307,2009,15,Sébastien Buemi,Toro Rosso,1.0
+308,2009,15,Nico Rosberg,Williams,0.0
+309,2009,15,Robert Kubica,BMW Sauber,0.0
+310,2009,15,Heikki Kovalainen,McLaren,0.0
+311,2009,15,Kimi Räikkönen,Ferrari,0.0
+312,2009,15,Kazuki Nakajima,Williams,0.0
+313,2009,15,Fernando Alonso,Renault,0.0
+314,2009,15,Vitantonio Liuzzi,Force India,0.0
+315,2009,15,Giancarlo Fisichella,Ferrari,0.0
+316,2009,15,Adrian Sutil,Force India,0.0
+317,2009,15,Romain Grosjean,Renault,0.0
+318,2009,15,Lewis Hamilton,McLaren,0.0
+319,2009,15,Jaime Alguersuari,Toro Rosso,0.0

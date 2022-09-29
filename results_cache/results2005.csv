@@ -1,0 +1,357 @@
+,Year,GP,Driver,Team,Points
+0,2005,0,Fernando Alonso,Renault,10.0
+1,2005,0,Jarno Trulli,Toyota,8.0
+2,2005,0,Nick Heidfeld,Williams,6.0
+3,2005,0,Juan Pablo Montoya,McLaren,5.0
+4,2005,0,Ralf Schumacher,Toyota,4.0
+5,2005,0,David Coulthard,Red Bull,3.0
+6,2005,0,Michael Schumacher,Ferrari,2.0
+7,2005,0,Christian Klien,Red Bull,1.0
+8,2005,0,Kimi Räikkönen,McLaren,0.0
+9,2005,0,Felipe Massa,Sauber,0.0
+10,2005,0,Narain Karthikeyan,Jordan,0.0
+11,2005,0,Tiago Monteiro,Jordan,0.0
+12,2005,0,Christijan Albers,Minardi,0.0
+13,2005,0,Rubens Barrichello,Ferrari,0.0
+14,2005,0,Giancarlo Fisichella,Renault,0.0
+15,2005,0,Mark Webber,Williams,0.0
+16,2005,0,Jacques Villeneuve,Sauber,0.0
+17,2005,0,Jenson Button,BAR,0.0
+18,2005,0,Anthony Davidson,BAR,0.0
+19,2005,0,Patrick Friesacher,Minardi,0.0
+20,2005,1,Fernando Alonso,Renault,10.0
+21,2005,1,Jarno Trulli,Toyota,8.0
+22,2005,1,Kimi Räikkönen,McLaren,6.0
+23,2005,1,Ralf Schumacher,Toyota,5.0
+24,2005,1,Pedro de la Rosa,McLaren,4.0
+25,2005,1,Mark Webber,Williams,3.0
+26,2005,1,Felipe Massa,Sauber,2.0
+27,2005,1,David Coulthard,Red Bull,1.0
+28,2005,1,Rubens Barrichello,Ferrari,0.0
+29,2005,1,Tiago Monteiro,Jordan,0.0
+30,2005,1,Jacques Villeneuve,Sauber,0.0
+31,2005,1,Patrick Friesacher,Minardi,0.0
+32,2005,1,Christijan Albers,Minardi,0.0
+33,2005,1,Jenson Button,BAR,0.0
+34,2005,1,Takuma Sato,BAR,0.0
+35,2005,1,Nick Heidfeld,Williams,0.0
+36,2005,1,Michael Schumacher,Ferrari,0.0
+37,2005,1,Giancarlo Fisichella,Renault,0.0
+38,2005,1,Narain Karthikeyan,Jordan,0.0
+39,2005,1,Christian Klien,Red Bull,0.0
+40,2005,2,Fernando Alonso,Renault,10.0
+41,2005,2,Michael Schumacher,Ferrari,8.0
+42,2005,2,Alexander Wurz,McLaren,6.0
+43,2005,2,Jacques Villeneuve,Sauber,5.0
+44,2005,2,Jarno Trulli,Toyota,4.0
+45,2005,2,Nick Heidfeld,Williams,3.0
+46,2005,2,Mark Webber,Williams,2.0
+47,2005,2,Vitantonio Liuzzi,Red Bull,1.0
+48,2005,2,Ralf Schumacher,Toyota,0.0
+49,2005,2,Felipe Massa,Sauber,0.0
+50,2005,2,David Coulthard,Red Bull,0.0
+51,2005,2,Narain Karthikeyan,Jordan,0.0
+52,2005,2,Tiago Monteiro,Jordan,0.0
+53,2005,2,Christijan Albers,Minardi,0.0
+54,2005,2,Rubens Barrichello,Ferrari,0.0
+55,2005,2,Kimi Räikkönen,McLaren,0.0
+56,2005,2,Patrick Friesacher,Minardi,0.0
+57,2005,2,Giancarlo Fisichella,Renault,0.0
+58,2005,2,Jenson Button,BAR,0.0
+59,2005,2,Takuma Sato,BAR,0.0
+60,2005,3,Kimi Räikkönen,McLaren,10.0
+61,2005,3,Fernando Alonso,Renault,8.0
+62,2005,3,Jarno Trulli,Toyota,6.0
+63,2005,3,Ralf Schumacher,Toyota,5.0
+64,2005,3,Giancarlo Fisichella,Renault,4.0
+65,2005,3,Mark Webber,Williams,3.0
+66,2005,3,Juan Pablo Montoya,McLaren,2.0
+67,2005,3,David Coulthard,Red Bull,1.0
+68,2005,3,Rubens Barrichello,Ferrari,0.0
+69,2005,3,Nick Heidfeld,Williams,0.0
+70,2005,3,Felipe Massa,Sauber,0.0
+71,2005,3,Tiago Monteiro,Jordan,0.0
+72,2005,3,Narain Karthikeyan,Jordan,0.0
+73,2005,3,Jacques Villeneuve,Sauber,0.0
+74,2005,3,Michael Schumacher,Ferrari,0.0
+75,2005,3,Christijan Albers,Minardi,0.0
+76,2005,3,Patrick Friesacher,Minardi,0.0
+77,2005,3,Vitantonio Liuzzi,Red Bull,0.0
+78,2005,4,Kimi Räikkönen,McLaren,10.0
+79,2005,4,Nick Heidfeld,Williams,8.0
+80,2005,4,Mark Webber,Williams,6.0
+81,2005,4,Fernando Alonso,Renault,5.0
+82,2005,4,Juan Pablo Montoya,McLaren,4.0
+83,2005,4,Ralf Schumacher,Toyota,3.0
+84,2005,4,Michael Schumacher,Ferrari,2.0
+85,2005,4,Rubens Barrichello,Ferrari,1.0
+86,2005,4,Felipe Massa,Sauber,0.0
+87,2005,4,Jarno Trulli,Toyota,0.0
+88,2005,4,Jacques Villeneuve,Sauber,0.0
+89,2005,4,Giancarlo Fisichella,Renault,0.0
+90,2005,4,Tiago Monteiro,Jordan,0.0
+91,2005,4,Christijan Albers,Minardi,0.0
+92,2005,4,Vitantonio Liuzzi,Red Bull,0.0
+93,2005,4,Patrick Friesacher,Minardi,0.0
+94,2005,4,David Coulthard,Red Bull,0.0
+95,2005,4,Narain Karthikeyan,Jordan,0.0
+96,2005,5,Fernando Alonso,Renault,10.0
+97,2005,5,Nick Heidfeld,Williams,8.0
+98,2005,5,Rubens Barrichello,Ferrari,6.0
+99,2005,5,David Coulthard,Red Bull,5.0
+100,2005,5,Michael Schumacher,Ferrari,4.0
+101,2005,5,Giancarlo Fisichella,Renault,3.0
+102,2005,5,Juan Pablo Montoya,McLaren,2.0
+103,2005,5,Jarno Trulli,Toyota,1.0
+104,2005,5,Vitantonio Liuzzi,Red Bull,0.0
+105,2005,5,Jenson Button,BAR,0.0
+106,2005,5,Kimi Räikkönen,McLaren,0.0
+107,2005,5,Takuma Sato,BAR,0.0
+108,2005,5,Jacques Villeneuve,Sauber,0.0
+109,2005,5,Felipe Massa,Sauber,0.0
+110,2005,5,Tiago Monteiro,Jordan,0.0
+111,2005,5,Narain Karthikeyan,Jordan,0.0
+112,2005,5,Christijan Albers,Minardi,0.0
+113,2005,5,Patrick Friesacher,Minardi,0.0
+114,2005,5,Ralf Schumacher,Toyota,0.0
+115,2005,5,Mark Webber,Williams,0.0
+116,2005,6,Kimi Räikkönen,McLaren,10.0
+117,2005,6,Michael Schumacher,Ferrari,8.0
+118,2005,6,Rubens Barrichello,Ferrari,6.0
+119,2005,6,Felipe Massa,Sauber,5.0
+120,2005,6,Mark Webber,Williams,4.0
+121,2005,6,Ralf Schumacher,Toyota,3.0
+122,2005,6,David Coulthard,Red Bull,2.0
+123,2005,6,Christian Klien,Red Bull,1.0
+124,2005,6,Jacques Villeneuve,Sauber,0.0
+125,2005,6,Tiago Monteiro,Jordan,0.0
+126,2005,6,Christijan Albers,Minardi,0.0
+127,2005,6,Jarno Trulli,Toyota,0.0
+128,2005,6,Jenson Button,BAR,0.0
+129,2005,6,Nick Heidfeld,Williams,0.0
+130,2005,6,Takuma Sato,BAR,0.0
+131,2005,6,Patrick Friesacher,Minardi,0.0
+132,2005,6,Fernando Alonso,Renault,0.0
+133,2005,6,Giancarlo Fisichella,Renault,0.0
+134,2005,6,Narain Karthikeyan,Jordan,0.0
+135,2005,6,Juan Pablo Montoya,McLaren,0.0
+136,2005,7,Michael Schumacher,Ferrari,10.0
+137,2005,7,Rubens Barrichello,Ferrari,8.0
+138,2005,7,Tiago Monteiro,Jordan,6.0
+139,2005,7,Narain Karthikeyan,Jordan,5.0
+140,2005,7,Christijan Albers,Minardi,4.0
+141,2005,7,Patrick Friesacher,Minardi,3.0
+142,2005,7,Jarno Trulli,Toyota,0.0
+143,2005,7,Kimi Räikkönen,McLaren,0.0
+144,2005,7,Jenson Button,BAR,0.0
+145,2005,7,Giancarlo Fisichella,Renault,0.0
+146,2005,7,Fernando Alonso,Renault,0.0
+147,2005,7,Takuma Sato,BAR,0.0
+148,2005,7,Mark Webber,Williams,0.0
+149,2005,7,Felipe Massa,Sauber,0.0
+150,2005,7,Juan Pablo Montoya,McLaren,0.0
+151,2005,7,Jacques Villeneuve,Sauber,0.0
+152,2005,7,Ricardo Zonta,Toyota,0.0
+153,2005,7,Christian Klien,Red Bull,0.0
+154,2005,7,Nick Heidfeld,Williams,0.0
+155,2005,7,David Coulthard,Red Bull,0.0
+156,2005,8,Fernando Alonso,Renault,10.0
+157,2005,8,Kimi Räikkönen,McLaren,8.0
+158,2005,8,Michael Schumacher,Ferrari,6.0
+159,2005,8,Jenson Button,BAR,5.0
+160,2005,8,Jarno Trulli,Toyota,4.0
+161,2005,8,Giancarlo Fisichella,Renault,3.0
+162,2005,8,Ralf Schumacher,Toyota,2.0
+163,2005,8,Jacques Villeneuve,Sauber,1.0
+164,2005,8,Rubens Barrichello,Ferrari,0.0
+165,2005,8,David Coulthard,Red Bull,0.0
+166,2005,8,Takuma Sato,BAR,0.0
+167,2005,8,Mark Webber,Williams,0.0
+168,2005,8,Tiago Monteiro,Jordan,0.0
+169,2005,8,Nick Heidfeld,Williams,0.0
+170,2005,8,Narain Karthikeyan,Jordan,0.0
+171,2005,8,Juan Pablo Montoya,McLaren,0.0
+172,2005,8,Christijan Albers,Minardi,0.0
+173,2005,8,Patrick Friesacher,Minardi,0.0
+174,2005,8,Felipe Massa,Sauber,0.0
+175,2005,8,Christian Klien,Red Bull,0.0
+176,2005,9,Juan Pablo Montoya,McLaren,10.0
+177,2005,9,Fernando Alonso,Renault,8.0
+178,2005,9,Kimi Räikkönen,McLaren,6.0
+179,2005,9,Giancarlo Fisichella,Renault,5.0
+180,2005,9,Jenson Button,BAR,4.0
+181,2005,9,Michael Schumacher,Ferrari,3.0
+182,2005,9,Rubens Barrichello,Ferrari,2.0
+183,2005,9,Ralf Schumacher,Toyota,1.0
+184,2005,9,Jarno Trulli,Toyota,0.0
+185,2005,9,Felipe Massa,Sauber,0.0
+186,2005,9,Mark Webber,Williams,0.0
+187,2005,9,Nick Heidfeld,Williams,0.0
+188,2005,9,David Coulthard,Red Bull,0.0
+189,2005,9,Jacques Villeneuve,Sauber,0.0
+190,2005,9,Christian Klien,Red Bull,0.0
+191,2005,9,Takuma Sato,BAR,0.0
+192,2005,9,Tiago Monteiro,Jordan,0.0
+193,2005,9,Christijan Albers,Minardi,0.0
+194,2005,9,Patrick Friesacher,Minardi,0.0
+195,2005,9,Narain Karthikeyan,Jordan,0.0
+196,2005,10,Fernando Alonso,Renault,10.0
+197,2005,10,Juan Pablo Montoya,McLaren,8.0
+198,2005,10,Jenson Button,BAR,6.0
+199,2005,10,Giancarlo Fisichella,Renault,5.0
+200,2005,10,Michael Schumacher,Ferrari,4.0
+201,2005,10,Ralf Schumacher,Toyota,3.0
+202,2005,10,David Coulthard,Red Bull,2.0
+203,2005,10,Felipe Massa,Sauber,1.0
+204,2005,10,Christian Klien,Red Bull,0.0
+205,2005,10,Rubens Barrichello,Ferrari,0.0
+206,2005,10,Nick Heidfeld,Williams,0.0
+207,2005,10,Takuma Sato,BAR,0.0
+208,2005,10,Christijan Albers,Minardi,0.0
+209,2005,10,Jarno Trulli,Toyota,0.0
+210,2005,10,Jacques Villeneuve,Sauber,0.0
+211,2005,10,Narain Karthikeyan,Jordan,0.0
+212,2005,10,Tiago Monteiro,Jordan,0.0
+213,2005,10,Robert Doornbos,Minardi,0.0
+214,2005,10,Mark Webber,Williams,0.0
+215,2005,10,Kimi Räikkönen,McLaren,0.0
+216,2005,11,Kimi Räikkönen,McLaren,10.0
+217,2005,11,Michael Schumacher,Ferrari,8.0
+218,2005,11,Ralf Schumacher,Toyota,6.0
+219,2005,11,Jarno Trulli,Toyota,5.0
+220,2005,11,Jenson Button,BAR,4.0
+221,2005,11,Nick Heidfeld,Williams,3.0
+222,2005,11,Mark Webber,Williams,2.0
+223,2005,11,Takuma Sato,BAR,1.0
+224,2005,11,Giancarlo Fisichella,Renault,0.0
+225,2005,11,Rubens Barrichello,Ferrari,0.0
+226,2005,11,Fernando Alonso,Renault,0.0
+227,2005,11,Narain Karthikeyan,Jordan,0.0
+228,2005,11,Tiago Monteiro,Jordan,0.0
+229,2005,11,Felipe Massa,Sauber,0.0
+230,2005,11,Christijan Albers,Minardi,0.0
+231,2005,11,Jacques Villeneuve,Sauber,0.0
+232,2005,11,Juan Pablo Montoya,McLaren,0.0
+233,2005,11,Robert Doornbos,Minardi,0.0
+234,2005,11,David Coulthard,Red Bull,0.0
+235,2005,11,Christian Klien,Red Bull,0.0
+236,2005,12,Kimi Räikkönen,McLaren,10.0
+237,2005,12,Fernando Alonso,Renault,8.0
+238,2005,12,Juan Pablo Montoya,McLaren,6.0
+239,2005,12,Giancarlo Fisichella,Renault,5.0
+240,2005,12,Jenson Button,BAR,4.0
+241,2005,12,Jarno Trulli,Toyota,3.0
+242,2005,12,David Coulthard,Red Bull,2.0
+243,2005,12,Christian Klien,Red Bull,1.0
+244,2005,12,Takuma Sato,BAR,0.0
+245,2005,12,Rubens Barrichello,Ferrari,0.0
+246,2005,12,Jacques Villeneuve,Sauber,0.0
+247,2005,12,Ralf Schumacher,Toyota,0.0
+248,2005,12,Robert Doornbos,Minardi,0.0
+249,2005,12,Narain Karthikeyan,Jordan,0.0
+250,2005,12,Tiago Monteiro,Jordan,0.0
+251,2005,12,Christijan Albers,Minardi,0.0
+252,2005,12,Michael Schumacher,Ferrari,0.0
+253,2005,12,Nick Heidfeld,Williams,0.0
+254,2005,12,Felipe Massa,Sauber,0.0
+255,2005,12,Mark Webber,Williams,0.0
+256,2005,13,Juan Pablo Montoya,McLaren,10.0
+257,2005,13,Fernando Alonso,Renault,8.0
+258,2005,13,Giancarlo Fisichella,Renault,6.0
+259,2005,13,Kimi Räikkönen,McLaren,5.0
+260,2005,13,Jarno Trulli,Toyota,4.0
+261,2005,13,Ralf Schumacher,Toyota,3.0
+262,2005,13,Antônio Pizzonia,Williams,2.0
+263,2005,13,Jenson Button,BAR,1.0
+264,2005,13,Felipe Massa,Sauber,0.0
+265,2005,13,Michael Schumacher,Ferrari,0.0
+266,2005,13,Jacques Villeneuve,Sauber,0.0
+267,2005,13,Rubens Barrichello,Ferrari,0.0
+268,2005,13,Christian Klien,Red Bull,0.0
+269,2005,13,Mark Webber,Williams,0.0
+270,2005,13,David Coulthard,Red Bull,0.0
+271,2005,13,Takuma Sato,BAR,0.0
+272,2005,13,Tiago Monteiro,Jordan,0.0
+273,2005,13,Robert Doornbos,Minardi,0.0
+274,2005,13,Christijan Albers,Minardi,0.0
+275,2005,13,Narain Karthikeyan,Jordan,0.0
+276,2005,14,Kimi Räikkönen,McLaren,10.0
+277,2005,14,Fernando Alonso,Renault,8.0
+278,2005,14,Jenson Button,BAR,6.0
+279,2005,14,Mark Webber,Williams,5.0
+280,2005,14,Rubens Barrichello,Ferrari,4.0
+281,2005,14,Jacques Villeneuve,Sauber,3.0
+282,2005,14,Ralf Schumacher,Toyota,2.0
+283,2005,14,Tiago Monteiro,Jordan,1.0
+284,2005,14,Christian Klien,Red Bull,0.0
+285,2005,14,Felipe Massa,Sauber,0.0
+286,2005,14,Narain Karthikeyan,Jordan,0.0
+287,2005,14,Christijan Albers,Minardi,0.0
+288,2005,14,Robert Doornbos,Minardi,0.0
+289,2005,14,Juan Pablo Montoya,McLaren,0.0
+290,2005,14,Antônio Pizzonia,Williams,0.0
+291,2005,14,Jarno Trulli,Toyota,0.0
+292,2005,14,David Coulthard,Red Bull,0.0
+293,2005,14,Michael Schumacher,Ferrari,0.0
+294,2005,14,Takuma Sato,BAR,0.0
+295,2005,14,Giancarlo Fisichella,Renault,0.0
+296,2005,15,Juan Pablo Montoya,McLaren,10.0
+297,2005,15,Kimi Räikkönen,McLaren,8.0
+298,2005,15,Fernando Alonso,Renault,6.0
+299,2005,15,Michael Schumacher,Ferrari,5.0
+300,2005,15,Giancarlo Fisichella,Renault,4.0
+301,2005,15,Rubens Barrichello,Ferrari,3.0
+302,2005,15,Jenson Button,BAR,2.0
+303,2005,15,Ralf Schumacher,Toyota,1.0
+304,2005,15,Christian Klien,Red Bull,0.0
+305,2005,15,Takuma Sato,BAR,0.0
+306,2005,15,Felipe Massa,Sauber,0.0
+307,2005,15,Jacques Villeneuve,Sauber,0.0
+308,2005,15,Jarno Trulli,Toyota,0.0
+309,2005,15,Christijan Albers,Minardi,0.0
+310,2005,15,Narain Karthikeyan,Jordan,0.0
+311,2005,15,Tiago Monteiro,Jordan,0.0
+312,2005,15,Mark Webber,Williams,0.0
+313,2005,15,Robert Doornbos,Minardi,0.0
+314,2005,15,Antônio Pizzonia,Williams,0.0
+315,2005,15,David Coulthard,Red Bull,0.0
+316,2005,16,Kimi Räikkönen,McLaren,10.0
+317,2005,16,Giancarlo Fisichella,Renault,8.0
+318,2005,16,Fernando Alonso,Renault,6.0
+319,2005,16,Mark Webber,Williams,5.0
+320,2005,16,Jenson Button,BAR,4.0
+321,2005,16,David Coulthard,Red Bull,3.0
+322,2005,16,Michael Schumacher,Ferrari,2.0
+323,2005,16,Ralf Schumacher,Toyota,1.0
+324,2005,16,Christian Klien,Red Bull,0.0
+325,2005,16,Felipe Massa,Sauber,0.0
+326,2005,16,Rubens Barrichello,Ferrari,0.0
+327,2005,16,Jacques Villeneuve,Sauber,0.0
+328,2005,16,Tiago Monteiro,Jordan,0.0
+329,2005,16,Robert Doornbos,Minardi,0.0
+330,2005,16,Narain Karthikeyan,Jordan,0.0
+331,2005,16,Christijan Albers,Minardi,0.0
+332,2005,16,Antônio Pizzonia,Williams,0.0
+333,2005,16,Jarno Trulli,Toyota,0.0
+334,2005,16,Juan Pablo Montoya,McLaren,0.0
+335,2005,16,Takuma Sato,BAR,0.0
+336,2005,17,Fernando Alonso,Renault,10.0
+337,2005,17,Kimi Räikkönen,McLaren,8.0
+338,2005,17,Ralf Schumacher,Toyota,6.0
+339,2005,17,Giancarlo Fisichella,Renault,5.0
+340,2005,17,Christian Klien,Red Bull,4.0
+341,2005,17,Felipe Massa,Sauber,3.0
+342,2005,17,Mark Webber,Williams,2.0
+343,2005,17,Jenson Button,BAR,1.0
+344,2005,17,David Coulthard,Red Bull,0.0
+345,2005,17,Jacques Villeneuve,Sauber,0.0
+346,2005,17,Tiago Monteiro,Jordan,0.0
+347,2005,17,Rubens Barrichello,Ferrari,0.0
+348,2005,17,Antônio Pizzonia,Williams,0.0
+349,2005,17,Robert Doornbos,Minardi,0.0
+350,2005,17,Jarno Trulli,Toyota,0.0
+351,2005,17,Christijan Albers,Minardi,0.0
+352,2005,17,Takuma Sato,BAR,0.0
+353,2005,17,Narain Karthikeyan,Jordan,0.0
+354,2005,17,Juan Pablo Montoya,McLaren,0.0
+355,2005,17,Michael Schumacher,Ferrari,0.0

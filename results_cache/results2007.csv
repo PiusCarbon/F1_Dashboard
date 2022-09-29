@@ -1,0 +1,353 @@
+,Year,GP,Driver,Team,Points
+0,2007,0,Fernando Alonso,McLaren,10.0
+1,2007,0,Lewis Hamilton,McLaren,8.0
+2,2007,0,Kimi Räikkönen,Ferrari,6.0
+3,2007,0,Nick Heidfeld,BMW Sauber,5.0
+4,2007,0,Felipe Massa,Ferrari,4.0
+5,2007,0,Giancarlo Fisichella,Renault,3.0
+6,2007,0,Jarno Trulli,Toyota,2.0
+7,2007,0,Heikki Kovalainen,Renault,1.0
+8,2007,0,Alexander Wurz,Williams,0.0
+9,2007,0,Mark Webber,Red Bull,0.0
+10,2007,0,Rubens Barrichello,Honda,0.0
+11,2007,0,Jenson Button,Honda,0.0
+12,2007,0,Takuma Sato,Super Aguri,0.0
+13,2007,0,Scott Speed,Toro Rosso,0.0
+14,2007,0,Ralf Schumacher,Toyota,0.0
+15,2007,0,Anthony Davidson,Super Aguri,0.0
+16,2007,0,Vitantonio Liuzzi,Toro Rosso,0.0
+17,2007,0,Robert Kubica,BMW Sauber,0.0
+18,2007,0,Nico Rosberg,Williams,0.0
+19,2007,0,David Coulthard,Red Bull,0.0
+20,2007,0,Christijan Albers,Spyker,0.0
+21,2007,0,Adrian Sutil,Spyker,0.0
+22,2007,1,Felipe Massa,Ferrari,10.0
+23,2007,1,Lewis Hamilton,McLaren,8.0
+24,2007,1,Kimi Räikkönen,Ferrari,6.0
+25,2007,1,Nick Heidfeld,BMW Sauber,5.0
+26,2007,1,Fernando Alonso,McLaren,4.0
+27,2007,1,Robert Kubica,BMW Sauber,3.0
+28,2007,1,Jarno Trulli,Toyota,2.0
+29,2007,1,Giancarlo Fisichella,Renault,1.0
+30,2007,1,Heikki Kovalainen,Renault,0.0
+31,2007,1,Nico Rosberg,Williams,0.0
+32,2007,1,Alexander Wurz,Williams,0.0
+33,2007,1,Ralf Schumacher,Toyota,0.0
+34,2007,1,Rubens Barrichello,Honda,0.0
+35,2007,1,Christijan Albers,Spyker,0.0
+36,2007,1,Adrian Sutil,Spyker,0.0
+37,2007,1,Anthony Davidson,Super Aguri,0.0
+38,2007,1,Mark Webber,Red Bull,0.0
+39,2007,1,David Coulthard,Red Bull,0.0
+40,2007,1,Takuma Sato,Super Aguri,0.0
+41,2007,1,Vitantonio Liuzzi,Toro Rosso,0.0
+42,2007,1,Jenson Button,Honda,0.0
+43,2007,1,Scott Speed,Toro Rosso,0.0
+44,2007,2,Felipe Massa,Ferrari,10.0
+45,2007,2,Lewis Hamilton,McLaren,8.0
+46,2007,2,Fernando Alonso,McLaren,6.0
+47,2007,2,Robert Kubica,BMW Sauber,5.0
+48,2007,2,David Coulthard,Red Bull,4.0
+49,2007,2,Nico Rosberg,Williams,3.0
+50,2007,2,Heikki Kovalainen,Renault,2.0
+51,2007,2,Takuma Sato,Super Aguri,1.0
+52,2007,2,Giancarlo Fisichella,Renault,0.0
+53,2007,2,Rubens Barrichello,Honda,0.0
+54,2007,2,Anthony Davidson,Super Aguri,0.0
+55,2007,2,Jenson Button,Honda,0.0
+56,2007,2,Adrian Sutil,Spyker,0.0
+57,2007,2,Christijan Albers,Spyker,0.0
+58,2007,2,Nick Heidfeld,BMW Sauber,0.0
+59,2007,2,Ralf Schumacher,Toyota,0.0
+60,2007,2,Vitantonio Liuzzi,Toro Rosso,0.0
+61,2007,2,Scott Speed,Toro Rosso,0.0
+62,2007,2,Kimi Räikkönen,Ferrari,0.0
+63,2007,2,Jarno Trulli,Toyota,0.0
+64,2007,2,Mark Webber,Red Bull,0.0
+65,2007,2,Alexander Wurz,Williams,0.0
+66,2007,3,Fernando Alonso,McLaren,10.0
+67,2007,3,Lewis Hamilton,McLaren,8.0
+68,2007,3,Felipe Massa,Ferrari,6.0
+69,2007,3,Giancarlo Fisichella,Renault,5.0
+70,2007,3,Robert Kubica,BMW Sauber,4.0
+71,2007,3,Nick Heidfeld,BMW Sauber,3.0
+72,2007,3,Alexander Wurz,Williams,2.0
+73,2007,3,Kimi Räikkönen,Ferrari,1.0
+74,2007,3,Scott Speed,Toro Rosso,0.0
+75,2007,3,Rubens Barrichello,Honda,0.0
+76,2007,3,Jenson Button,Honda,0.0
+77,2007,3,Nico Rosberg,Williams,0.0
+78,2007,3,Heikki Kovalainen,Renault,0.0
+79,2007,3,David Coulthard,Red Bull,0.0
+80,2007,3,Jarno Trulli,Toyota,0.0
+81,2007,3,Ralf Schumacher,Toyota,0.0
+82,2007,3,Takuma Sato,Super Aguri,0.0
+83,2007,3,Anthony Davidson,Super Aguri,0.0
+84,2007,3,Christijan Albers,Spyker,0.0
+85,2007,3,Adrian Sutil,Spyker,0.0
+86,2007,3,Mark Webber,Red Bull,0.0
+87,2007,3,Vitantonio Liuzzi,Toro Rosso,0.0
+88,2007,4,Lewis Hamilton,McLaren,10.0
+89,2007,4,Nick Heidfeld,BMW Sauber,8.0
+90,2007,4,Alexander Wurz,Williams,6.0
+91,2007,4,Heikki Kovalainen,Renault,5.0
+92,2007,4,Kimi Räikkönen,Ferrari,4.0
+93,2007,4,Takuma Sato,Super Aguri,3.0
+94,2007,4,Fernando Alonso,McLaren,2.0
+95,2007,4,Ralf Schumacher,Toyota,1.0
+96,2007,4,Mark Webber,Red Bull,0.0
+97,2007,4,Nico Rosberg,Williams,0.0
+98,2007,4,Anthony Davidson,Super Aguri,0.0
+99,2007,4,Rubens Barrichello,Honda,0.0
+100,2007,4,Jarno Trulli,Toyota,0.0
+101,2007,4,Vitantonio Liuzzi,Toro Rosso,0.0
+102,2007,4,Christijan Albers,Spyker,0.0
+103,2007,4,David Coulthard,Red Bull,0.0
+104,2007,4,Robert Kubica,BMW Sauber,0.0
+105,2007,4,Adrian Sutil,Spyker,0.0
+106,2007,4,Scott Speed,Toro Rosso,0.0
+107,2007,4,Jenson Button,Honda,0.0
+108,2007,4,Felipe Massa,Ferrari,0.0
+109,2007,4,Giancarlo Fisichella,Renault,0.0
+110,2007,5,Lewis Hamilton,McLaren,10.0
+111,2007,5,Fernando Alonso,McLaren,8.0
+112,2007,5,Felipe Massa,Ferrari,6.0
+113,2007,5,Kimi Räikkönen,Ferrari,5.0
+114,2007,5,Heikki Kovalainen,Renault,4.0
+115,2007,5,Jarno Trulli,Toyota,3.0
+116,2007,5,Mark Webber,Red Bull,2.0
+117,2007,5,Sebastian Vettel,BMW Sauber,1.0
+118,2007,5,Giancarlo Fisichella,Renault,0.0
+119,2007,5,Alexander Wurz,Williams,0.0
+120,2007,5,Anthony Davidson,Super Aguri,0.0
+121,2007,5,Jenson Button,Honda,0.0
+122,2007,5,Scott Speed,Toro Rosso,0.0
+123,2007,5,Adrian Sutil,Spyker,0.0
+124,2007,5,Christijan Albers,Spyker,0.0
+125,2007,5,Nico Rosberg,Williams,0.0
+126,2007,5,Vitantonio Liuzzi,Toro Rosso,0.0
+127,2007,5,Nick Heidfeld,BMW Sauber,0.0
+128,2007,5,Takuma Sato,Super Aguri,0.0
+129,2007,5,David Coulthard,Red Bull,0.0
+130,2007,5,Rubens Barrichello,Honda,0.0
+131,2007,5,Ralf Schumacher,Toyota,0.0
+132,2007,6,Kimi Räikkönen,Ferrari,10.0
+133,2007,6,Felipe Massa,Ferrari,8.0
+134,2007,6,Lewis Hamilton,McLaren,6.0
+135,2007,6,Robert Kubica,BMW Sauber,5.0
+136,2007,6,Nick Heidfeld,BMW Sauber,4.0
+137,2007,6,Giancarlo Fisichella,Renault,3.0
+138,2007,6,Fernando Alonso,McLaren,2.0
+139,2007,6,Jenson Button,Honda,1.0
+140,2007,6,Nico Rosberg,Williams,0.0
+141,2007,6,Ralf Schumacher,Toyota,0.0
+142,2007,6,Rubens Barrichello,Honda,0.0
+143,2007,6,Mark Webber,Red Bull,0.0
+144,2007,6,David Coulthard,Red Bull,0.0
+145,2007,6,Alexander Wurz,Williams,0.0
+146,2007,6,Heikki Kovalainen,Renault,0.0
+147,2007,6,Takuma Sato,Super Aguri,0.0
+148,2007,6,Adrian Sutil,Spyker,0.0
+149,2007,6,Scott Speed,Toro Rosso,0.0
+150,2007,6,Christijan Albers,Spyker,0.0
+151,2007,6,Anthony Davidson,Super Aguri,0.0
+152,2007,6,Jarno Trulli,Toyota,0.0
+153,2007,6,Vitantonio Liuzzi,Toro Rosso,0.0
+154,2007,7,Kimi Räikkönen,Ferrari,10.0
+155,2007,7,Fernando Alonso,McLaren,8.0
+156,2007,7,Lewis Hamilton,McLaren,6.0
+157,2007,7,Robert Kubica,BMW Sauber,5.0
+158,2007,7,Felipe Massa,Ferrari,4.0
+159,2007,7,Nick Heidfeld,BMW Sauber,3.0
+160,2007,7,Heikki Kovalainen,Renault,2.0
+161,2007,7,Giancarlo Fisichella,Renault,1.0
+162,2007,7,Rubens Barrichello,Honda,0.0
+163,2007,7,Jenson Button,Honda,0.0
+164,2007,7,David Coulthard,Red Bull,0.0
+165,2007,7,Nico Rosberg,Williams,0.0
+166,2007,7,Alexander Wurz,Williams,0.0
+167,2007,7,Takuma Sato,Super Aguri,0.0
+168,2007,7,Christijan Albers,Spyker,0.0
+169,2007,7,Vitantonio Liuzzi,Toro Rosso,0.0
+170,2007,7,Jarno Trulli,Toyota,0.0
+171,2007,7,Anthony Davidson,Super Aguri,0.0
+172,2007,7,Scott Speed,Toro Rosso,0.0
+173,2007,7,Ralf Schumacher,Toyota,0.0
+174,2007,7,Adrian Sutil,Spyker,0.0
+175,2007,7,Mark Webber,Red Bull,0.0
+176,2007,8,Fernando Alonso,McLaren,10.0
+177,2007,8,Felipe Massa,Ferrari,8.0
+178,2007,8,Mark Webber,Red Bull,6.0
+179,2007,8,Alexander Wurz,Williams,5.0
+180,2007,8,David Coulthard,Red Bull,4.0
+181,2007,8,Nick Heidfeld,BMW Sauber,3.0
+182,2007,8,Robert Kubica,BMW Sauber,2.0
+183,2007,8,Heikki Kovalainen,Renault,1.0
+184,2007,8,Lewis Hamilton,McLaren,0.0
+185,2007,8,Giancarlo Fisichella,Renault,0.0
+186,2007,8,Rubens Barrichello,Honda,0.0
+187,2007,8,Anthony Davidson,Super Aguri,0.0
+188,2007,8,Jarno Trulli,Toyota,0.0
+189,2007,8,Kimi Räikkönen,Ferrari,0.0
+190,2007,8,Takuma Sato,Super Aguri,0.0
+191,2007,8,Ralf Schumacher,Toyota,0.0
+192,2007,8,Markus Winkelhock,Spyker,0.0
+193,2007,8,Jenson Button,Honda,0.0
+194,2007,8,Adrian Sutil,Spyker,0.0
+195,2007,8,Nico Rosberg,Williams,0.0
+196,2007,8,Scott Speed,Toro Rosso,0.0
+197,2007,8,Vitantonio Liuzzi,Toro Rosso,0.0
+198,2007,9,Lewis Hamilton,McLaren,10.0
+199,2007,9,Kimi Räikkönen,Ferrari,8.0
+200,2007,9,Nick Heidfeld,BMW Sauber,6.0
+201,2007,9,Fernando Alonso,McLaren,5.0
+202,2007,9,Robert Kubica,BMW Sauber,4.0
+203,2007,9,Ralf Schumacher,Toyota,3.0
+204,2007,9,Nico Rosberg,Williams,2.0
+205,2007,9,Heikki Kovalainen,Renault,1.0
+206,2007,9,Mark Webber,Red Bull,0.0
+207,2007,9,Jarno Trulli,Toyota,0.0
+208,2007,9,David Coulthard,Red Bull,0.0
+209,2007,9,Giancarlo Fisichella,Renault,0.0
+210,2007,9,Felipe Massa,Ferrari,0.0
+211,2007,9,Alexander Wurz,Williams,0.0
+212,2007,9,Takuma Sato,Super Aguri,0.0
+213,2007,9,Sebastian Vettel,Toro Rosso,0.0
+214,2007,9,Adrian Sutil,Spyker,0.0
+215,2007,9,Rubens Barrichello,Honda,0.0
+216,2007,9,Vitantonio Liuzzi,Toro Rosso,0.0
+217,2007,9,Anthony Davidson,Super Aguri,0.0
+218,2007,9,Jenson Button,Honda,0.0
+219,2007,9,Sakon Yamamoto,Spyker,0.0
+220,2007,10,Felipe Massa,Ferrari,10.0
+221,2007,10,Kimi Räikkönen,Ferrari,8.0
+222,2007,10,Fernando Alonso,McLaren,6.0
+223,2007,10,Nick Heidfeld,BMW Sauber,5.0
+224,2007,10,Lewis Hamilton,McLaren,4.0
+225,2007,10,Heikki Kovalainen,Renault,3.0
+226,2007,10,Nico Rosberg,Williams,2.0
+227,2007,10,Robert Kubica,BMW Sauber,1.0
+228,2007,10,Giancarlo Fisichella,Renault,0.0
+229,2007,10,David Coulthard,Red Bull,0.0
+230,2007,10,Alexander Wurz,Williams,0.0
+231,2007,10,Ralf Schumacher,Toyota,0.0
+232,2007,10,Jenson Button,Honda,0.0
+233,2007,10,Anthony Davidson,Super Aguri,0.0
+234,2007,10,Vitantonio Liuzzi,Toro Rosso,0.0
+235,2007,10,Jarno Trulli,Toyota,0.0
+236,2007,10,Rubens Barrichello,Honda,0.0
+237,2007,10,Takuma Sato,Super Aguri,0.0
+238,2007,10,Sebastian Vettel,Toro Rosso,0.0
+239,2007,10,Sakon Yamamoto,Spyker,0.0
+240,2007,10,Adrian Sutil,Spyker,0.0
+241,2007,10,Mark Webber,Red Bull,0.0
+242,2007,11,Fernando Alonso,McLaren,10.0
+243,2007,11,Lewis Hamilton,McLaren,8.0
+244,2007,11,Kimi Räikkönen,Ferrari,6.0
+245,2007,11,Nick Heidfeld,BMW Sauber,5.0
+246,2007,11,Robert Kubica,BMW Sauber,4.0
+247,2007,11,Nico Rosberg,Williams,3.0
+248,2007,11,Heikki Kovalainen,Renault,2.0
+249,2007,11,Jenson Button,Honda,1.0
+250,2007,11,Mark Webber,Red Bull,0.0
+251,2007,11,Rubens Barrichello,Honda,0.0
+252,2007,11,Jarno Trulli,Toyota,0.0
+253,2007,11,Giancarlo Fisichella,Renault,0.0
+254,2007,11,Alexander Wurz,Williams,0.0
+255,2007,11,Anthony Davidson,Super Aguri,0.0
+256,2007,11,Ralf Schumacher,Toyota,0.0
+257,2007,11,Takuma Sato,Super Aguri,0.0
+258,2007,11,Vitantonio Liuzzi,Toro Rosso,0.0
+259,2007,11,Sebastian Vettel,Toro Rosso,0.0
+260,2007,11,Adrian Sutil,Spyker,0.0
+261,2007,11,Sakon Yamamoto,Spyker,0.0
+262,2007,11,Felipe Massa,Ferrari,0.0
+263,2007,11,David Coulthard,Red Bull,0.0
+264,2007,12,Kimi Räikkönen,Ferrari,10.0
+265,2007,12,Felipe Massa,Ferrari,8.0
+266,2007,12,Fernando Alonso,McLaren,6.0
+267,2007,12,Lewis Hamilton,McLaren,5.0
+268,2007,12,Nick Heidfeld,BMW Sauber,4.0
+269,2007,12,Nico Rosberg,Williams,3.0
+270,2007,12,Mark Webber,Red Bull,2.0
+271,2007,12,Heikki Kovalainen,Renault,1.0
+272,2007,12,Robert Kubica,BMW Sauber,0.0
+273,2007,12,Ralf Schumacher,Toyota,0.0
+274,2007,12,Jarno Trulli,Toyota,0.0
+275,2007,12,Vitantonio Liuzzi,Toro Rosso,0.0
+276,2007,12,Rubens Barrichello,Honda,0.0
+277,2007,12,Adrian Sutil,Spyker,0.0
+278,2007,12,Takuma Sato,Super Aguri,0.0
+279,2007,12,Anthony Davidson,Super Aguri,0.0
+280,2007,12,Sakon Yamamoto,Spyker,0.0
+281,2007,12,Jenson Button,Honda,0.0
+282,2007,12,Alexander Wurz,Williams,0.0
+283,2007,12,David Coulthard,Red Bull,0.0
+284,2007,12,Sebastian Vettel,Toro Rosso,0.0
+285,2007,12,Giancarlo Fisichella,Renault,0.0
+286,2007,13,Lewis Hamilton,McLaren,10.0
+287,2007,13,Heikki Kovalainen,Renault,8.0
+288,2007,13,Kimi Räikkönen,Ferrari,6.0
+289,2007,13,David Coulthard,Red Bull,5.0
+290,2007,13,Giancarlo Fisichella,Renault,4.0
+291,2007,13,Felipe Massa,Ferrari,3.0
+292,2007,13,Robert Kubica,BMW Sauber,2.0
+293,2007,13,Adrian Sutil,Spyker,1.0
+294,2007,13,Vitantonio Liuzzi,Toro Rosso,0.0
+295,2007,13,Rubens Barrichello,Honda,0.0
+296,2007,13,Jenson Button,Honda,0.0
+297,2007,13,Sakon Yamamoto,Spyker,0.0
+298,2007,13,Jarno Trulli,Toyota,0.0
+299,2007,13,Nick Heidfeld,BMW Sauber,0.0
+300,2007,13,Takuma Sato,Super Aguri,0.0
+301,2007,13,Ralf Schumacher,Toyota,0.0
+302,2007,13,Anthony Davidson,Super Aguri,0.0
+303,2007,13,Nico Rosberg,Williams,0.0
+304,2007,13,Sebastian Vettel,Toro Rosso,0.0
+305,2007,13,Mark Webber,Red Bull,0.0
+306,2007,13,Fernando Alonso,McLaren,0.0
+307,2007,13,Alexander Wurz,Williams,0.0
+308,2007,14,Kimi Räikkönen,Ferrari,10.0
+309,2007,14,Fernando Alonso,McLaren,8.0
+310,2007,14,Felipe Massa,Ferrari,6.0
+311,2007,14,Sebastian Vettel,Toro Rosso,5.0
+312,2007,14,Jenson Button,Honda,4.0
+313,2007,14,Vitantonio Liuzzi,Toro Rosso,3.0
+314,2007,14,Nick Heidfeld,BMW Sauber,2.0
+315,2007,14,David Coulthard,Red Bull,1.0
+316,2007,14,Heikki Kovalainen,Renault,0.0
+317,2007,14,Mark Webber,Red Bull,0.0
+318,2007,14,Giancarlo Fisichella,Renault,0.0
+319,2007,14,Alexander Wurz,Williams,0.0
+320,2007,14,Jarno Trulli,Toyota,0.0
+321,2007,14,Takuma Sato,Super Aguri,0.0
+322,2007,14,Rubens Barrichello,Honda,0.0
+323,2007,14,Nico Rosberg,Williams,0.0
+324,2007,14,Sakon Yamamoto,Spyker,0.0
+325,2007,14,Robert Kubica,BMW Sauber,0.0
+326,2007,14,Lewis Hamilton,McLaren,0.0
+327,2007,14,Ralf Schumacher,Toyota,0.0
+328,2007,14,Adrian Sutil,Spyker,0.0
+329,2007,14,Anthony Davidson,Super Aguri,0.0
+330,2007,15,Kimi Räikkönen,Ferrari,10.0
+331,2007,15,Felipe Massa,Ferrari,8.0
+332,2007,15,Fernando Alonso,McLaren,6.0
+333,2007,15,Nico Rosberg,Williams,5.0
+334,2007,15,Robert Kubica,BMW Sauber,4.0
+335,2007,15,Nick Heidfeld,BMW Sauber,3.0
+336,2007,15,Lewis Hamilton,McLaren,2.0
+337,2007,15,Jarno Trulli,Toyota,1.0
+338,2007,15,David Coulthard,Red Bull,0.0
+339,2007,15,Kazuki Nakajima,Williams,0.0
+340,2007,15,Ralf Schumacher,Toyota,0.0
+341,2007,15,Takuma Sato,Super Aguri,0.0
+342,2007,15,Vitantonio Liuzzi,Toro Rosso,0.0
+343,2007,15,Anthony Davidson,Super Aguri,0.0
+344,2007,15,Adrian Sutil,Spyker,0.0
+345,2007,15,Rubens Barrichello,Honda,0.0
+346,2007,15,Heikki Kovalainen,Renault,0.0
+347,2007,15,Sebastian Vettel,Toro Rosso,0.0
+348,2007,15,Jenson Button,Honda,0.0
+349,2007,15,Mark Webber,Red Bull,0.0
+350,2007,15,Sakon Yamamoto,Spyker,0.0
+351,2007,15,Giancarlo Fisichella,Renault,0.0

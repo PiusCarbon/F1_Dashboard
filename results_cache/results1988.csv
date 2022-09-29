@@ -1,0 +1,451 @@
+,Year,GP,Driver,Team,Points
+0,1988,0,Ayrton Senna,McLaren,9.0
+1,1988,0,Alain Prost,McLaren,6.0
+2,1988,0,Nelson Piquet,Team Lotus,4.0
+3,1988,0,Thierry Boutsen,Benetton,3.0
+4,1988,0,Gerhard Berger,Ferrari,2.0
+5,1988,0,Alessandro Nannini,Benetton,1.0
+6,1988,0,Eddie Cheever,Arrows,0.0
+7,1988,0,Satoru Nakajima,Team Lotus,0.0
+8,1988,0,Derek Warwick,Arrows,0.0
+9,1988,0,Philippe Streiff,AGS,0.0
+10,1988,0,Luis Pérez-Sala,Minardi,0.0
+11,1988,0,Yannick Dalmas,Larrousse,0.0
+12,1988,0,Riccardo Patrese,Williams,0.0
+13,1988,0,Jonathan Palmer,Tyrrell,0.0
+14,1988,0,Maurício Gugelmin,March,0.0
+15,1988,0,Adrián Campos,Minardi,0.0
+16,1988,0,Philippe Alliot,Larrousse,0.0
+17,1988,0,Michele Alboreto,Ferrari,0.0
+18,1988,0,Stefano Modena,Euro Brun,0.0
+19,1988,0,Julian Bailey,Tyrrell,0.0
+20,1988,0,Nigel Mansell,Williams,0.0
+21,1988,0,Gabriele Tarquini,Coloni,0.0
+22,1988,0,Alex Caffi,Dallara,0.0
+23,1988,0,Piercarlo Ghinzani,Zakspeed,0.0
+24,1988,0,Ivan Capelli,March,0.0
+25,1988,0,Andrea de Cesaris,Rial,0.0
+26,1988,0,Nicola Larini,Osella,0.0
+27,1988,0,Oscar Larrauri,Euro Brun,0.0
+28,1988,0,Stefan Johansson,Ligier,0.0
+29,1988,0,René Arnoux,Ligier,0.0
+30,1988,1,Alain Prost,McLaren,9.0
+31,1988,1,Gerhard Berger,Ferrari,6.0
+32,1988,1,Michele Alboreto,Ferrari,4.0
+33,1988,1,Derek Warwick,Arrows,3.0
+34,1988,1,Jonathan Palmer,Tyrrell,2.0
+35,1988,1,Riccardo Patrese,Williams,1.0
+36,1988,1,Yannick Dalmas,Larrousse,0.0
+37,1988,1,Thierry Boutsen,Benetton,0.0
+38,1988,1,Nicola Larini,Osella,0.0
+39,1988,1,Ivan Capelli,March,0.0
+40,1988,1,Ayrton Senna,McLaren,0.0
+41,1988,1,Philippe Alliot,Larrousse,0.0
+42,1988,1,Maurício Gugelmin,March,0.0
+43,1988,1,Piercarlo Ghinzani,Zakspeed,0.0
+44,1988,1,Alessandro Nannini,Benetton,0.0
+45,1988,1,Luis Pérez-Sala,Minardi,0.0
+46,1988,1,Nigel Mansell,Williams,0.0
+47,1988,1,Andrea de Cesaris,Rial,0.0
+48,1988,1,René Arnoux,Ligier,0.0
+49,1988,1,Oscar Larrauri,Euro Brun,0.0
+50,1988,1,Eddie Cheever,Arrows,0.0
+51,1988,1,Stefan Johansson,Ligier,0.0
+52,1988,1,Gabriele Tarquini,Coloni,0.0
+53,1988,1,Nelson Piquet,Team Lotus,0.0
+54,1988,1,Alex Caffi,Dallara,0.0
+55,1988,1,Philippe Streiff,AGS,0.0
+56,1988,1,Satoru Nakajima,Team Lotus,0.0
+57,1988,1,Bernd Schneider,Zakspeed,0.0
+58,1988,1,Adrián Campos,Minardi,0.0
+59,1988,1,Julian Bailey,Tyrrell,0.0
+60,1988,2,Alain Prost,McLaren,9.0
+61,1988,2,Ayrton Senna,McLaren,6.0
+62,1988,2,Gerhard Berger,Ferrari,4.0
+63,1988,2,Michele Alboreto,Ferrari,3.0
+64,1988,2,Derek Warwick,Arrows,2.0
+65,1988,2,Eddie Cheever,Arrows,1.0
+66,1988,2,Alessandro Nannini,Benetton,0.0
+67,1988,2,Thierry Boutsen,Benetton,0.0
+68,1988,2,Yannick Dalmas,Larrousse,0.0
+69,1988,2,Stefan Johansson,Ligier,0.0
+70,1988,2,Luis Pérez-Sala,Minardi,0.0
+71,1988,2,Philippe Streiff,AGS,0.0
+72,1988,2,Oscar Larrauri,Euro Brun,0.0
+73,1988,2,Gabriele Tarquini,Coloni,0.0
+74,1988,2,Piercarlo Ghinzani,Zakspeed,0.0
+75,1988,2,Ivan Capelli,March,0.0
+76,1988,2,Nelson Piquet,Team Lotus,0.0
+77,1988,2,Andrea de Cesaris,Rial,0.0
+78,1988,2,Satoru Nakajima,Team Lotus,0.0
+79,1988,2,Nigel Mansell,Williams,0.0
+80,1988,2,Bernd Schneider,Zakspeed,0.0
+81,1988,2,Riccardo Patrese,Williams,0.0
+82,1988,2,René Arnoux,Ligier,0.0
+83,1988,2,Alex Caffi,Dallara,0.0
+84,1988,2,Maurício Gugelmin,March,0.0
+85,1988,2,Philippe Alliot,Larrousse,0.0
+86,1988,2,Adrián Campos,Minardi,0.0
+87,1988,2,Jonathan Palmer,Tyrrell,0.0
+88,1988,2,Nicola Larini,Osella,0.0
+89,1988,2,Julian Bailey,Tyrrell,0.0
+90,1988,3,Ayrton Senna,McLaren,9.0
+91,1988,3,Alain Prost,McLaren,6.0
+92,1988,3,Thierry Boutsen,Benetton,4.0
+93,1988,3,Nelson Piquet,Team Lotus,3.0
+94,1988,3,Ivan Capelli,March,2.0
+95,1988,3,Jonathan Palmer,Tyrrell,1.0
+96,1988,3,Derek Warwick,Arrows,0.0
+97,1988,3,Gabriele Tarquini,Coloni,0.0
+98,1988,3,Andrea de Cesaris,Rial,0.0
+99,1988,3,Philippe Alliot,Larrousse,0.0
+100,1988,3,Satoru Nakajima,Team Lotus,0.0
+101,1988,3,Stefano Modena,Euro Brun,0.0
+102,1988,3,Luis Pérez-Sala,Minardi,0.0
+103,1988,3,Piercarlo Ghinzani,Zakspeed,0.0
+104,1988,3,Maurício Gugelmin,March,0.0
+105,1988,3,Philippe Streiff,AGS,0.0
+106,1988,3,René Arnoux,Ligier,0.0
+107,1988,3,Michele Alboreto,Ferrari,0.0
+108,1988,3,Riccardo Patrese,Williams,0.0
+109,1988,3,Eddie Cheever,Arrows,0.0
+110,1988,3,Nigel Mansell,Williams,0.0
+111,1988,3,Stefan Johansson,Ligier,0.0
+112,1988,3,Gerhard Berger,Ferrari,0.0
+113,1988,3,Alessandro Nannini,Benetton,0.0
+114,1988,3,Oscar Larrauri,Euro Brun,0.0
+115,1988,3,Julian Bailey,Tyrrell,0.0
+116,1988,3,Adrián Campos,Minardi,0.0
+117,1988,3,Nicola Larini,Osella,0.0
+118,1988,3,Yannick Dalmas,Larrousse,0.0
+119,1988,3,Bernd Schneider,Zakspeed,0.0
+120,1988,4,Ayrton Senna,McLaren,9.0
+121,1988,4,Alain Prost,McLaren,6.0
+122,1988,4,Thierry Boutsen,Benetton,4.0
+123,1988,4,Andrea de Cesaris,Rial,3.0
+124,1988,4,Jonathan Palmer,Tyrrell,2.0
+125,1988,4,Pierluigi Martini,Minardi,1.0
+126,1988,4,Yannick Dalmas,Larrousse,0.0
+127,1988,4,Alex Caffi,Dallara,0.0
+128,1988,4,Julian Bailey,Tyrrell,0.0
+129,1988,4,Luis Pérez-Sala,Minardi,0.0
+130,1988,4,Philippe Alliot,Larrousse,0.0
+131,1988,4,Stefano Modena,Euro Brun,0.0
+132,1988,4,Michele Alboreto,Ferrari,0.0
+133,1988,4,René Arnoux,Ligier,0.0
+134,1988,4,Maurício Gugelmin,March,0.0
+135,1988,4,Riccardo Patrese,Williams,0.0
+136,1988,4,Nelson Piquet,Team Lotus,0.0
+137,1988,4,Oscar Larrauri,Euro Brun,0.0
+138,1988,4,Derek Warwick,Arrows,0.0
+139,1988,4,Nigel Mansell,Williams,0.0
+140,1988,4,Philippe Streiff,AGS,0.0
+141,1988,4,Alessandro Nannini,Benetton,0.0
+142,1988,4,Eddie Cheever,Arrows,0.0
+143,1988,4,Nicola Larini,Osella,0.0
+144,1988,4,Gerhard Berger,Ferrari,0.0
+145,1988,4,Stefan Johansson,Ligier,0.0
+146,1988,4,Ivan Capelli,March,0.0
+147,1988,4,Satoru Nakajima,Team Lotus,0.0
+148,1988,4,Bernd Schneider,Zakspeed,0.0
+149,1988,4,Piercarlo Ghinzani,Zakspeed,0.0
+150,1988,5,Alain Prost,McLaren,9.0
+151,1988,5,Ayrton Senna,McLaren,6.0
+152,1988,5,Michele Alboreto,Ferrari,4.0
+153,1988,5,Gerhard Berger,Ferrari,3.0
+154,1988,5,Nelson Piquet,Team Lotus,2.0
+155,1988,5,Alessandro Nannini,Benetton,1.0
+156,1988,5,Satoru Nakajima,Team Lotus,0.0
+157,1988,5,Maurício Gugelmin,March,0.0
+158,1988,5,Ivan Capelli,March,0.0
+159,1988,5,Andrea de Cesaris,Rial,0.0
+160,1988,5,Eddie Cheever,Arrows,0.0
+161,1988,5,Alex Caffi,Dallara,0.0
+162,1988,5,Yannick Dalmas,Larrousse,0.0
+163,1988,5,Stefano Modena,Euro Brun,0.0
+164,1988,5,Pierluigi Martini,Minardi,0.0
+165,1988,5,Luis Pérez-Sala,Minardi,0.0
+166,1988,5,Oscar Larrauri,Euro Brun,0.0
+167,1988,5,Nicola Larini,Osella,0.0
+168,1988,5,Bernd Schneider,Zakspeed,0.0
+169,1988,5,Nigel Mansell,Williams,0.0
+170,1988,5,Philippe Alliot,Larrousse,0.0
+171,1988,5,Jonathan Palmer,Tyrrell,0.0
+172,1988,5,Riccardo Patrese,Williams,0.0
+173,1988,5,Thierry Boutsen,Benetton,0.0
+174,1988,5,Philippe Streiff,AGS,0.0
+175,1988,5,Derek Warwick,Arrows,0.0
+176,1988,5,René Arnoux,Ligier,0.0
+177,1988,5,Julian Bailey,Tyrrell,0.0
+178,1988,5,Stefan Johansson,Ligier,0.0
+179,1988,5,Gabriele Tarquini,Coloni,0.0
+180,1988,6,Ayrton Senna,McLaren,9.0
+181,1988,6,Nigel Mansell,Williams,6.0
+182,1988,6,Alessandro Nannini,Benetton,4.0
+183,1988,6,Maurício Gugelmin,March,3.0
+184,1988,6,Nelson Piquet,Team Lotus,2.0
+185,1988,6,Derek Warwick,Arrows,1.0
+186,1988,6,Eddie Cheever,Arrows,0.0
+187,1988,6,Riccardo Patrese,Williams,0.0
+188,1988,6,Gerhard Berger,Ferrari,0.0
+189,1988,6,Satoru Nakajima,Team Lotus,0.0
+190,1988,6,Alex Caffi,Dallara,0.0
+191,1988,6,Stefano Modena,Euro Brun,0.0
+192,1988,6,Yannick Dalmas,Larrousse,0.0
+193,1988,6,Philippe Alliot,Larrousse,0.0
+194,1988,6,Pierluigi Martini,Minardi,0.0
+195,1988,6,Julian Bailey,Tyrrell,0.0
+196,1988,6,Michele Alboreto,Ferrari,0.0
+197,1988,6,René Arnoux,Ligier,0.0
+198,1988,6,Nicola Larini,Osella,0.0
+199,1988,6,Thierry Boutsen,Benetton,0.0
+200,1988,6,Ivan Capelli,March,0.0
+201,1988,6,Alain Prost,McLaren,0.0
+202,1988,6,Jonathan Palmer,Tyrrell,0.0
+203,1988,6,Andrea de Cesaris,Rial,0.0
+204,1988,6,Philippe Streiff,AGS,0.0
+205,1988,6,Luis Pérez-Sala,Minardi,0.0
+206,1988,6,Oscar Larrauri,Euro Brun,0.0
+207,1988,6,Piercarlo Ghinzani,Zakspeed,0.0
+208,1988,6,Stefan Johansson,Ligier,0.0
+209,1988,6,Bernd Schneider,Zakspeed,0.0
+210,1988,7,Ayrton Senna,McLaren,9.0
+211,1988,7,Alain Prost,McLaren,6.0
+212,1988,7,Gerhard Berger,Ferrari,4.0
+213,1988,7,Michele Alboreto,Ferrari,3.0
+214,1988,7,Ivan Capelli,March,2.0
+215,1988,7,Thierry Boutsen,Benetton,1.0
+216,1988,7,Derek Warwick,Arrows,0.0
+217,1988,7,Maurício Gugelmin,March,0.0
+218,1988,7,Satoru Nakajima,Team Lotus,0.0
+219,1988,7,Eddie Cheever,Arrows,0.0
+220,1988,7,Jonathan Palmer,Tyrrell,0.0
+221,1988,7,Bernd Schneider,Zakspeed,0.0
+222,1988,7,Andrea de Cesaris,Rial,0.0
+223,1988,7,Piercarlo Ghinzani,Zakspeed,0.0
+224,1988,7,Alex Caffi,Dallara,0.0
+225,1988,7,Oscar Larrauri,Euro Brun,0.0
+226,1988,7,René Arnoux,Ligier,0.0
+227,1988,7,Alessandro Nannini,Benetton,0.0
+228,1988,7,Yannick Dalmas,Larrousse,0.0
+229,1988,7,Philippe Streiff,AGS,0.0
+230,1988,7,Riccardo Patrese,Williams,0.0
+231,1988,7,Nicola Larini,Osella,0.0
+232,1988,7,Nigel Mansell,Williams,0.0
+233,1988,7,Stefano Modena,Euro Brun,0.0
+234,1988,7,Philippe Alliot,Larrousse,0.0
+235,1988,7,Nelson Piquet,Team Lotus,0.0
+236,1988,7,Luis Pérez-Sala,Minardi,0.0
+237,1988,7,Stefan Johansson,Ligier,0.0
+238,1988,7,Julian Bailey,Tyrrell,0.0
+239,1988,7,Pierluigi Martini,Minardi,0.0
+240,1988,8,Ayrton Senna,McLaren,9.0
+241,1988,8,Alain Prost,McLaren,6.0
+242,1988,8,Thierry Boutsen,Benetton,4.0
+243,1988,8,Gerhard Berger,Ferrari,3.0
+244,1988,8,Maurício Gugelmin,March,2.0
+245,1988,8,Riccardo Patrese,Williams,1.0
+246,1988,8,Satoru Nakajima,Team Lotus,0.0
+247,1988,8,Nelson Piquet,Team Lotus,0.0
+248,1988,8,Yannick Dalmas,Larrousse,0.0
+249,1988,8,Luis Pérez-Sala,Minardi,0.0
+250,1988,8,Stefano Modena,Euro Brun,0.0
+251,1988,8,Philippe Alliot,Larrousse,0.0
+252,1988,8,Gabriele Tarquini,Coloni,0.0
+253,1988,8,Derek Warwick,Arrows,0.0
+254,1988,8,Nigel Mansell,Williams,0.0
+255,1988,8,Eddie Cheever,Arrows,0.0
+256,1988,8,Michele Alboreto,Ferrari,0.0
+257,1988,8,René Arnoux,Ligier,0.0
+258,1988,8,Andrea de Cesaris,Rial,0.0
+259,1988,8,Alessandro Nannini,Benetton,0.0
+260,1988,8,Alex Caffi,Dallara,0.0
+261,1988,8,Stefan Johansson,Ligier,0.0
+262,1988,8,Pierluigi Martini,Minardi,0.0
+263,1988,8,Philippe Streiff,AGS,0.0
+264,1988,8,Ivan Capelli,March,0.0
+265,1988,8,Jonathan Palmer,Tyrrell,0.0
+266,1988,8,Oscar Larrauri,Euro Brun,0.0
+267,1988,8,Bernd Schneider,Zakspeed,0.0
+268,1988,8,Julian Bailey,Tyrrell,0.0
+269,1988,8,Piercarlo Ghinzani,Zakspeed,0.0
+270,1988,9,Ayrton Senna,McLaren,9.0
+271,1988,9,Alain Prost,McLaren,6.0
+272,1988,9,Ivan Capelli,March,4.0
+273,1988,9,Nelson Piquet,Team Lotus,3.0
+274,1988,9,Derek Warwick,Arrows,2.0
+275,1988,9,Eddie Cheever,Arrows,1.0
+276,1988,9,Martin Brundle,Williams,0.0
+277,1988,9,Alex Caffi,Dallara,0.0
+278,1988,9,Philippe Alliot,Larrousse,0.0
+279,1988,9,Philippe Streiff,AGS,0.0
+280,1988,9,Stefan Johansson,Ligier,0.0
+281,1988,9,Jonathan Palmer,Tyrrell,0.0
+282,1988,9,Bernd Schneider,Zakspeed,0.0
+283,1988,9,Thierry Boutsen,Benetton,0.0
+284,1988,9,Alessandro Nannini,Benetton,0.0
+285,1988,9,Gabriele Tarquini,Coloni,0.0
+286,1988,9,Michele Alboreto,Ferrari,0.0
+287,1988,9,Riccardo Patrese,Williams,0.0
+288,1988,9,Maurício Gugelmin,March,0.0
+289,1988,9,Piercarlo Ghinzani,Zakspeed,0.0
+290,1988,9,Satoru Nakajima,Team Lotus,0.0
+291,1988,9,Nicola Larini,Osella,0.0
+292,1988,9,Gerhard Berger,Ferrari,0.0
+293,1988,9,Yannick Dalmas,Larrousse,0.0
+294,1988,9,Andrea de Cesaris,Rial,0.0
+295,1988,9,René Arnoux,Ligier,0.0
+296,1988,9,Luis Pérez-Sala,Minardi,0.0
+297,1988,9,Pierluigi Martini,Minardi,0.0
+298,1988,9,Stefano Modena,Euro Brun,0.0
+299,1988,9,Julian Bailey,Tyrrell,0.0
+300,1988,10,Gerhard Berger,Ferrari,9.0
+301,1988,10,Michele Alboreto,Ferrari,6.0
+302,1988,10,Eddie Cheever,Arrows,4.0
+303,1988,10,Derek Warwick,Arrows,3.0
+304,1988,10,Ivan Capelli,March,2.0
+305,1988,10,Thierry Boutsen,Benetton,1.0
+306,1988,10,Riccardo Patrese,Williams,0.0
+307,1988,10,Maurício Gugelmin,March,0.0
+308,1988,10,Alessandro Nannini,Benetton,0.0
+309,1988,10,Ayrton Senna,McLaren,0.0
+310,1988,10,Jean-Louis Schlesser,Williams,0.0
+311,1988,10,Julian Bailey,Tyrrell,0.0
+312,1988,10,René Arnoux,Ligier,0.0
+313,1988,10,Alain Prost,McLaren,0.0
+314,1988,10,Philippe Alliot,Larrousse,0.0
+315,1988,10,Philippe Streiff,AGS,0.0
+316,1988,10,Bernd Schneider,Zakspeed,0.0
+317,1988,10,Andrea de Cesaris,Rial,0.0
+318,1988,10,Piercarlo Ghinzani,Zakspeed,0.0
+319,1988,10,Alex Caffi,Dallara,0.0
+320,1988,10,Yannick Dalmas,Larrousse,0.0
+321,1988,10,Pierluigi Martini,Minardi,0.0
+322,1988,10,Satoru Nakajima,Team Lotus,0.0
+323,1988,10,Luis Pérez-Sala,Minardi,0.0
+324,1988,10,Nelson Piquet,Team Lotus,0.0
+325,1988,10,Nicola Larini,Osella,0.0
+326,1988,10,Jonathan Palmer,Tyrrell,0.0
+327,1988,10,Stefan Johansson,Ligier,0.0
+328,1988,10,Gabriele Tarquini,Coloni,0.0
+329,1988,10,Stefano Modena,Euro Brun,0.0
+330,1988,11,Alain Prost,McLaren,9.0
+331,1988,11,Ivan Capelli,March,6.0
+332,1988,11,Thierry Boutsen,Benetton,4.0
+333,1988,11,Derek Warwick,Arrows,3.0
+334,1988,11,Michele Alboreto,Ferrari,2.0
+335,1988,11,Ayrton Senna,McLaren,1.0
+336,1988,11,Alex Caffi,Dallara,0.0
+337,1988,11,Luis Pérez-Sala,Minardi,0.0
+338,1988,11,Philippe Streiff,AGS,0.0
+339,1988,11,René Arnoux,Ligier,0.0
+340,1988,11,Gabriele Tarquini,Coloni,0.0
+341,1988,11,Nicola Larini,Osella,0.0
+342,1988,11,Maurício Gugelmin,March,0.0
+343,1988,11,Nigel Mansell,Williams,0.0
+344,1988,11,Jonathan Palmer,Tyrrell,0.0
+345,1988,11,Alessandro Nannini,Benetton,0.0
+346,1988,11,Gerhard Berger,Ferrari,0.0
+347,1988,11,Nelson Piquet,Team Lotus,0.0
+348,1988,11,Riccardo Patrese,Williams,0.0
+349,1988,11,Pierluigi Martini,Minardi,0.0
+350,1988,11,Yannick Dalmas,Larrousse,0.0
+351,1988,11,Satoru Nakajima,Team Lotus,0.0
+352,1988,11,Andrea de Cesaris,Rial,0.0
+353,1988,11,Eddie Cheever,Arrows,0.0
+354,1988,11,Philippe Alliot,Larrousse,0.0
+355,1988,11,Stefan Johansson,Ligier,0.0
+356,1988,11,Julian Bailey,Tyrrell,0.0
+357,1988,11,Piercarlo Ghinzani,Zakspeed,0.0
+358,1988,11,Stefano Modena,Euro Brun,0.0
+359,1988,11,Bernd Schneider,Zakspeed,0.0
+360,1988,12,Alain Prost,McLaren,9.0
+361,1988,12,Nigel Mansell,Williams,6.0
+362,1988,12,Alessandro Nannini,Benetton,4.0
+363,1988,12,Ayrton Senna,McLaren,3.0
+364,1988,12,Riccardo Patrese,Williams,2.0
+365,1988,12,Gerhard Berger,Ferrari,1.0
+366,1988,12,Maurício Gugelmin,March,0.0
+367,1988,12,Nelson Piquet,Team Lotus,0.0
+368,1988,12,Thierry Boutsen,Benetton,0.0
+369,1988,12,Alex Caffi,Dallara,0.0
+370,1988,12,Yannick Dalmas,Larrousse,0.0
+371,1988,12,Luis Pérez-Sala,Minardi,0.0
+372,1988,12,Stefano Modena,Euro Brun,0.0
+373,1988,12,Philippe Alliot,Larrousse,0.0
+374,1988,12,Stefan Johansson,Ligier,0.0
+375,1988,12,Eddie Cheever,Arrows,0.0
+376,1988,12,Ivan Capelli,March,0.0
+377,1988,12,Derek Warwick,Arrows,0.0
+378,1988,12,Andrea de Cesaris,Rial,0.0
+379,1988,12,Philippe Streiff,AGS,0.0
+380,1988,12,Michele Alboreto,Ferrari,0.0
+381,1988,12,Pierluigi Martini,Minardi,0.0
+382,1988,12,Satoru Nakajima,Team Lotus,0.0
+383,1988,12,Nicola Larini,Osella,0.0
+384,1988,12,Jonathan Palmer,Tyrrell,0.0
+385,1988,12,René Arnoux,Ligier,0.0
+386,1988,12,Bernd Schneider,Zakspeed,0.0
+387,1988,12,Oscar Larrauri,Euro Brun,0.0
+388,1988,12,Julian Bailey,Tyrrell,0.0
+389,1988,12,Piercarlo Ghinzani,Zakspeed,0.0
+390,1988,13,Ayrton Senna,McLaren,9.0
+391,1988,13,Alain Prost,McLaren,6.0
+392,1988,13,Thierry Boutsen,Benetton,4.0
+393,1988,13,Gerhard Berger,Ferrari,3.0
+394,1988,13,Alessandro Nannini,Benetton,2.0
+395,1988,13,Riccardo Patrese,Williams,1.0
+396,1988,13,Satoru Nakajima,Team Lotus,0.0
+397,1988,13,Philippe Streiff,AGS,0.0
+398,1988,13,Philippe Alliot,Larrousse,0.0
+399,1988,13,Maurício Gugelmin,March,0.0
+400,1988,13,Michele Alboreto,Ferrari,0.0
+401,1988,13,Jonathan Palmer,Tyrrell,0.0
+402,1988,13,Pierluigi Martini,Minardi,0.0
+403,1988,13,Julian Bailey,Tyrrell,0.0
+404,1988,13,Luis Pérez-Sala,Minardi,0.0
+405,1988,13,Aguri Suzuki,Larrousse,0.0
+406,1988,13,René Arnoux,Ligier,0.0
+407,1988,13,Andrea de Cesaris,Rial,0.0
+408,1988,13,Eddie Cheever,Arrows,0.0
+409,1988,13,Nicola Larini,Osella,0.0
+410,1988,13,Nelson Piquet,Team Lotus,0.0
+411,1988,13,Nigel Mansell,Williams,0.0
+412,1988,13,Alex Caffi,Dallara,0.0
+413,1988,13,Ivan Capelli,March,0.0
+414,1988,13,Derek Warwick,Arrows,0.0
+415,1988,13,Bernd Schneider,Zakspeed,0.0
+416,1988,13,Stefan Johansson,Ligier,0.0
+417,1988,13,Oscar Larrauri,Euro Brun,0.0
+418,1988,13,Piercarlo Ghinzani,Zakspeed,0.0
+419,1988,13,Stefano Modena,Euro Brun,0.0
+420,1988,14,Alain Prost,McLaren,9.0
+421,1988,14,Ayrton Senna,McLaren,6.0
+422,1988,14,Nelson Piquet,Team Lotus,4.0
+423,1988,14,Riccardo Patrese,Williams,3.0
+424,1988,14,Thierry Boutsen,Benetton,2.0
+425,1988,14,Ivan Capelli,March,1.0
+426,1988,14,Pierluigi Martini,Minardi,0.0
+427,1988,14,Andrea de Cesaris,Rial,0.0
+428,1988,14,Stefan Johansson,Ligier,0.0
+429,1988,14,Philippe Alliot,Larrousse,0.0
+430,1988,14,Philippe Streiff,AGS,0.0
+431,1988,14,Piercarlo Ghinzani,Zakspeed,0.0
+432,1988,14,Nigel Mansell,Williams,0.0
+433,1988,14,Alessandro Nannini,Benetton,0.0
+434,1988,14,Stefano Modena,Euro Brun,0.0
+435,1988,14,Derek Warwick,Arrows,0.0
+436,1988,14,Eddie Cheever,Arrows,0.0
+437,1988,14,Maurício Gugelmin,March,0.0
+438,1988,14,Satoru Nakajima,Team Lotus,0.0
+439,1988,14,Luis Pérez-Sala,Minardi,0.0
+440,1988,14,Alex Caffi,Dallara,0.0
+441,1988,14,Gerhard Berger,Ferrari,0.0
+442,1988,14,René Arnoux,Ligier,0.0
+443,1988,14,Jonathan Palmer,Tyrrell,0.0
+444,1988,14,Oscar Larrauri,Euro Brun,0.0
+445,1988,14,Michele Alboreto,Ferrari,0.0
+446,1988,14,Gabriele Tarquini,Coloni,0.0
+447,1988,14,Julian Bailey,Tyrrell,0.0
+448,1988,14,Pierre-Henri Raphanel,Larrousse,0.0
+449,1988,14,Bernd Schneider,Zakspeed,0.0
